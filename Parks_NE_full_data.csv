@@ -1,841 +1,841 @@
 ,ParkCode,Month,Visitors,StateCode,Full Name,Lat,Lon
-0,wefa,0,930,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-1,wefa,1,800,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-2,wefa,2,1156,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-3,wefa,3,2510,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-4,wefa,4,4972,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-5,wefa,5,5404,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-6,wefa,6,5079,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-7,wefa,7,6197,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-8,wefa,8,4180,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-9,wefa,9,5297,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-10,wefa,10,1150,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-11,wefa,11,1025,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
-12,acad,0,8532,ME,Acadia National Park,44.30777545,-68.30063316
-13,acad,1,9154,ME,Acadia National Park,44.30777545,-68.30063316
-14,acad,2,20161,ME,Acadia National Park,44.30777545,-68.30063316
-15,acad,3,68046,ME,Acadia National Park,44.30777545,-68.30063316
-16,acad,4,226156,ME,Acadia National Park,44.30777545,-68.30063316
-17,acad,5,490720,ME,Acadia National Park,44.30777545,-68.30063316
-18,acad,6,756439,ME,Acadia National Park,44.30777545,-68.30063316
-19,acad,7,759735,ME,Acadia National Park,44.30777545,-68.30063316
-20,acad,8,603273,ME,Acadia National Park,44.30777545,-68.30063316
-21,acad,9,436194,ME,Acadia National Park,44.30777545,-68.30063316
-22,acad,10,46011,ME,Acadia National Park,44.30777545,-68.30063316
-23,acad,11,12865,ME,Acadia National Park,44.30777545,-68.30063316
-24,sacr,0,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-25,sacr,1,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-26,sacr,2,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-27,sacr,3,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-28,sacr,4,1052,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-29,sacr,5,1644,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-30,sacr,6,2671,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-31,sacr,7,2657,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-32,sacr,8,2251,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-33,sacr,9,1338,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-34,sacr,10,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-35,sacr,11,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
-36,adam,0,27,MA,Adams National Historical Park,42.2553961,-71.01160356
-37,adam,1,179,MA,Adams National Historical Park,42.2553961,-71.01160356
-38,adam,2,253,MA,Adams National Historical Park,42.2553961,-71.01160356
-39,adam,3,537,MA,Adams National Historical Park,42.2553961,-71.01160356
-40,adam,4,13187,MA,Adams National Historical Park,42.2553961,-71.01160356
-41,adam,5,23963,MA,Adams National Historical Park,42.2553961,-71.01160356
-42,adam,6,75333,MA,Adams National Historical Park,42.2553961,-71.01160356
-43,adam,7,26011,MA,Adams National Historical Park,42.2553961,-71.01160356
-44,adam,8,19602,MA,Adams National Historical Park,42.2553961,-71.01160356
-45,adam,9,22021,MA,Adams National Historical Park,42.2553961,-71.01160356
-46,adam,10,6031,MA,Adams National Historical Park,42.2553961,-71.01160356
-47,adam,11,256,MA,Adams National Historical Park,42.2553961,-71.01160356
-48,boaf,0,2349,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-49,boaf,1,6113,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-50,boaf,2,5988,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-51,boaf,3,7817,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-52,boaf,4,41769,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-53,boaf,5,100652,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-54,boaf,6,95579,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-55,boaf,7,88618,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-56,boaf,8,32197,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-57,boaf,9,21473,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-58,boaf,10,10269,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-59,boaf,11,6761,MA,Boston African American National Historic Site,42.35908295,-71.06764181
-60,bost,0,54898,MA,Boston National Historical Park,42.36957407,-71.05536763
-61,bost,1,82987,MA,Boston National Historical Park,42.36957407,-71.05536763
-62,bost,2,153851,MA,Boston National Historical Park,42.36957407,-71.05536763
-63,bost,3,229628,MA,Boston National Historical Park,42.36957407,-71.05536763
-64,bost,4,298885,MA,Boston National Historical Park,42.36957407,-71.05536763
-65,bost,5,405914,MA,Boston National Historical Park,42.36957407,-71.05536763
-66,bost,6,505800,MA,Boston National Historical Park,42.36957407,-71.05536763
-67,bost,7,456429,MA,Boston National Historical Park,42.36957407,-71.05536763
-68,bost,8,353098,MA,Boston National Historical Park,42.36957407,-71.05536763
-69,bost,9,359876,MA,Boston National Historical Park,42.36957407,-71.05536763
-70,bost,10,172784,MA,Boston National Historical Park,42.36957407,-71.05536763
-71,bost,11,127684,MA,Boston National Historical Park,42.36957407,-71.05536763
-72,caco,0,114182,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-73,caco,1,131478,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-74,caco,2,158934,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-75,caco,3,216513,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-76,caco,4,361965,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-77,caco,5,444653,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-78,caco,6,660198,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-79,caco,7,752184,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-80,caco,8,554274,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-81,caco,9,329706,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-82,caco,10,181896,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-83,caco,11,190121,MA,Cape Cod National Seashore,41.92381465,-70.04319832
-84,frla,0,12,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-85,frla,1,105,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-86,frla,2,343,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-87,frla,3,865,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-88,frla,4,328,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-89,frla,5,623,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-90,frla,6,913,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-91,frla,7,959,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-92,frla,8,1703,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-93,frla,9,1233,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-94,frla,10,634,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-95,frla,11,73,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
-96,jofi,0,3,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-97,jofi,1,146,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-98,jofi,2,217,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-99,jofi,3,543,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-100,jofi,4,1853,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-101,jofi,5,3023,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-102,jofi,6,3531,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-103,jofi,7,3702,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-104,jofi,8,2885,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-105,jofi,9,8532,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-106,jofi,10,267,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-107,jofi,11,136,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
-108,long,0,620,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-109,long,1,851,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-110,long,2,1295,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-111,long,3,2305,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-112,long,4,5054,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-113,long,5,9337,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-114,long,6,8219,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-115,long,7,8335,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-116,long,8,8660,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-117,long,9,6296,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-118,long,10,2237,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-119,long,11,1803,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
-120,lowe,0,1440,MA,Lowell National Historical Park,42.6455371,-71.31588673
-121,lowe,1,35507,MA,Lowell National Historical Park,42.6455371,-71.31588673
-122,lowe,2,25109,MA,Lowell National Historical Park,42.6455371,-71.31588673
-123,lowe,3,24685,MA,Lowell National Historical Park,42.6455371,-71.31588673
-124,lowe,4,33952,MA,Lowell National Historical Park,42.6455371,-71.31588673
-125,lowe,5,30219,MA,Lowell National Historical Park,42.6455371,-71.31588673
-126,lowe,6,190450,MA,Lowell National Historical Park,42.6455371,-71.31588673
-127,lowe,7,52149,MA,Lowell National Historical Park,42.6455371,-71.31588673
-128,lowe,8,16228,MA,Lowell National Historical Park,42.6455371,-71.31588673
-129,lowe,9,19620,MA,Lowell National Historical Park,42.6455371,-71.31588673
-130,lowe,10,44091,MA,Lowell National Historical Park,42.6455371,-71.31588673
-131,lowe,11,8086,MA,Lowell National Historical Park,42.6455371,-71.31588673
-132,mima,0,37648,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-133,mima,1,27742,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-134,mima,2,50337,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-135,mima,3,124123,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-136,mima,4,120867,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-137,mima,5,110580,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-138,mima,6,117180,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-139,mima,7,106075,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-140,mima,8,93288,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-141,mima,9,122114,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-142,mima,10,55468,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-143,mima,11,51904,MA,Minute Man National Historical Park,42.4562778,-71.30738884
-144,nebe,0,3853,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-145,nebe,1,5903,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-146,nebe,2,7656,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-147,nebe,3,10776,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-148,nebe,4,12236,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-149,nebe,5,15416,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-150,nebe,6,21808,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-151,nebe,7,22492,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-152,nebe,8,13657,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-153,nebe,9,13748,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-154,nebe,10,7976,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-155,nebe,11,7906,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
-156,sama,0,422,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-157,sama,1,4402,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-158,sama,2,7891,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-159,sama,3,14802,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-160,sama,4,20634,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-161,sama,5,36138,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-162,sama,6,45454,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-163,sama,7,40384,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-164,sama,8,36971,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-165,sama,9,113216,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-166,sama,10,14074,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-167,sama,11,4850,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
-168,sair,0,150,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-169,sair,1,372,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-170,sair,2,481,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-171,sair,3,534,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-172,sair,4,375,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-173,sair,5,1342,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-174,sair,6,1195,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-175,sair,7,1434,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-176,sair,8,1230,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-177,sair,9,1037,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-178,sair,10,0,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-179,sair,11,0,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
-180,spar,0,56,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-181,spar,1,981,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-182,spar,2,1277,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-183,spar,3,1316,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-184,spar,4,1448,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-185,spar,5,2744,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-186,spar,6,3203,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-187,spar,7,2660,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-188,spar,8,2698,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-189,spar,9,2247,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-190,spar,10,1382,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-191,spar,11,967,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
-192,saga,0,195,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-193,saga,1,253,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-194,saga,2,260,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-195,saga,3,385,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-196,saga,4,1366,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-197,saga,5,4510,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-198,saga,6,5870,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-199,saga,7,8303,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-200,saga,8,5340,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-201,saga,9,4545,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-202,saga,10,510,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-203,saga,11,222,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
-204,morr,0,628,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-205,morr,1,14567,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-206,morr,2,15397,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-207,morr,3,28313,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-208,morr,4,25772,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-209,morr,5,27103,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-210,morr,6,34704,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-211,morr,7,25948,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-212,morr,8,35543,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-213,morr,9,28944,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-214,morr,10,20415,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-215,morr,11,13996,NJ,Morristown National Historical Park,40.7650755,-74.53455122
-216,pagr,0,6564,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-217,pagr,1,11456,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-218,pagr,2,10610,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-219,pagr,3,15608,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-220,pagr,4,13691,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-221,pagr,5,40051,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-222,pagr,6,42046,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-223,pagr,7,46204,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-224,pagr,8,51278,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-225,pagr,9,19210,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-226,pagr,10,15058,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-227,pagr,11,5209,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
-228,edis,0,1957,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-229,edis,1,1957,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-230,edis,2,2560,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-231,edis,3,3295,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-232,edis,4,3408,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-233,edis,5,4792,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-234,edis,6,5067,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-235,edis,7,6102,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-236,edis,8,2603,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-237,edis,9,3106,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-238,edis,10,4197,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-239,edis,11,3180,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
-240,afbg,0,96,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-241,afbg,1,1571,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-242,afbg,2,1395,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-243,afbg,3,5022,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-244,afbg,4,5482,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-245,afbg,5,4621,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-246,afbg,6,5520,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-247,afbg,7,4332,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-248,afbg,8,4384,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-249,afbg,9,8667,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-250,afbg,10,2058,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-251,afbg,11,4279,NY,African Burial Ground National Monument,40.71452681,-74.00447358
-252,cacl,0,181143,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-253,cacl,1,193675,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-254,cacl,2,269440,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-255,cacl,3,412122,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-256,cacl,4,413828,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-257,cacl,5,468687,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-258,cacl,6,558814,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-259,cacl,7,550729,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-260,cacl,8,372332,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-261,cacl,9,375893,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-262,cacl,10,271108,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-263,cacl,11,293263,NY,Castle Clinton National Monument,40.70347795,-74.01680558
-264,elro,0,88,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-265,elro,1,570,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-266,elro,2,1210,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-267,elro,3,2237,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-268,elro,4,4804,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-269,elro,5,6344,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-270,elro,6,6965,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-271,elro,7,6914,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-272,elro,8,7294,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-273,elro,9,8612,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-274,elro,10,1918,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-275,elro,11,674,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
-276,feha,0,2720,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-277,feha,1,15121,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-278,feha,2,21239,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-279,feha,3,28577,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-280,feha,4,27693,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-281,feha,5,31307,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-282,feha,6,36042,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-283,feha,7,33851,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-284,feha,8,15888,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-285,feha,9,20505,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-286,feha,10,16351,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-287,feha,11,15555,NY,Federal Hall National Memorial,40.70731192,-74.01025636
-288,fiis,0,4163,NY,Fire Island National Seashore,40.69668638,-73.00013462
-289,fiis,1,8406,NY,Fire Island National Seashore,40.69668638,-73.00013462
-290,fiis,2,10772,NY,Fire Island National Seashore,40.69668638,-73.00013462
-291,fiis,3,13027,NY,Fire Island National Seashore,40.69668638,-73.00013462
-292,fiis,4,28430,NY,Fire Island National Seashore,40.69668638,-73.00013462
-293,fiis,5,46572,NY,Fire Island National Seashore,40.69668638,-73.00013462
-294,fiis,6,80760,NY,Fire Island National Seashore,40.69668638,-73.00013462
-295,fiis,7,99007,NY,Fire Island National Seashore,40.69668638,-73.00013462
-296,fiis,8,47798,NY,Fire Island National Seashore,40.69668638,-73.00013462
-297,fiis,9,25520,NY,Fire Island National Seashore,40.69668638,-73.00013462
-298,fiis,10,15552,NY,Fire Island National Seashore,40.69668638,-73.00013462
-299,fiis,11,11304,NY,Fire Island National Seashore,40.69668638,-73.00013462
-300,fost,0,1879,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-301,fost,1,1262,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-302,fost,2,2106,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-303,fost,3,5425,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-304,fost,4,7967,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-305,fost,5,11884,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-306,fost,6,34923,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-307,fost,7,10613,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-308,fost,8,10610,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-309,fost,9,6425,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-310,fost,10,2760,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-311,fost,11,1558,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
-312,gate,0,504178,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-313,gate,1,543132,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-314,gate,2,653021,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-315,gate,3,662417,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-316,gate,4,818697,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-317,gate,5,1055032,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-318,gate,6,1223949,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-319,gate,7,1085625,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-320,gate,8,908313,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-321,gate,9,733807,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-322,gate,10,655858,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-323,gate,11,561593,NY,Gateway National Recreation Area,40.56536246,-73.9171087
-324,gegr,0,611,NY,General Grant National Memorial,40.81332817,-73.96331542
-325,gegr,1,2870,NY,General Grant National Memorial,40.81332817,-73.96331542
-326,gegr,2,4590,NY,General Grant National Memorial,40.81332817,-73.96331542
-327,gegr,3,6421,NY,General Grant National Memorial,40.81332817,-73.96331542
-328,gegr,4,7422,NY,General Grant National Memorial,40.81332817,-73.96331542
-329,gegr,5,7737,NY,General Grant National Memorial,40.81332817,-73.96331542
-330,gegr,6,37438,NY,General Grant National Memorial,40.81332817,-73.96331542
-331,gegr,7,12219,NY,General Grant National Memorial,40.81332817,-73.96331542
-332,gegr,8,12421,NY,General Grant National Memorial,40.81332817,-73.96331542
-333,gegr,9,9190,NY,General Grant National Memorial,40.81332817,-73.96331542
-334,gegr,10,7033,NY,General Grant National Memorial,40.81332817,-73.96331542
-335,gegr,11,5900,NY,General Grant National Memorial,40.81332817,-73.96331542
-336,gois,0,0,NY,Governors Island National Monument,40.69164233,-74.01670765
-337,gois,1,40,NY,Governors Island National Monument,40.69164233,-74.01670765
-338,gois,2,40,NY,Governors Island National Monument,40.69164233,-74.01670765
-339,gois,3,35,NY,Governors Island National Monument,40.69164233,-74.01670765
-340,gois,4,81095,NY,Governors Island National Monument,40.69164233,-74.01670765
-341,gois,5,104916,NY,Governors Island National Monument,40.69164233,-74.01670765
-342,gois,6,105625,NY,Governors Island National Monument,40.69164233,-74.01670765
-343,gois,7,145081,NY,Governors Island National Monument,40.69164233,-74.01670765
-344,gois,8,106971,NY,Governors Island National Monument,40.69164233,-74.01670765
-345,gois,9,47190,NY,Governors Island National Monument,40.69164233,-74.01670765
-346,gois,10,0,NY,Governors Island National Monument,40.69164233,-74.01670765
-347,gois,11,0,NY,Governors Island National Monument,40.69164233,-74.01670765
-348,hagr,0,495,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-349,hagr,1,3901,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-350,hagr,2,5074,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-351,hagr,3,5449,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-352,hagr,4,4971,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-353,hagr,5,6008,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-354,hagr,6,7997,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-355,hagr,7,8295,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-356,hagr,8,4409,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-357,hagr,9,5381,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-358,hagr,10,10485,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-359,hagr,11,8782,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
-360,hofr,0,780,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-361,hofr,1,4732,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-362,hofr,2,6914,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-363,hofr,3,11968,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-364,hofr,4,15976,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-365,hofr,5,18420,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-366,hofr,6,16516,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-367,hofr,7,17913,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-368,hofr,8,17791,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-369,hofr,9,21164,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-370,hofr,10,9760,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-371,hofr,11,5175,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
-372,mava,0,100,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-373,mava,1,150,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-374,mava,2,150,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-375,mava,3,474,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-376,mava,4,1555,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-377,mava,5,3535,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-378,mava,6,4472,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-379,mava,7,3896,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-380,mava,8,2433,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-381,mava,9,2689,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-382,mava,10,583,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-383,mava,11,586,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
-384,sahi,0,135,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-385,sahi,1,1952,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-386,sahi,2,1987,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-387,sahi,3,3071,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-388,sahi,4,4363,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-389,sahi,5,3551,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-390,sahi,6,5429,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-391,sahi,7,4436,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-392,sahi,8,4325,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-393,sahi,9,4101,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-394,sahi,10,1967,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-395,sahi,11,1421,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
-396,sapa,0,160,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-397,sapa,1,2025,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-398,sapa,2,1975,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-399,sapa,3,1160,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-400,sapa,4,2365,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-401,sapa,5,2170,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-402,sapa,6,1320,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-403,sapa,7,930,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-404,sapa,8,910,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-405,sapa,9,2777,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-406,sapa,10,1465,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-407,sapa,11,1280,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
-408,sara,0,3165,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-409,sara,1,6036,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-410,sara,2,6545,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-411,sara,3,7100,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-412,sara,4,11647,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-413,sara,5,17898,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-414,sara,6,35516,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-415,sara,7,24443,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-416,sara,8,10259,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-417,sara,9,9764,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-418,sara,10,6130,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-419,sara,11,6615,NY,Saratoga National Historical Park,42.99522612,-73.63386108
-420,stli,0,155691,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-421,stli,1,154755,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-422,stli,2,279547,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-423,stli,3,397540,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-424,stli,4,421176,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-425,stli,5,487809,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-426,stli,6,567256,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-427,stli,7,541258,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-428,stli,8,359037,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-429,stli,9,350174,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-430,stli,10,253489,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-431,stli,11,272729,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
-432,ston,0,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-433,ston,1,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-434,ston,2,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-435,ston,3,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-436,ston,4,12118,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-437,ston,5,2023362,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-438,ston,6,18660,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-439,ston,7,24560,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-440,ston,8,5000,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-441,ston,9,5229,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-442,ston,10,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-443,ston,11,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
-444,thrb,0,189,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-445,thrb,1,2013,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-446,thrb,2,2907,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-447,thrb,3,2393,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-448,thrb,4,2666,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-449,thrb,5,2330,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-450,thrb,6,2677,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-451,thrb,7,2702,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-452,thrb,8,1793,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-453,thrb,9,2282,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-454,thrb,10,1988,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-455,thrb,11,2038,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
-456,thri,0,1349,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-457,thri,1,1304,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-458,thri,2,1686,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-459,thri,3,1879,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-460,thri,4,2455,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-461,thri,5,3089,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-462,thri,6,3189,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-463,thri,7,2803,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-464,thri,8,2787,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-465,thri,9,2190,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-466,thri,10,1704,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-467,thri,11,2559,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
-468,vama,0,160,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-469,vama,1,22763,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-470,vama,2,24580,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-471,vama,3,27359,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-472,vama,4,37694,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-473,vama,5,30354,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-474,vama,6,36813,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-475,vama,7,37928,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-476,vama,8,32632,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-477,vama,9,43203,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-478,vama,10,20817,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-479,vama,11,12519,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
-480,wori,0,13,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-481,wori,1,473,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-482,wori,2,1759,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-483,wori,3,1900,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-484,wori,4,3458,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-485,wori,5,5247,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-486,wori,6,8863,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-487,wori,7,5821,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-488,wori,8,3935,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-489,wori,9,4493,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-490,wori,10,1551,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-491,wori,11,1551,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
-492,alpo,0,9975,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-493,alpo,1,8874,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-494,alpo,2,11908,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-495,alpo,3,16847,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-496,alpo,4,16008,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-497,alpo,5,19590,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-498,alpo,6,23073,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-499,alpo,7,20404,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-500,alpo,8,19387,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-501,alpo,9,18642,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-502,alpo,10,13453,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-503,alpo,11,11028,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
-504,dewa,0,130962,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-505,dewa,1,156297,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-506,dewa,2,146048,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-507,dewa,3,249160,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-508,dewa,4,336632,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-509,dewa,5,355136,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-510,dewa,6,510552,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-511,dewa,7,434019,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-512,dewa,8,328025,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-513,dewa,9,301758,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-514,dewa,10,254518,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-515,dewa,11,171758,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
-516,edal,0,162,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-517,edal,1,957,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-518,edal,2,1566,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-519,edal,3,1406,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-520,edal,4,1446,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-521,edal,5,1461,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-522,edal,6,1608,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-523,edal,7,1665,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-524,edal,8,1224,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-525,edal,9,1565,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-526,edal,10,1574,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-527,edal,11,893,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
-528,eise,0,0,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-529,eise,1,250,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-530,eise,2,1262,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-531,eise,3,3957,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-532,eise,4,5235,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-533,eise,5,6942,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-534,eise,6,6542,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-535,eise,7,5718,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-536,eise,8,8362,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-537,eise,9,5435,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-538,eise,10,1833,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-539,eise,11,1741,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
-540,flni,0,3070,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-541,flni,1,6837,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-542,flni,2,17606,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-543,flni,3,27680,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-544,flni,4,45431,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-545,flni,5,45987,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-546,flni,6,56264,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-547,flni,7,51672,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-548,flni,8,61091,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-549,flni,9,62387,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-550,flni,10,24130,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-551,flni,11,9071,PA,Flight 93 National Memorial,40.06061476,-78.89456905
-552,fone,0,1607,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-553,fone,1,2268,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-554,fone,2,4321,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-555,fone,3,7607,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-556,fone,4,39548,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-557,fone,5,46160,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-558,fone,6,54756,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-559,fone,7,52716,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-560,fone,8,32082,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-561,fone,9,34186,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-562,fone,10,25101,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-563,fone,11,11752,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
-564,frhi,0,524,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-565,frhi,1,690,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-566,frhi,2,1240,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-567,frhi,3,1338,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-568,frhi,4,2981,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-569,frhi,5,2768,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-570,frhi,6,3167,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-571,frhi,7,2541,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-572,frhi,8,14335,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-573,frhi,9,2348,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-574,frhi,10,1355,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-575,frhi,11,872,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
-576,gett,0,13512,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-577,gett,1,19119,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-578,gett,2,57132,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-579,gett,3,101306,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-580,gett,4,145028,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-581,gett,5,128930,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-582,gett,6,118230,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-583,gett,7,93228,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-584,gett,8,82542,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-585,gett,9,100427,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-586,gett,10,46198,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-587,gett,11,19465,PA,Gettysburg National Military Park,39.81557366,-77.23246758
-588,hofu,0,311,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-589,hofu,1,2098,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-590,hofu,2,3472,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-591,hofu,3,4172,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-592,hofu,4,4958,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-593,hofu,5,5781,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-594,hofu,6,6618,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-595,hofu,7,7319,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-596,hofu,8,7338,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-597,hofu,9,3694,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-598,hofu,10,2948,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-599,hofu,11,1152,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
-600,inde,0,59682,PA,Independence National Historical Park,39.94746112,-75.14794157
-601,inde,1,179578,PA,Independence National Historical Park,39.94746112,-75.14794157
-602,inde,2,309348,PA,Independence National Historical Park,39.94746112,-75.14794157
-603,inde,3,455740,PA,Independence National Historical Park,39.94746112,-75.14794157
-604,inde,4,548136,PA,Independence National Historical Park,39.94746112,-75.14794157
-605,inde,5,574706,PA,Independence National Historical Park,39.94746112,-75.14794157
-606,inde,6,553191,PA,Independence National Historical Park,39.94746112,-75.14794157
-607,inde,7,473898,PA,Independence National Historical Park,39.94746112,-75.14794157
-608,inde,8,409902,PA,Independence National Historical Park,39.94746112,-75.14794157
-609,inde,9,362563,PA,Independence National Historical Park,39.94746112,-75.14794157
-610,inde,10,336151,PA,Independence National Historical Park,39.94746112,-75.14794157
-611,inde,11,269564,PA,Independence National Historical Park,39.94746112,-75.14794157
-612,jofl,0,7,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-613,jofl,1,2482,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-614,jofl,2,5484,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-615,jofl,3,13921,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-616,jofl,4,25716,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-617,jofl,5,13573,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-618,jofl,6,24461,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-619,jofl,7,29160,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-620,jofl,8,24844,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-621,jofl,9,24470,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-622,jofl,10,12444,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-623,jofl,11,6581,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
-624,stea,0,1091,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-625,stea,1,2950,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-626,stea,2,4542,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-627,stea,3,7264,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-628,stea,4,10066,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-629,stea,5,13036,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-630,stea,6,15712,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-631,stea,7,16327,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-632,stea,8,11206,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-633,stea,9,10454,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-634,stea,10,7493,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-635,stea,11,5262,PA,Steamtown National Historic Site,41.40757521,-75.67037255
-636,thko,0,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-637,thko,1,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-638,thko,2,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-639,thko,3,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-640,thko,4,309,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-641,thko,5,266,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-642,thko,6,339,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-643,thko,7,368,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-644,thko,8,322,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-645,thko,9,317,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-646,thko,10,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-647,thko,11,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
-648,upde,0,2463,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-649,upde,1,4254,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-650,upde,2,5224,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-651,upde,3,5705,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-652,upde,4,22313,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-653,upde,5,27979,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-654,upde,6,54306,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-655,upde,7,49557,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-656,upde,8,30406,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-657,upde,9,8998,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-658,upde,10,2003,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-659,upde,11,2329,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
-660,vafo,0,30701,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-661,vafo,1,55154,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-662,vafo,2,168632,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-663,vafo,3,159434,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-664,vafo,4,190681,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-665,vafo,5,218531,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-666,vafo,6,346020,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-667,vafo,7,355046,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-668,vafo,8,232761,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-669,vafo,9,247953,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-670,vafo,10,149850,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-671,vafo,11,105181,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
-672,rowi,0,116,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-673,rowi,1,1634,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-674,rowi,2,2206,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-675,rowi,3,4717,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-676,rowi,4,5156,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-677,rowi,5,8622,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-678,rowi,6,9211,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-679,rowi,7,8918,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-680,rowi,8,6317,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-681,rowi,9,7254,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-682,rowi,10,3522,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-683,rowi,11,1746,RI,Roger Williams National Memorial,41.8298955,-71.41056665
-684,mabi,0,1356,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-685,mabi,1,1604,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-686,mabi,2,1748,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-687,mabi,3,1489,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-688,mabi,4,3275,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-689,mabi,5,5663,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-690,mabi,6,6661,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-691,mabi,7,7104,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-692,mabi,8,6076,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-693,mabi,9,7341,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-694,mabi,10,2092,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-695,mabi,11,1570,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
-696,anti,0,1280,MD,Antietam National Battlefield,39.46763452,-77.73828017
-697,anti,1,6421,MD,Antietam National Battlefield,39.46763452,-77.73828017
-698,anti,2,15462,MD,Antietam National Battlefield,39.46763452,-77.73828017
-699,anti,3,24037,MD,Antietam National Battlefield,39.46763452,-77.73828017
-700,anti,4,33228,MD,Antietam National Battlefield,39.46763452,-77.73828017
-701,anti,5,37948,MD,Antietam National Battlefield,39.46763452,-77.73828017
-702,anti,6,48965,MD,Antietam National Battlefield,39.46763452,-77.73828017
-703,anti,7,33531,MD,Antietam National Battlefield,39.46763452,-77.73828017
-704,anti,8,27684,MD,Antietam National Battlefield,39.46763452,-77.73828017
-705,anti,9,28643,MD,Antietam National Battlefield,39.46763452,-77.73828017
-706,anti,10,16173,MD,Antietam National Battlefield,39.46763452,-77.73828017
-707,anti,11,13971,MD,Antietam National Battlefield,39.46763452,-77.73828017
-708,asis,0,64032,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-709,asis,1,43977,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-710,asis,2,74089,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-711,asis,3,153044,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-712,asis,4,199049,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-713,asis,5,312094,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-714,asis,6,502416,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-715,asis,7,453668,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-716,asis,8,274394,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-717,asis,9,144479,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-718,asis,10,76779,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-719,asis,11,46515,MD,Assateague Island National Seashore,38.05593172,-75.24524611
-720,cato,0,9339,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-721,cato,1,3243,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-722,cato,2,21266,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-723,cato,3,25887,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-724,cato,4,9419,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-725,cato,5,48622,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-726,cato,6,34384,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-727,cato,7,32928,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-728,cato,8,34645,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-729,cato,9,42065,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-730,cato,10,23371,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-731,cato,11,11677,MD,Catoctin Mountain Park,39.65068457,-77.46417665
-732,choh,0,199712,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-733,choh,1,200441,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-734,choh,2,287249,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-735,choh,3,425458,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-736,choh,4,512921,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-737,choh,5,704171,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-738,choh,6,622845,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-739,choh,7,569556,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-740,choh,8,574676,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-741,choh,9,426628,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-742,choh,10,358222,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-743,choh,11,234908,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
-744,clba,0,0,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-745,clba,1,100,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-746,clba,2,350,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-747,clba,3,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-748,clba,4,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-749,clba,5,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-750,clba,6,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-751,clba,7,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-752,clba,8,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-753,clba,9,400,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-754,clba,10,350,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-755,clba,11,200,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
-756,fomc,0,486,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-757,fomc,1,18712,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-758,fomc,2,31629,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-759,fomc,3,54103,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-760,fomc,4,66277,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-761,fomc,5,50213,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-762,fomc,6,51087,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-763,fomc,7,50600,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-764,fomc,8,56251,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-765,fomc,9,19998,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-766,fomc,10,11496,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-767,fomc,11,8693,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
-768,fowa,0,1034,MD,Fort Washington Park,38.70875364,-77.02174195
-769,fowa,1,7685,MD,Fort Washington Park,38.70875364,-77.02174195
-770,fowa,2,53852,MD,Fort Washington Park,38.70875364,-77.02174195
-771,fowa,3,45809,MD,Fort Washington Park,38.70875364,-77.02174195
-772,fowa,4,57676,MD,Fort Washington Park,38.70875364,-77.02174195
-773,fowa,5,63195,MD,Fort Washington Park,38.70875364,-77.02174195
-774,fowa,6,66778,MD,Fort Washington Park,38.70875364,-77.02174195
-775,fowa,7,43748,MD,Fort Washington Park,38.70875364,-77.02174195
-776,fowa,8,38388,MD,Fort Washington Park,38.70875364,-77.02174195
-777,fowa,9,17352,MD,Fort Washington Park,38.70875364,-77.02174195
-778,fowa,10,16756,MD,Fort Washington Park,38.70875364,-77.02174195
-779,fowa,11,11595,MD,Fort Washington Park,38.70875364,-77.02174195
-780,gree,0,1437,MD,Greenbelt Park,38.98328267,-76.89722133
-781,gree,1,5262,MD,Greenbelt Park,38.98328267,-76.89722133
-782,gree,2,12559,MD,Greenbelt Park,38.98328267,-76.89722133
-783,gree,3,18189,MD,Greenbelt Park,38.98328267,-76.89722133
-784,gree,4,23552,MD,Greenbelt Park,38.98328267,-76.89722133
-785,gree,5,23643,MD,Greenbelt Park,38.98328267,-76.89722133
-786,gree,6,19030,MD,Greenbelt Park,38.98328267,-76.89722133
-787,gree,7,18094,MD,Greenbelt Park,38.98328267,-76.89722133
-788,gree,8,3436,MD,Greenbelt Park,38.98328267,-76.89722133
-789,gree,9,1500,MD,Greenbelt Park,38.98328267,-76.89722133
-790,gree,10,1000,MD,Greenbelt Park,38.98328267,-76.89722133
-791,gree,11,1000,MD,Greenbelt Park,38.98328267,-76.89722133
-792,hamp,0,15,MD,Hampton National Historic Site,39.4175296,-76.58781182
-793,hamp,1,2041,MD,Hampton National Historic Site,39.4175296,-76.58781182
-794,hamp,2,2243,MD,Hampton National Historic Site,39.4175296,-76.58781182
-795,hamp,3,2472,MD,Hampton National Historic Site,39.4175296,-76.58781182
-796,hamp,4,2642,MD,Hampton National Historic Site,39.4175296,-76.58781182
-797,hamp,5,2512,MD,Hampton National Historic Site,39.4175296,-76.58781182
-798,hamp,6,2334,MD,Hampton National Historic Site,39.4175296,-76.58781182
-799,hamp,7,2832,MD,Hampton National Historic Site,39.4175296,-76.58781182
-800,hamp,8,2134,MD,Hampton National Historic Site,39.4175296,-76.58781182
-801,hamp,9,2869,MD,Hampton National Historic Site,39.4175296,-76.58781182
-802,hamp,10,2544,MD,Hampton National Historic Site,39.4175296,-76.58781182
-803,hamp,11,3596,MD,Hampton National Historic Site,39.4175296,-76.58781182
-804,mono,0,5948,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-805,mono,1,1940,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-806,mono,2,10662,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-807,mono,3,11873,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-808,mono,4,14266,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-809,mono,5,18238,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-810,mono,6,16381,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-811,mono,7,15657,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-812,mono,8,21023,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-813,mono,9,13115,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-814,mono,10,7175,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-815,mono,11,8691,MD,Monocacy National Battlefield,39.36084236,-77.39637677
-816,pisc,0,4584,MD,Piscataway Park,38.68679958,-77.06659744
-817,pisc,1,14036,MD,Piscataway Park,38.68679958,-77.06659744
-818,pisc,2,23060,MD,Piscataway Park,38.68679958,-77.06659744
-819,pisc,3,22510,MD,Piscataway Park,38.68679958,-77.06659744
-820,pisc,4,29192,MD,Piscataway Park,38.68679958,-77.06659744
-821,pisc,5,32185,MD,Piscataway Park,38.68679958,-77.06659744
-822,pisc,6,38905,MD,Piscataway Park,38.68679958,-77.06659744
-823,pisc,7,43665,MD,Piscataway Park,38.68679958,-77.06659744
-824,pisc,8,38702,MD,Piscataway Park,38.68679958,-77.06659744
-825,pisc,9,47036,MD,Piscataway Park,38.68679958,-77.06659744
-826,pisc,10,22684,MD,Piscataway Park,38.68679958,-77.06659744
-827,pisc,11,13170,MD,Piscataway Park,38.68679958,-77.06659744
-828,thst,0,108,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-829,thst,1,167,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-830,thst,2,352,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-831,thst,3,1137,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-832,thst,4,786,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-833,thst,5,695,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-834,thst,6,594,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-835,thst,7,539,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-836,thst,8,1493,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-837,thst,9,1053,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-838,thst,10,568,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
-839,thst,11,528,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+0,wefa,1,930,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+1,wefa,2,800,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+2,wefa,3,1156,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+3,wefa,4,2510,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+4,wefa,5,4972,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+5,wefa,6,5404,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+6,wefa,7,5079,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+7,wefa,8,6197,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+8,wefa,9,4180,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+9,wefa,10,5297,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+10,wefa,11,1150,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+11,wefa,12,1025,CT,Weir Farm National Historic Site,41.25886268,-73.45452542
+12,acad,1,8532,ME,Acadia National Park,44.30777545,-68.30063316
+13,acad,2,9154,ME,Acadia National Park,44.30777545,-68.30063316
+14,acad,3,20161,ME,Acadia National Park,44.30777545,-68.30063316
+15,acad,4,68046,ME,Acadia National Park,44.30777545,-68.30063316
+16,acad,5,226156,ME,Acadia National Park,44.30777545,-68.30063316
+17,acad,6,490720,ME,Acadia National Park,44.30777545,-68.30063316
+18,acad,7,756439,ME,Acadia National Park,44.30777545,-68.30063316
+19,acad,8,759735,ME,Acadia National Park,44.30777545,-68.30063316
+20,acad,9,603273,ME,Acadia National Park,44.30777545,-68.30063316
+21,acad,10,436194,ME,Acadia National Park,44.30777545,-68.30063316
+22,acad,11,46011,ME,Acadia National Park,44.30777545,-68.30063316
+23,acad,12,12865,ME,Acadia National Park,44.30777545,-68.30063316
+24,sacr,1,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+25,sacr,2,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+26,sacr,3,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+27,sacr,4,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+28,sacr,5,1052,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+29,sacr,6,1644,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+30,sacr,7,2671,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+31,sacr,8,2657,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+32,sacr,9,2251,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+33,sacr,10,1338,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+34,sacr,11,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+35,sacr,12,0,ME,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+36,adam,1,27,MA,Adams National Historical Park,42.2553961,-71.01160356
+37,adam,2,179,MA,Adams National Historical Park,42.2553961,-71.01160356
+38,adam,3,253,MA,Adams National Historical Park,42.2553961,-71.01160356
+39,adam,4,537,MA,Adams National Historical Park,42.2553961,-71.01160356
+40,adam,5,13187,MA,Adams National Historical Park,42.2553961,-71.01160356
+41,adam,6,23963,MA,Adams National Historical Park,42.2553961,-71.01160356
+42,adam,7,75333,MA,Adams National Historical Park,42.2553961,-71.01160356
+43,adam,8,26011,MA,Adams National Historical Park,42.2553961,-71.01160356
+44,adam,9,19602,MA,Adams National Historical Park,42.2553961,-71.01160356
+45,adam,10,22021,MA,Adams National Historical Park,42.2553961,-71.01160356
+46,adam,11,6031,MA,Adams National Historical Park,42.2553961,-71.01160356
+47,adam,12,256,MA,Adams National Historical Park,42.2553961,-71.01160356
+48,boaf,1,2349,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+49,boaf,2,6113,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+50,boaf,3,5988,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+51,boaf,4,7817,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+52,boaf,5,41769,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+53,boaf,6,100652,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+54,boaf,7,95579,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+55,boaf,8,88618,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+56,boaf,9,32197,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+57,boaf,10,21473,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+58,boaf,11,10269,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+59,boaf,12,6761,MA,Boston African American National Historic Site,42.35908295,-71.06764181
+60,bost,1,54898,MA,Boston National Historical Park,42.36957407,-71.05536763
+61,bost,2,82987,MA,Boston National Historical Park,42.36957407,-71.05536763
+62,bost,3,153851,MA,Boston National Historical Park,42.36957407,-71.05536763
+63,bost,4,229628,MA,Boston National Historical Park,42.36957407,-71.05536763
+64,bost,5,298885,MA,Boston National Historical Park,42.36957407,-71.05536763
+65,bost,6,405914,MA,Boston National Historical Park,42.36957407,-71.05536763
+66,bost,7,505800,MA,Boston National Historical Park,42.36957407,-71.05536763
+67,bost,8,456429,MA,Boston National Historical Park,42.36957407,-71.05536763
+68,bost,9,353098,MA,Boston National Historical Park,42.36957407,-71.05536763
+69,bost,10,359876,MA,Boston National Historical Park,42.36957407,-71.05536763
+70,bost,11,172784,MA,Boston National Historical Park,42.36957407,-71.05536763
+71,bost,12,127684,MA,Boston National Historical Park,42.36957407,-71.05536763
+72,caco,1,114182,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+73,caco,2,131478,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+74,caco,3,158934,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+75,caco,4,216513,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+76,caco,5,361965,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+77,caco,6,444653,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+78,caco,7,660198,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+79,caco,8,752184,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+80,caco,9,554274,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+81,caco,10,329706,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+82,caco,11,181896,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+83,caco,12,190121,MA,Cape Cod National Seashore,41.92381465,-70.04319832
+84,frla,1,12,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+85,frla,2,105,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+86,frla,3,343,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+87,frla,4,865,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+88,frla,5,328,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+89,frla,6,623,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+90,frla,7,913,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+91,frla,8,959,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+92,frla,9,1703,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+93,frla,10,1233,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+94,frla,11,634,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+95,frla,12,73,MA,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+96,jofi,1,3,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+97,jofi,2,146,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+98,jofi,3,217,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+99,jofi,4,543,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+100,jofi,5,1853,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+101,jofi,6,3023,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+102,jofi,7,3531,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+103,jofi,8,3702,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+104,jofi,9,2885,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+105,jofi,10,8532,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+106,jofi,11,267,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+107,jofi,12,136,MA,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+108,long,1,620,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+109,long,2,851,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+110,long,3,1295,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+111,long,4,2305,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+112,long,5,5054,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+113,long,6,9337,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+114,long,7,8219,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+115,long,8,8335,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+116,long,9,8660,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+117,long,10,6296,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+118,long,11,2237,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+119,long,12,1803,MA,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+120,lowe,1,1440,MA,Lowell National Historical Park,42.6455371,-71.31588673
+121,lowe,2,35507,MA,Lowell National Historical Park,42.6455371,-71.31588673
+122,lowe,3,25109,MA,Lowell National Historical Park,42.6455371,-71.31588673
+123,lowe,4,24685,MA,Lowell National Historical Park,42.6455371,-71.31588673
+124,lowe,5,33952,MA,Lowell National Historical Park,42.6455371,-71.31588673
+125,lowe,6,30219,MA,Lowell National Historical Park,42.6455371,-71.31588673
+126,lowe,7,190450,MA,Lowell National Historical Park,42.6455371,-71.31588673
+127,lowe,8,52149,MA,Lowell National Historical Park,42.6455371,-71.31588673
+128,lowe,9,16228,MA,Lowell National Historical Park,42.6455371,-71.31588673
+129,lowe,10,19620,MA,Lowell National Historical Park,42.6455371,-71.31588673
+130,lowe,11,44091,MA,Lowell National Historical Park,42.6455371,-71.31588673
+131,lowe,12,8086,MA,Lowell National Historical Park,42.6455371,-71.31588673
+132,mima,1,37648,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+133,mima,2,27742,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+134,mima,3,50337,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+135,mima,4,124123,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+136,mima,5,120867,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+137,mima,6,110580,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+138,mima,7,117180,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+139,mima,8,106075,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+140,mima,9,93288,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+141,mima,10,122114,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+142,mima,11,55468,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+143,mima,12,51904,MA,Minute Man National Historical Park,42.4562778,-71.30738884
+144,nebe,1,3853,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+145,nebe,2,5903,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+146,nebe,3,7656,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+147,nebe,4,10776,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+148,nebe,5,12236,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+149,nebe,6,15416,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+150,nebe,7,21808,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+151,nebe,8,22492,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+152,nebe,9,13657,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+153,nebe,10,13748,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+154,nebe,11,7976,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+155,nebe,12,7906,MA,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+156,sama,1,422,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+157,sama,2,4402,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+158,sama,3,7891,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+159,sama,4,14802,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+160,sama,5,20634,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+161,sama,6,36138,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+162,sama,7,45454,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+163,sama,8,40384,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+164,sama,9,36971,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+165,sama,10,113216,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+166,sama,11,14074,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+167,sama,12,4850,MA,Salem Maritime National Historic Site,42.52024529,-70.88640867
+168,sair,1,150,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+169,sair,2,372,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+170,sair,3,481,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+171,sair,4,534,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+172,sair,5,375,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+173,sair,6,1342,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+174,sair,7,1195,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+175,sair,8,1434,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+176,sair,9,1230,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+177,sair,10,1037,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+178,sair,11,0,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+179,sair,12,0,MA,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+180,spar,1,56,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+181,spar,2,981,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+182,spar,3,1277,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+183,spar,4,1316,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+184,spar,5,1448,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+185,spar,6,2744,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+186,spar,7,3203,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+187,spar,8,2660,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+188,spar,9,2698,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+189,spar,10,2247,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+190,spar,11,1382,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+191,spar,12,967,MA,Springfield Armory National Historic Site,42.1086368,-72.57967415
+192,saga,1,195,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+193,saga,2,253,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+194,saga,3,260,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+195,saga,4,385,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+196,saga,5,1366,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+197,saga,6,4510,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+198,saga,7,5870,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+199,saga,8,8303,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+200,saga,9,5340,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+201,saga,10,4545,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+202,saga,11,510,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+203,saga,12,222,Saint-Gaudens National Historical Park,NH,43.4997238,-72.37333969
+204,morr,1,628,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+205,morr,2,14567,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+206,morr,3,15397,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+207,morr,4,28313,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+208,morr,5,25772,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+209,morr,6,27103,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+210,morr,7,34704,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+211,morr,8,25948,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+212,morr,9,35543,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+213,morr,10,28944,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+214,morr,11,20415,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+215,morr,12,13996,NJ,Morristown National Historical Park,40.7650755,-74.53455122
+216,pagr,1,6564,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+217,pagr,2,11456,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+218,pagr,3,10610,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+219,pagr,4,15608,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+220,pagr,5,13691,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+221,pagr,6,40051,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+222,pagr,7,42046,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+223,pagr,8,46204,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+224,pagr,9,51278,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+225,pagr,10,19210,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+226,pagr,11,15058,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+227,pagr,12,5209,NJ,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+228,edis,1,1957,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+229,edis,2,1957,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+230,edis,3,2560,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+231,edis,4,3295,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+232,edis,5,3408,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+233,edis,6,4792,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+234,edis,7,5067,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+235,edis,8,6102,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+236,edis,9,2603,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+237,edis,10,3106,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+238,edis,11,4197,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+239,edis,12,3180,NJ,Thomas Edison National Historical Park,40.78549896,-74.23821139
+240,afbg,1,96,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+241,afbg,2,1571,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+242,afbg,3,1395,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+243,afbg,4,5022,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+244,afbg,5,5482,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+245,afbg,6,4621,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+246,afbg,7,5520,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+247,afbg,8,4332,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+248,afbg,9,4384,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+249,afbg,10,8667,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+250,afbg,11,2058,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+251,afbg,12,4279,NY,African Burial Ground National Monument,40.71452681,-74.00447358
+252,cacl,1,181143,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+253,cacl,2,193675,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+254,cacl,3,269440,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+255,cacl,4,412122,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+256,cacl,5,413828,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+257,cacl,6,468687,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+258,cacl,7,558814,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+259,cacl,8,550729,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+260,cacl,9,372332,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+261,cacl,10,375893,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+262,cacl,11,271108,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+263,cacl,12,293263,NY,Castle Clinton National Monument,40.70347795,-74.01680558
+264,elro,1,88,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+265,elro,2,570,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+266,elro,3,1210,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+267,elro,4,2237,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+268,elro,5,4804,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+269,elro,6,6344,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+270,elro,7,6965,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+271,elro,8,6914,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+272,elro,9,7294,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+273,elro,10,8612,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+274,elro,11,1918,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+275,elro,12,674,NY,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+276,feha,1,2720,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+277,feha,2,15121,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+278,feha,3,21239,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+279,feha,4,28577,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+280,feha,5,27693,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+281,feha,6,31307,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+282,feha,7,36042,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+283,feha,8,33851,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+284,feha,9,15888,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+285,feha,10,20505,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+286,feha,11,16351,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+287,feha,12,15555,NY,Federal Hall National Memorial,40.70731192,-74.01025636
+288,fiis,1,4163,NY,Fire Island National Seashore,40.69668638,-73.00013462
+289,fiis,2,8406,NY,Fire Island National Seashore,40.69668638,-73.00013462
+290,fiis,3,10772,NY,Fire Island National Seashore,40.69668638,-73.00013462
+291,fiis,4,13027,NY,Fire Island National Seashore,40.69668638,-73.00013462
+292,fiis,5,28430,NY,Fire Island National Seashore,40.69668638,-73.00013462
+293,fiis,6,46572,NY,Fire Island National Seashore,40.69668638,-73.00013462
+294,fiis,7,80760,NY,Fire Island National Seashore,40.69668638,-73.00013462
+295,fiis,8,99007,NY,Fire Island National Seashore,40.69668638,-73.00013462
+296,fiis,9,47798,NY,Fire Island National Seashore,40.69668638,-73.00013462
+297,fiis,10,25520,NY,Fire Island National Seashore,40.69668638,-73.00013462
+298,fiis,11,15552,NY,Fire Island National Seashore,40.69668638,-73.00013462
+299,fiis,12,11304,NY,Fire Island National Seashore,40.69668638,-73.00013462
+300,fost,1,1879,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+301,fost,2,1262,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+302,fost,3,2106,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+303,fost,4,5425,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+304,fost,5,7967,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+305,fost,6,11884,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+306,fost,7,34923,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+307,fost,8,10613,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+308,fost,9,10610,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+309,fost,10,6425,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+310,fost,11,2760,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+311,fost,12,1558,NY,Fort Stanwix National Monument,43.21053441,-75.45557626
+312,gate,1,504178,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+313,gate,2,543132,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+314,gate,3,653021,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+315,gate,4,662417,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+316,gate,5,818697,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+317,gate,6,1055032,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+318,gate,7,1223949,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+319,gate,8,1085625,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+320,gate,9,908313,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+321,gate,10,733807,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+322,gate,11,655858,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+323,gate,12,561593,NY,Gateway National Recreation Area,40.56536246,-73.9171087
+324,gegr,1,611,NY,General Grant National Memorial,40.81332817,-73.96331542
+325,gegr,2,2870,NY,General Grant National Memorial,40.81332817,-73.96331542
+326,gegr,3,4590,NY,General Grant National Memorial,40.81332817,-73.96331542
+327,gegr,4,6421,NY,General Grant National Memorial,40.81332817,-73.96331542
+328,gegr,5,7422,NY,General Grant National Memorial,40.81332817,-73.96331542
+329,gegr,6,7737,NY,General Grant National Memorial,40.81332817,-73.96331542
+330,gegr,7,37438,NY,General Grant National Memorial,40.81332817,-73.96331542
+331,gegr,8,12219,NY,General Grant National Memorial,40.81332817,-73.96331542
+332,gegr,9,12421,NY,General Grant National Memorial,40.81332817,-73.96331542
+333,gegr,10,9190,NY,General Grant National Memorial,40.81332817,-73.96331542
+334,gegr,11,7033,NY,General Grant National Memorial,40.81332817,-73.96331542
+335,gegr,12,5900,NY,General Grant National Memorial,40.81332817,-73.96331542
+336,gois,1,0,NY,Governors Island National Monument,40.69164233,-74.01670765
+337,gois,2,40,NY,Governors Island National Monument,40.69164233,-74.01670765
+338,gois,3,40,NY,Governors Island National Monument,40.69164233,-74.01670765
+339,gois,4,35,NY,Governors Island National Monument,40.69164233,-74.01670765
+340,gois,5,81095,NY,Governors Island National Monument,40.69164233,-74.01670765
+341,gois,6,104916,NY,Governors Island National Monument,40.69164233,-74.01670765
+342,gois,7,105625,NY,Governors Island National Monument,40.69164233,-74.01670765
+343,gois,8,145081,NY,Governors Island National Monument,40.69164233,-74.01670765
+344,gois,9,106971,NY,Governors Island National Monument,40.69164233,-74.01670765
+345,gois,10,47190,NY,Governors Island National Monument,40.69164233,-74.01670765
+346,gois,11,0,NY,Governors Island National Monument,40.69164233,-74.01670765
+347,gois,12,0,NY,Governors Island National Monument,40.69164233,-74.01670765
+348,hagr,1,495,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+349,hagr,2,3901,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+350,hagr,3,5074,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+351,hagr,4,5449,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+352,hagr,5,4971,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+353,hagr,6,6008,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+354,hagr,7,7997,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+355,hagr,8,8295,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+356,hagr,9,4409,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+357,hagr,10,5381,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+358,hagr,11,10485,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+359,hagr,12,8782,NY,Hamilton Grange National Memorial,40.81871605,-73.94878487
+360,hofr,1,780,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+361,hofr,2,4732,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+362,hofr,3,6914,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+363,hofr,4,11968,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+364,hofr,5,15976,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+365,hofr,6,18420,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+366,hofr,7,16516,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+367,hofr,8,17913,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+368,hofr,9,17791,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+369,hofr,10,21164,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+370,hofr,11,9760,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+371,hofr,12,5175,NY,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+372,mava,1,100,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+373,mava,2,150,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+374,mava,3,150,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+375,mava,4,474,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+376,mava,5,1555,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+377,mava,6,3535,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+378,mava,7,4472,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+379,mava,8,3896,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+380,mava,9,2433,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+381,mava,10,2689,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+382,mava,11,583,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+383,mava,12,586,NY,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+384,sahi,1,135,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+385,sahi,2,1952,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+386,sahi,3,1987,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+387,sahi,4,3071,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+388,sahi,5,4363,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+389,sahi,6,3551,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+390,sahi,7,5429,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+391,sahi,8,4436,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+392,sahi,9,4325,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+393,sahi,10,4101,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+394,sahi,11,1967,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+395,sahi,12,1421,NY,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+396,sapa,1,160,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+397,sapa,2,2025,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+398,sapa,3,1975,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+399,sapa,4,1160,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+400,sapa,5,2365,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+401,sapa,6,2170,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+402,sapa,7,1320,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+403,sapa,8,930,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+404,sapa,9,910,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+405,sapa,10,2777,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+406,sapa,11,1465,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+407,sapa,12,1280,NY,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+408,sara,1,3165,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+409,sara,2,6036,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+410,sara,3,6545,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+411,sara,4,7100,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+412,sara,5,11647,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+413,sara,6,17898,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+414,sara,7,35516,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+415,sara,8,24443,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+416,sara,9,10259,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+417,sara,10,9764,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+418,sara,11,6130,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+419,sara,12,6615,NY,Saratoga National Historical Park,42.99522612,-73.63386108
+420,stli,1,155691,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+421,stli,2,154755,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+422,stli,3,279547,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+423,stli,4,397540,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+424,stli,5,421176,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+425,stli,6,487809,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+426,stli,7,567256,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+427,stli,8,541258,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+428,stli,9,359037,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+429,stli,10,350174,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+430,stli,11,253489,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+431,stli,12,272729,NY,Statue Of Liberty National Monument,40.69572149,-74.04232397
+432,ston,1,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+433,ston,2,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+434,ston,3,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+435,ston,4,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+436,ston,5,12118,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+437,ston,6,2023362,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+438,ston,7,18660,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+439,ston,8,24560,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+440,ston,9,5000,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+441,ston,10,5229,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+442,ston,11,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+443,ston,12,0,NY,Stonewall National Monument,40.7337799072266,-74.0006866455078
+444,thrb,1,189,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+445,thrb,2,2013,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+446,thrb,3,2907,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+447,thrb,4,2393,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+448,thrb,5,2666,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+449,thrb,6,2330,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+450,thrb,7,2677,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+451,thrb,8,2702,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+452,thrb,9,1793,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+453,thrb,10,2282,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+454,thrb,11,1988,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+455,thrb,12,2038,NY,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+456,thri,1,1349,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+457,thri,2,1304,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+458,thri,3,1686,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+459,thri,4,1879,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+460,thri,5,2455,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+461,thri,6,3089,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+462,thri,7,3189,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+463,thri,8,2803,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+464,thri,9,2787,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+465,thri,10,2190,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+466,thri,11,1704,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+467,thri,12,2559,NY,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+468,vama,1,160,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+469,vama,2,22763,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+470,vama,3,24580,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+471,vama,4,27359,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+472,vama,5,37694,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+473,vama,6,30354,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+474,vama,7,36813,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+475,vama,8,37928,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+476,vama,9,32632,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+477,vama,10,43203,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+478,vama,11,20817,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+479,vama,12,12519,NY,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+480,wori,1,13,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+481,wori,2,473,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+482,wori,3,1759,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+483,wori,4,1900,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+484,wori,5,3458,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+485,wori,6,5247,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+486,wori,7,8863,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+487,wori,8,5821,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+488,wori,9,3935,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+489,wori,10,4493,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+490,wori,11,1551,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+491,wori,12,1551,NY,Women's Rights National Historical Park,42.90817073,-76.81655558
+492,alpo,1,9975,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+493,alpo,2,8874,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+494,alpo,3,11908,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+495,alpo,4,16847,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+496,alpo,5,16008,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+497,alpo,6,19590,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+498,alpo,7,23073,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+499,alpo,8,20404,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+500,alpo,9,19387,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+501,alpo,10,18642,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+502,alpo,11,13453,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+503,alpo,12,11028,PA,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+504,dewa,1,130962,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+505,dewa,2,156297,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+506,dewa,3,146048,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+507,dewa,4,249160,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+508,dewa,5,336632,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+509,dewa,6,355136,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+510,dewa,7,510552,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+511,dewa,8,434019,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+512,dewa,9,328025,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+513,dewa,10,301758,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+514,dewa,11,254518,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+515,dewa,12,171758,PA,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+516,edal,1,162,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+517,edal,2,957,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+518,edal,3,1566,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+519,edal,4,1406,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+520,edal,5,1446,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+521,edal,6,1461,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+522,edal,7,1608,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+523,edal,8,1665,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+524,edal,9,1224,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+525,edal,10,1565,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+526,edal,11,1574,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+527,edal,12,893,PA,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+528,eise,1,0,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+529,eise,2,250,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+530,eise,3,1262,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+531,eise,4,3957,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+532,eise,5,5235,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+533,eise,6,6942,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+534,eise,7,6542,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+535,eise,8,5718,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+536,eise,9,8362,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+537,eise,10,5435,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+538,eise,11,1833,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+539,eise,12,1741,PA,Eisenhower National Historic Site,39.79577592,-77.26508101
+540,flni,1,3070,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+541,flni,2,6837,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+542,flni,3,17606,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+543,flni,4,27680,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+544,flni,5,45431,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+545,flni,6,45987,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+546,flni,7,56264,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+547,flni,8,51672,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+548,flni,9,61091,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+549,flni,10,62387,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+550,flni,11,24130,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+551,flni,12,9071,PA,Flight 93 National Memorial,40.06061476,-78.89456905
+552,fone,1,1607,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+553,fone,2,2268,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+554,fone,3,4321,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+555,fone,4,7607,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+556,fone,5,39548,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+557,fone,6,46160,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+558,fone,7,54756,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+559,fone,8,52716,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+560,fone,9,32082,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+561,fone,10,34186,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+562,fone,11,25101,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+563,fone,12,11752,PA,Fort Necessity National Battlefield,39.81306048,-79.59033344
+564,frhi,1,524,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+565,frhi,2,690,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+566,frhi,3,1240,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+567,frhi,4,1338,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+568,frhi,5,2981,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+569,frhi,6,2768,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+570,frhi,7,3167,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+571,frhi,8,2541,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+572,frhi,9,14335,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+573,frhi,10,2348,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+574,frhi,11,1355,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+575,frhi,12,872,PA,Friendship Hill National Historic Site,39.77543423,-79.92504169
+576,gett,1,13512,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+577,gett,2,19119,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+578,gett,3,57132,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+579,gett,4,101306,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+580,gett,5,145028,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+581,gett,6,128930,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+582,gett,7,118230,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+583,gett,8,93228,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+584,gett,9,82542,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+585,gett,10,100427,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+586,gett,11,46198,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+587,gett,12,19465,PA,Gettysburg National Military Park,39.81557366,-77.23246758
+588,hofu,1,311,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+589,hofu,2,2098,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+590,hofu,3,3472,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+591,hofu,4,4172,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+592,hofu,5,4958,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+593,hofu,6,5781,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+594,hofu,7,6618,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+595,hofu,8,7319,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+596,hofu,9,7338,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+597,hofu,10,3694,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+598,hofu,11,2948,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+599,hofu,12,1152,PA,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+600,inde,1,59682,PA,Independence National Historical Park,39.94746112,-75.14794157
+601,inde,2,179578,PA,Independence National Historical Park,39.94746112,-75.14794157
+602,inde,3,309348,PA,Independence National Historical Park,39.94746112,-75.14794157
+603,inde,4,455740,PA,Independence National Historical Park,39.94746112,-75.14794157
+604,inde,5,548136,PA,Independence National Historical Park,39.94746112,-75.14794157
+605,inde,6,574706,PA,Independence National Historical Park,39.94746112,-75.14794157
+606,inde,7,553191,PA,Independence National Historical Park,39.94746112,-75.14794157
+607,inde,8,473898,PA,Independence National Historical Park,39.94746112,-75.14794157
+608,inde,9,409902,PA,Independence National Historical Park,39.94746112,-75.14794157
+609,inde,10,362563,PA,Independence National Historical Park,39.94746112,-75.14794157
+610,inde,11,336151,PA,Independence National Historical Park,39.94746112,-75.14794157
+611,inde,12,269564,PA,Independence National Historical Park,39.94746112,-75.14794157
+612,jofl,1,7,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+613,jofl,2,2482,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+614,jofl,3,5484,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+615,jofl,4,13921,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+616,jofl,5,25716,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+617,jofl,6,13573,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+618,jofl,7,24461,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+619,jofl,8,29160,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+620,jofl,9,24844,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+621,jofl,10,24470,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+622,jofl,11,12444,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+623,jofl,12,6581,PA,Johnstown Flood National Memorial,40.34584534,-78.77448601
+624,stea,1,1091,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+625,stea,2,2950,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+626,stea,3,4542,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+627,stea,4,7264,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+628,stea,5,10066,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+629,stea,6,13036,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+630,stea,7,15712,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+631,stea,8,16327,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+632,stea,9,11206,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+633,stea,10,10454,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+634,stea,11,7493,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+635,stea,12,5262,PA,Steamtown National Historic Site,41.40757521,-75.67037255
+636,thko,1,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+637,thko,2,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+638,thko,3,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+639,thko,4,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+640,thko,5,309,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+641,thko,6,266,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+642,thko,7,339,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+643,thko,8,368,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+644,thko,9,322,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+645,thko,10,317,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+646,thko,11,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+647,thko,12,0,PA,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+648,upde,1,2463,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+649,upde,2,4254,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+650,upde,3,5224,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+651,upde,4,5705,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+652,upde,5,22313,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+653,upde,6,27979,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+654,upde,7,54306,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+655,upde,8,49557,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+656,upde,9,30406,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+657,upde,10,8998,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+658,upde,11,2003,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+659,upde,12,2329,PA,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+660,vafo,1,30701,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+661,vafo,2,55154,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+662,vafo,3,168632,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+663,vafo,4,159434,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+664,vafo,5,190681,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+665,vafo,6,218531,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+666,vafo,7,346020,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+667,vafo,8,355046,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+668,vafo,9,232761,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+669,vafo,10,247953,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+670,vafo,11,149850,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+671,vafo,12,105181,PA,Valley Forge National Historical Park,40.10054985,-75.44581889
+672,rowi,1,116,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+673,rowi,2,1634,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+674,rowi,3,2206,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+675,rowi,4,4717,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+676,rowi,5,5156,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+677,rowi,6,8622,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+678,rowi,7,9211,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+679,rowi,8,8918,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+680,rowi,9,6317,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+681,rowi,10,7254,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+682,rowi,11,3522,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+683,rowi,12,1746,RI,Roger Williams National Memorial,41.8298955,-71.41056665
+684,mabi,1,1356,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+685,mabi,2,1604,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+686,mabi,3,1748,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+687,mabi,4,1489,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+688,mabi,5,3275,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+689,mabi,6,5663,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+690,mabi,7,6661,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+691,mabi,8,7104,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+692,mabi,9,6076,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+693,mabi,10,7341,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+694,mabi,11,2092,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+695,mabi,12,1570,VT,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+696,anti,1,1280,MD,Antietam National Battlefield,39.46763452,-77.73828017
+697,anti,2,6421,MD,Antietam National Battlefield,39.46763452,-77.73828017
+698,anti,3,15462,MD,Antietam National Battlefield,39.46763452,-77.73828017
+699,anti,4,24037,MD,Antietam National Battlefield,39.46763452,-77.73828017
+700,anti,5,33228,MD,Antietam National Battlefield,39.46763452,-77.73828017
+701,anti,6,37948,MD,Antietam National Battlefield,39.46763452,-77.73828017
+702,anti,7,48965,MD,Antietam National Battlefield,39.46763452,-77.73828017
+703,anti,8,33531,MD,Antietam National Battlefield,39.46763452,-77.73828017
+704,anti,9,27684,MD,Antietam National Battlefield,39.46763452,-77.73828017
+705,anti,10,28643,MD,Antietam National Battlefield,39.46763452,-77.73828017
+706,anti,11,16173,MD,Antietam National Battlefield,39.46763452,-77.73828017
+707,anti,12,13971,MD,Antietam National Battlefield,39.46763452,-77.73828017
+708,asis,1,64032,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+709,asis,2,43977,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+710,asis,3,74089,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+711,asis,4,153044,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+712,asis,5,199049,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+713,asis,6,312094,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+714,asis,7,502416,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+715,asis,8,453668,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+716,asis,9,274394,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+717,asis,10,144479,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+718,asis,11,76779,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+719,asis,12,46515,MD,Assateague Island National Seashore,38.05593172,-75.24524611
+720,cato,1,9339,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+721,cato,2,3243,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+722,cato,3,21266,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+723,cato,4,25887,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+724,cato,5,9419,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+725,cato,6,48622,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+726,cato,7,34384,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+727,cato,8,32928,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+728,cato,9,34645,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+729,cato,10,42065,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+730,cato,11,23371,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+731,cato,12,11677,MD,Catoctin Mountain Park,39.65068457,-77.46417665
+732,choh,1,199712,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+733,choh,2,200441,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+734,choh,3,287249,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+735,choh,4,425458,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+736,choh,5,512921,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+737,choh,6,704171,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+738,choh,7,622845,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+739,choh,8,569556,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+740,choh,9,574676,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+741,choh,10,426628,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+742,choh,11,358222,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+743,choh,12,234908,MD,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+744,clba,1,0,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+745,clba,2,100,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+746,clba,3,350,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+747,clba,4,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+748,clba,5,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+749,clba,6,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+750,clba,7,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+751,clba,8,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+752,clba,9,450,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+753,clba,10,400,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+754,clba,11,350,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+755,clba,12,200,MD,Clara Barton National Historic Site,38.96762882,-77.14009689
+756,fomc,1,486,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+757,fomc,2,18712,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+758,fomc,3,31629,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+759,fomc,4,54103,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+760,fomc,5,66277,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+761,fomc,6,50213,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+762,fomc,7,51087,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+763,fomc,8,50600,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+764,fomc,9,56251,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+765,fomc,10,19998,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+766,fomc,11,11496,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+767,fomc,12,8693,MD,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+768,fowa,1,1034,MD,Fort Washington Park,38.70875364,-77.02174195
+769,fowa,2,7685,MD,Fort Washington Park,38.70875364,-77.02174195
+770,fowa,3,53852,MD,Fort Washington Park,38.70875364,-77.02174195
+771,fowa,4,45809,MD,Fort Washington Park,38.70875364,-77.02174195
+772,fowa,5,57676,MD,Fort Washington Park,38.70875364,-77.02174195
+773,fowa,6,63195,MD,Fort Washington Park,38.70875364,-77.02174195
+774,fowa,7,66778,MD,Fort Washington Park,38.70875364,-77.02174195
+775,fowa,8,43748,MD,Fort Washington Park,38.70875364,-77.02174195
+776,fowa,9,38388,MD,Fort Washington Park,38.70875364,-77.02174195
+777,fowa,10,17352,MD,Fort Washington Park,38.70875364,-77.02174195
+778,fowa,11,16756,MD,Fort Washington Park,38.70875364,-77.02174195
+779,fowa,12,11595,MD,Fort Washington Park,38.70875364,-77.02174195
+780,gree,1,1437,MD,Greenbelt Park,38.98328267,-76.89722133
+781,gree,2,5262,MD,Greenbelt Park,38.98328267,-76.89722133
+782,gree,3,12559,MD,Greenbelt Park,38.98328267,-76.89722133
+783,gree,4,18189,MD,Greenbelt Park,38.98328267,-76.89722133
+784,gree,5,23552,MD,Greenbelt Park,38.98328267,-76.89722133
+785,gree,6,23643,MD,Greenbelt Park,38.98328267,-76.89722133
+786,gree,7,19030,MD,Greenbelt Park,38.98328267,-76.89722133
+787,gree,8,18094,MD,Greenbelt Park,38.98328267,-76.89722133
+788,gree,9,3436,MD,Greenbelt Park,38.98328267,-76.89722133
+789,gree,10,1500,MD,Greenbelt Park,38.98328267,-76.89722133
+790,gree,11,1000,MD,Greenbelt Park,38.98328267,-76.89722133
+791,gree,12,1000,MD,Greenbelt Park,38.98328267,-76.89722133
+792,hamp,1,15,MD,Hampton National Historic Site,39.4175296,-76.58781182
+793,hamp,2,2041,MD,Hampton National Historic Site,39.4175296,-76.58781182
+794,hamp,3,2243,MD,Hampton National Historic Site,39.4175296,-76.58781182
+795,hamp,4,2472,MD,Hampton National Historic Site,39.4175296,-76.58781182
+796,hamp,5,2642,MD,Hampton National Historic Site,39.4175296,-76.58781182
+797,hamp,6,2512,MD,Hampton National Historic Site,39.4175296,-76.58781182
+798,hamp,7,2334,MD,Hampton National Historic Site,39.4175296,-76.58781182
+799,hamp,8,2832,MD,Hampton National Historic Site,39.4175296,-76.58781182
+800,hamp,9,2134,MD,Hampton National Historic Site,39.4175296,-76.58781182
+801,hamp,10,2869,MD,Hampton National Historic Site,39.4175296,-76.58781182
+802,hamp,11,2544,MD,Hampton National Historic Site,39.4175296,-76.58781182
+803,hamp,12,3596,MD,Hampton National Historic Site,39.4175296,-76.58781182
+804,mono,1,5948,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+805,mono,2,1940,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+806,mono,3,10662,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+807,mono,4,11873,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+808,mono,5,14266,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+809,mono,6,18238,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+810,mono,7,16381,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+811,mono,8,15657,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+812,mono,9,21023,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+813,mono,10,13115,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+814,mono,11,7175,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+815,mono,12,8691,MD,Monocacy National Battlefield,39.36084236,-77.39637677
+816,pisc,1,4584,MD,Piscataway Park,38.68679958,-77.06659744
+817,pisc,2,14036,MD,Piscataway Park,38.68679958,-77.06659744
+818,pisc,3,23060,MD,Piscataway Park,38.68679958,-77.06659744
+819,pisc,4,22510,MD,Piscataway Park,38.68679958,-77.06659744
+820,pisc,5,29192,MD,Piscataway Park,38.68679958,-77.06659744
+821,pisc,6,32185,MD,Piscataway Park,38.68679958,-77.06659744
+822,pisc,7,38905,MD,Piscataway Park,38.68679958,-77.06659744
+823,pisc,8,43665,MD,Piscataway Park,38.68679958,-77.06659744
+824,pisc,9,38702,MD,Piscataway Park,38.68679958,-77.06659744
+825,pisc,10,47036,MD,Piscataway Park,38.68679958,-77.06659744
+826,pisc,11,22684,MD,Piscataway Park,38.68679958,-77.06659744
+827,pisc,12,13170,MD,Piscataway Park,38.68679958,-77.06659744
+828,thst,1,108,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+829,thst,2,167,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+830,thst,3,352,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+831,thst,4,1137,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+832,thst,5,786,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+833,thst,6,695,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+834,thst,7,594,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+835,thst,8,539,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+836,thst,9,1493,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+837,thst,10,1053,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+838,thst,11,568,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
+839,thst,12,528,MD,Thomas Stone National Historic Site,38.52934443,-77.037813
