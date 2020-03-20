@@ -1,589 +1,589 @@
 ParkCode,Month,StateCode,Full Name,Lat,Lon,Name,Latitude,Longitude,Population,Total Visitors
-agfo,0,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,325160
-agfo,1,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,408618
-agfo,2,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,833566
-agfo,3,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,893558
-agfo,4,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,1557746
-agfo,5,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,2825872
-agfo,6,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,4201409
-agfo,7,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,3192593
-agfo,8,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,2029231
-agfo,9,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,1120572
-agfo,10,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,593559
-agfo,11,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,482091
-apis,0,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,325160
-apis,1,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,408618
-apis,2,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,833566
-apis,3,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,893558
-apis,4,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,1557746
-apis,5,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,2825872
-apis,6,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,4201409
-apis,7,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,3192593
-apis,8,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,2029231
-apis,9,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,1120572
-apis,10,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,593559
-apis,11,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,482091
-badl,0,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,325160
-badl,1,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,408618
-badl,2,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,833566
-badl,3,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,893558
-badl,4,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,1557746
-badl,5,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,2825872
-badl,6,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,4201409
-badl,7,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,3192593
-badl,8,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,2029231
-badl,9,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,1120572
-badl,10,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,593559
-badl,11,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,482091
-brvb,0,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,325160
-brvb,1,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,408618
-brvb,2,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,833566
-brvb,3,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,893558
-brvb,4,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,1557746
-brvb,5,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,2825872
-brvb,6,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,4201409
-brvb,7,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,3192593
-brvb,8,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,2029231
-brvb,9,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,1120572
-brvb,10,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,593559
-brvb,11,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,482091
-chyo,0,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,325160
-chyo,1,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,408618
-chyo,2,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,833566
-chyo,3,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,893558
-chyo,4,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,1557746
-chyo,5,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,2825872
-chyo,6,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,4201409
-chyo,7,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,3192593
-chyo,8,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,2029231
-chyo,9,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,1120572
-chyo,10,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,593559
-chyo,11,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,482091
-cuva,0,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,325160
-cuva,1,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,408618
-cuva,2,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,833566
-cuva,3,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,893558
-cuva,4,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,1557746
-cuva,5,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,2825872
-cuva,6,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,4201409
-cuva,7,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,3192593
-cuva,8,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,2029231
-cuva,9,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,1120572
-cuva,10,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,593559
-cuva,11,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,482091
-daav,0,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,325160
-daav,1,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,408618
-daav,2,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,833566
-daav,3,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,893558
-daav,4,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,1557746
-daav,5,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,2825872
-daav,6,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,4201409
-daav,7,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,3192593
-daav,8,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,2029231
-daav,9,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,1120572
-daav,10,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,593559
-daav,11,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,482091
-efmo,0,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,325160
-efmo,1,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,408618
-efmo,2,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,833566
-efmo,3,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,893558
-efmo,4,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,1557746
-efmo,5,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,2825872
-efmo,6,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,4201409
-efmo,7,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,3192593
-efmo,8,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,2029231
-efmo,9,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,1120572
-efmo,10,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,593559
-efmo,11,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,482091
-fila,0,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,325160
-fila,1,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,408618
-fila,2,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,833566
-fila,3,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,893558
-fila,4,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,1557746
-fila,5,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,2825872
-fila,6,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,4201409
-fila,7,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,3192593
-fila,8,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,2029231
-fila,9,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,1120572
-fila,10,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,593559
-fila,11,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,482091
-fols,0,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,325160
-fols,1,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,408618
-fols,2,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,833566
-fols,3,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,893558
-fols,4,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,1557746
-fols,5,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,2825872
-fols,6,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,4201409
-fols,7,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,3192593
-fols,8,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,2029231
-fols,9,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,1120572
-fols,10,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,593559
-fols,11,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,482091
-fosc,0,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,325160
-fosc,1,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,408618
-fosc,2,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,833566
-fosc,3,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,893558
-fosc,4,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,1557746
-fosc,5,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,2825872
-fosc,6,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,4201409
-fosc,7,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,3192593
-fosc,8,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,2029231
-fosc,9,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,1120572
-fosc,10,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,593559
-fosc,11,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,482091
-fous,0,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,325160
-fous,1,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,408618
-fous,2,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,833566
-fous,3,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,893558
-fous,4,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,1557746
-fous,5,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,2825872
-fous,6,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,4201409
-fous,7,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,3192593
-fous,8,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,2029231
-fous,9,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,1120572
-fous,10,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,593559
-fous,11,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,482091
-gero,0,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,325160
-gero,1,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,408618
-gero,2,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,833566
-gero,3,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,893558
-gero,4,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,1557746
-gero,5,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,2825872
-gero,6,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,4201409
-gero,7,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,3192593
-gero,8,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,2029231
-gero,9,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,1120572
-gero,10,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,593559
-gero,11,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,482091
-grpo,0,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,325160
-grpo,1,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,408618
-grpo,2,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,833566
-grpo,3,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,893558
-grpo,4,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,1557746
-grpo,5,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,2825872
-grpo,6,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,4201409
-grpo,7,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,3192593
-grpo,8,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,2029231
-grpo,9,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,1120572
-grpo,10,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,593559
-grpo,11,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,482091
-gwca,0,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,325160
-gwca,1,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,408618
-gwca,2,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,833566
-gwca,3,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,893558
-gwca,4,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,1557746
-gwca,5,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,2825872
-gwca,6,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,4201409
-gwca,7,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,3192593
-gwca,8,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,2029231
-gwca,9,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,1120572
-gwca,10,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,593559
-gwca,11,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,482091
-heho,0,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,325160
-heho,1,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,408618
-heho,2,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,833566
-heho,3,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,893558
-heho,4,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,1557746
-heho,5,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,2825872
-heho,6,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,4201409
-heho,7,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,3192593
-heho,8,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,2029231
-heho,9,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,1120572
-heho,10,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,593559
-heho,11,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,482091
-hocu,0,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,325160
-hocu,1,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,408618
-hocu,2,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,833566
-hocu,3,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,893558
-hocu,4,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,1557746
-hocu,5,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,2825872
-hocu,6,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,4201409
-hocu,7,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,3192593
-hocu,8,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,2029231
-hocu,9,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,1120572
-hocu,10,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,593559
-hocu,11,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,482091
-home,0,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,325160
-home,1,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,408618
-home,2,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,833566
-home,3,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,893558
-home,4,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,1557746
-home,5,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,2825872
-home,6,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,4201409
-home,7,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,3192593
-home,8,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,2029231
-home,9,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,1120572
-home,10,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,593559
-home,11,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,482091
-hstr,0,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,325160
-hstr,1,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,408618
-hstr,2,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,833566
-hstr,3,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,893558
-hstr,4,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,1557746
-hstr,5,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,2825872
-hstr,6,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,4201409
-hstr,7,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,3192593
-hstr,8,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,2029231
-hstr,9,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,1120572
-hstr,10,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,593559
-hstr,11,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,482091
-indu,0,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,325160
-indu,1,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,408618
-indu,2,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,833566
-indu,3,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,893558
-indu,4,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,1557746
-indu,5,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,2825872
-indu,6,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,4201409
-indu,7,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,3192593
-indu,8,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,2029231
-indu,9,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,1120572
-indu,10,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,593559
-indu,11,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,482091
-isro,0,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,325160
-isro,1,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,408618
-isro,2,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,833566
-isro,3,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,893558
-isro,4,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,1557746
-isro,5,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,2825872
-isro,6,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,4201409
-isro,7,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,3192593
-isro,8,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,2029231
-isro,9,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,1120572
-isro,10,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,593559
-isro,11,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,482091
-jaga,0,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,325160
-jaga,1,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,408618
-jaga,2,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,833566
-jaga,3,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,893558
-jaga,4,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,1557746
-jaga,5,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,2825872
-jaga,6,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,4201409
-jaga,7,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,3192593
-jaga,8,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,2029231
-jaga,9,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,1120572
-jaga,10,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,593559
-jaga,11,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,482091
-jeca,0,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,325160
-jeca,1,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,408618
-jeca,2,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,833566
-jeca,3,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,893558
-jeca,4,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,1557746
-jeca,5,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,2825872
-jeca,6,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,4201409
-jeca,7,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,3192593
-jeca,8,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,2029231
-jeca,9,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,1120572
-jeca,10,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,593559
-jeca,11,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,482091
-jeff,0,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,325160
-jeff,1,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,408618
-jeff,2,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,833566
-jeff,3,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,893558
-jeff,4,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,1557746
-jeff,5,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,2825872
-jeff,6,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,4201409
-jeff,7,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,3192593
-jeff,8,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,2029231
-jeff,9,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,1120572
-jeff,10,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,593559
-jeff,11,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,482091
-kewe,0,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,325160
-kewe,1,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,408618
-kewe,2,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,833566
-kewe,3,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,893558
-kewe,4,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,1557746
-kewe,5,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,2825872
-kewe,6,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,4201409
-kewe,7,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,3192593
-kewe,8,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,2029231
-kewe,9,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,1120572
-kewe,10,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,593559
-kewe,11,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,482091
-knri,0,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,325160
-knri,1,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,408618
-knri,2,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,833566
-knri,3,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,893558
-knri,4,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,1557746
-knri,5,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,2825872
-knri,6,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,4201409
-knri,7,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,3192593
-knri,8,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,2029231
-knri,9,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,1120572
-knri,10,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,593559
-knri,11,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,482091
-libo,0,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,325160
-libo,1,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,408618
-libo,2,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,833566
-libo,3,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,893558
-libo,4,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,1557746
-libo,5,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,2825872
-libo,6,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,4201409
-libo,7,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,3192593
-libo,8,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,2029231
-libo,9,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,1120572
-libo,10,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,593559
-libo,11,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,482091
-liho,0,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,325160
-liho,1,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,408618
-liho,2,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,833566
-liho,3,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,893558
-liho,4,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,1557746
-liho,5,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,2825872
-liho,6,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,4201409
-liho,7,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,3192593
-liho,8,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,2029231
-liho,9,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,1120572
-liho,10,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,593559
-liho,11,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,482091
-mimi,0,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,325160
-mimi,1,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,408618
-mimi,2,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,833566
-mimi,3,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,893558
-mimi,4,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,1557746
-mimi,5,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,2825872
-mimi,6,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,4201409
-mimi,7,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,3192593
-mimi,8,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,2029231
-mimi,9,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,1120572
-mimi,10,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,593559
-mimi,11,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,482091
-miss,0,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,325160
-miss,1,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,408618
-miss,2,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,833566
-miss,3,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,893558
-miss,4,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,1557746
-miss,5,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,2825872
-miss,6,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,4201409
-miss,7,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,3192593
-miss,8,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,2029231
-miss,9,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,1120572
-miss,10,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,593559
-miss,11,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,482091
-mnrr,0,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,325160
-mnrr,1,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,408618
-mnrr,2,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,833566
-mnrr,3,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,893558
-mnrr,4,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,1557746
-mnrr,5,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,2825872
-mnrr,6,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,4201409
-mnrr,7,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,3192593
-mnrr,8,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,2029231
-mnrr,9,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,1120572
-mnrr,10,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,593559
-mnrr,11,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,482091
-moru,0,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,325160
-moru,1,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,408618
-moru,2,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,833566
-moru,3,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,893558
-moru,4,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,1557746
-moru,5,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,2825872
-moru,6,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,4201409
-moru,7,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,3192593
-moru,8,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,2029231
-moru,9,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,1120572
-moru,10,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,593559
-moru,11,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,482091
-nico,0,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,325160
-nico,1,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,408618
-nico,2,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,833566
-nico,3,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,893558
-nico,4,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,1557746
-nico,5,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,2825872
-nico,6,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,4201409
-nico,7,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,3192593
-nico,8,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,2029231
-nico,9,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,1120572
-nico,10,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,593559
-nico,11,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,482091
-niob,0,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,325160
-niob,1,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,408618
-niob,2,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,833566
-niob,3,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,893558
-niob,4,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,1557746
-niob,5,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,2825872
-niob,6,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,4201409
-niob,7,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,3192593
-niob,8,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,2029231
-niob,9,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,1120572
-niob,10,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,593559
-niob,11,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,482091
-ozar,0,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,325160
-ozar,1,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,408618
-ozar,2,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,833566
-ozar,3,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,893558
-ozar,4,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,1557746
-ozar,5,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,2825872
-ozar,6,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,4201409
-ozar,7,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,3192593
-ozar,8,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,2029231
-ozar,9,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,1120572
-ozar,10,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,593559
-ozar,11,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,482091
-pevi,0,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,325160
-pevi,1,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,408618
-pevi,2,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,833566
-pevi,3,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,893558
-pevi,4,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,1557746
-pevi,5,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,2825872
-pevi,6,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,4201409
-pevi,7,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,3192593
-pevi,8,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,2029231
-pevi,9,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,1120572
-pevi,10,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,593559
-pevi,11,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,482091
-pipe,0,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,325160
-pipe,1,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,408618
-pipe,2,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,833566
-pipe,3,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,893558
-pipe,4,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,1557746
-pipe,5,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,2825872
-pipe,6,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,4201409
-pipe,7,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,3192593
-pipe,8,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,2029231
-pipe,9,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,1120572
-pipe,10,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,593559
-pipe,11,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,482091
-piro,0,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,325160
-piro,1,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,408618
-piro,2,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,833566
-piro,3,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,893558
-piro,4,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,1557746
-piro,5,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,2825872
-piro,6,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,4201409
-piro,7,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,3192593
-piro,8,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,2029231
-piro,9,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,1120572
-piro,10,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,593559
-piro,11,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,482091
-rira,0,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,325160
-rira,1,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,408618
-rira,2,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,833566
-rira,3,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,893558
-rira,4,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,1557746
-rira,5,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,2825872
-rira,6,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,4201409
-rira,7,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,3192593
-rira,8,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,2029231
-rira,9,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,1120572
-rira,10,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,593559
-rira,11,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,482091
-sacn,0,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,325160
-sacn,1,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,408618
-sacn,2,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,833566
-sacn,3,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,893558
-sacn,4,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,1557746
-sacn,5,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,2825872
-sacn,6,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,4201409
-sacn,7,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,3192593
-sacn,8,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,2029231
-sacn,9,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,1120572
-sacn,10,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,593559
-sacn,11,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,482091
-scbl,0,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,325160
-scbl,1,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,408618
-scbl,2,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,833566
-scbl,3,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,893558
-scbl,4,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,1557746
-scbl,5,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,2825872
-scbl,6,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,4201409
-scbl,7,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,3192593
-scbl,8,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,2029231
-scbl,9,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,1120572
-scbl,10,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,593559
-scbl,11,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,482091
-slbe,0,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,325160
-slbe,1,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,408618
-slbe,2,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,833566
-slbe,3,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,893558
-slbe,4,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,1557746
-slbe,5,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,2825872
-slbe,6,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,4201409
-slbe,7,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,3192593
-slbe,8,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,2029231
-slbe,9,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,1120572
-slbe,10,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,593559
-slbe,11,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,482091
-tapr,0,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,325160
-tapr,1,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,408618
-tapr,2,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,833566
-tapr,3,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,893558
-tapr,4,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,1557746
-tapr,5,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,2825872
-tapr,6,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,4201409
-tapr,7,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,3192593
-tapr,8,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,2029231
-tapr,9,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,1120572
-tapr,10,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,593559
-tapr,11,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,482091
-thro,0,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,325160
-thro,1,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,408618
-thro,2,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,833566
-thro,3,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,893558
-thro,4,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,1557746
-thro,5,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,2825872
-thro,6,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,4201409
-thro,7,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,3192593
-thro,8,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,2029231
-thro,9,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,1120572
-thro,10,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,593559
-thro,11,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,482091
-ulsg,0,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,325160
-ulsg,1,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,408618
-ulsg,2,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,833566
-ulsg,3,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,893558
-ulsg,4,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,1557746
-ulsg,5,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,2825872
-ulsg,6,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,4201409
-ulsg,7,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,3192593
-ulsg,8,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,2029231
-ulsg,9,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,1120572
-ulsg,10,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,593559
-ulsg,11,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,482091
-voya,0,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,325160
-voya,1,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,408618
-voya,2,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,833566
-voya,3,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,893558
-voya,4,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,1557746
-voya,5,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,2825872
-voya,6,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,4201409
-voya,7,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,3192593
-voya,8,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,2029231
-voya,9,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,1120572
-voya,10,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,593559
-voya,11,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,482091
-wica,0,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,325160
-wica,1,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,408618
-wica,2,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,833566
-wica,3,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,893558
-wica,4,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,1557746
-wica,5,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,2825872
-wica,6,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,4201409
-wica,7,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,3192593
-wica,8,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,2029231
-wica,9,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,1120572
-wica,10,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,593559
-wica,11,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,482091
-wicr,0,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,325160
-wicr,1,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,408618
-wicr,2,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,833566
-wicr,3,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,893558
-wicr,4,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,1557746
-wicr,5,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,2825872
-wicr,6,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,4201409
-wicr,7,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,3192593
-wicr,8,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,2029231
-wicr,9,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,1120572
-wicr,10,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,593559
-wicr,11,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,482091
-wiho,0,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,325160
-wiho,1,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,408618
-wiho,2,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,833566
-wiho,3,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,893558
-wiho,4,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,1557746
-wiho,5,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,2825872
-wiho,6,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,4201409
-wiho,7,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,3192593
-wiho,8,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,2029231
-wiho,9,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,1120572
-wiho,10,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,593559
-wiho,11,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,482091
+agfo,1,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,325160
+agfo,2,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,408618
+agfo,3,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,833566
+agfo,4,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,893558
+agfo,5,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,1557746
+agfo,6,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,2825872
+agfo,7,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,4201409
+agfo,8,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,3192593
+agfo,9,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,2029231
+agfo,10,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,1120572
+agfo,11,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,593559
+agfo,12,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886,Nebraska,41.5378,-99.7951,1893921.0,482091
+apis,1,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,325160
+apis,2,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,408618
+apis,3,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,833566
+apis,4,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,893558
+apis,5,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,1557746
+apis,6,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,2825872
+apis,7,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,4201409
+apis,8,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,3192593
+apis,9,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,2029231
+apis,10,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,1120572
+apis,11,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,593559
+apis,12,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665,Wisconsin,44.6243,-89.9941,5763217.0,482091
+badl,1,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,325160
+badl,2,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,408618
+badl,3,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,833566
+badl,4,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,893558
+badl,5,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,1557746
+badl,6,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,2825872
+badl,7,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,4201409
+badl,8,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,3192593
+badl,9,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,2029231
+badl,10,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,1120572
+badl,11,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,593559
+badl,12,SD,Badlands National Park,43.68584846,-102.482942,South Dakota,44.4443,-100.2263,855444.0,482091
+brvb,1,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,325160
+brvb,2,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,408618
+brvb,3,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,833566
+brvb,4,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,893558
+brvb,5,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,1557746
+brvb,6,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,2825872
+brvb,7,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,4201409
+brvb,8,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,3192593
+brvb,9,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,2029231
+brvb,10,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,1120572
+brvb,11,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,593559
+brvb,12,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437,Kansas,38.4937,-98.3804,2903820.0,482091
+chyo,1,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,325160
+chyo,2,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,408618
+chyo,3,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,833566
+chyo,4,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,893558
+chyo,5,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,1557746
+chyo,6,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,2825872
+chyo,7,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,4201409
+chyo,8,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,3192593
+chyo,9,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,2029231
+chyo,10,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,1120572
+chyo,11,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,593559
+chyo,12,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575,Ohio,40.2862,-82.7937,11609756.0,482091
+cuva,1,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,325160
+cuva,2,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,408618
+cuva,3,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,833566
+cuva,4,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,893558
+cuva,5,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,1557746
+cuva,6,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,2825872
+cuva,7,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,4201409
+cuva,8,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,3192593
+cuva,9,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,2029231
+cuva,10,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,1120572
+cuva,11,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,593559
+cuva,12,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722,Ohio,40.2862,-82.7937,11609756.0,482091
+daav,1,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,325160
+daav,2,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,408618
+daav,3,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,833566
+daav,4,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,893558
+daav,5,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,1557746
+daav,6,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,2825872
+daav,7,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,4201409
+daav,8,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,3192593
+daav,9,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,2029231
+daav,10,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,1120572
+daav,11,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,593559
+daav,12,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045,Ohio,40.2862,-82.7937,11609756.0,482091
+efmo,1,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,325160
+efmo,2,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,408618
+efmo,3,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,833566
+efmo,4,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,893558
+efmo,5,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,1557746
+efmo,6,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,2825872
+efmo,7,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,4201409
+efmo,8,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,3192593
+efmo,9,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,2029231
+efmo,10,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,1120572
+efmo,11,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,593559
+efmo,12,IA,Effigy Mounds National Monument,43.08095081,-91.19687517,Iowa,42.0751,-93.49600000000001,3118102.0,482091
+fila,1,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,325160
+fila,2,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,408618
+fila,3,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,833566
+fila,4,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,893558
+fila,5,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,1557746
+fila,6,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,2825872
+fila,7,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,4201409
+fila,8,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,3192593
+fila,9,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,2029231
+fila,10,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,1120572
+fila,11,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,593559
+fila,12,OH,First Ladies National Historic Site,40.79689857,-81.37579869,Ohio,40.2862,-82.7937,11609756.0,482091
+fols,1,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,325160
+fols,2,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,408618
+fols,3,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,833566
+fols,4,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,893558
+fols,5,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,1557746
+fols,6,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,2825872
+fols,7,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,4201409
+fols,8,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,3192593
+fols,9,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,2029231
+fols,10,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,1120572
+fols,11,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,593559
+fols,12,KS,Fort Larned National Historic Site,38.18047491,-99.21836664,Kansas,38.4937,-98.3804,2903820.0,482091
+fosc,1,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,325160
+fosc,2,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,408618
+fosc,3,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,833566
+fosc,4,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,893558
+fosc,5,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,1557746
+fosc,6,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,2825872
+fosc,7,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,4201409
+fosc,8,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,3192593
+fosc,9,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,2029231
+fosc,10,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,1120572
+fosc,11,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,593559
+fosc,12,KS,Fort Scott National Historic Site,37.84358849,-94.70429174,Kansas,38.4937,-98.3804,2903820.0,482091
+fous,1,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,325160
+fous,2,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,408618
+fous,3,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,833566
+fous,4,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,893558
+fous,5,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,1557746
+fous,6,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,2825872
+fous,7,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,4201409
+fous,8,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,3192593
+fous,9,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,2029231
+fous,10,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,1120572
+fous,11,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,593559
+fous,12,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238,North Dakota,47.4501,-100.4659,745475.0,482091
+gero,1,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,325160
+gero,2,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,408618
+gero,3,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,833566
+gero,4,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,893558
+gero,5,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,1557746
+gero,6,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,2825872
+gero,7,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,4201409
+gero,8,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,3192593
+gero,9,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,2029231
+gero,10,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,1120572
+gero,11,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,593559
+gero,12,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212,Indiana,39.8942,-86.2816,6614418.0,482091
+grpo,1,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,325160
+grpo,2,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,408618
+grpo,3,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,833566
+grpo,4,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,893558
+grpo,5,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,1557746
+grpo,6,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,2825872
+grpo,7,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,4201409
+grpo,8,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,3192593
+grpo,9,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,2029231
+grpo,10,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,1120572
+grpo,11,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,593559
+grpo,12,MN,Grand Portage National Monument,47.99294217,-89.75573031,Minnesota,46.2807,-94.3053,5490726.0,482091
+gwca,1,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,325160
+gwca,2,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,408618
+gwca,3,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,833566
+gwca,4,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,893558
+gwca,5,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,1557746
+gwca,6,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,2825872
+gwca,7,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,4201409
+gwca,8,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,3192593
+gwca,9,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,2029231
+gwca,10,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,1120572
+gwca,11,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,593559
+gwca,12,MO,George Washington Carver National Monument,36.9871322,-94.35522737,Missouri,38.3566,-92.458,6075300.0,482091
+heho,1,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,325160
+heho,2,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,408618
+heho,3,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,833566
+heho,4,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,893558
+heho,5,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,1557746
+heho,6,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,2825872
+heho,7,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,4201409
+heho,8,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,3192593
+heho,9,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,2029231
+heho,10,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,1120572
+heho,11,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,593559
+heho,12,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139,Iowa,42.0751,-93.49600000000001,3118102.0,482091
+hocu,1,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,325160
+hocu,2,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,408618
+hocu,3,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,833566
+hocu,4,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,893558
+hocu,5,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,1557746
+hocu,6,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,2825872
+hocu,7,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,4201409
+hocu,8,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,3192593
+hocu,9,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,2029231
+hocu,10,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,1120572
+hocu,11,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,593559
+hocu,12,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456,Ohio,40.2862,-82.7937,11609756.0,482091
+home,1,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,325160
+home,2,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,408618
+home,3,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,833566
+home,4,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,893558
+home,5,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,1557746
+home,6,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,2825872
+home,7,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,4201409
+home,8,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,3192593
+home,9,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,2029231
+home,10,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,1120572
+home,11,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,593559
+home,12,NE,Homestead National Monument of America,40.28802381,-96.83387781,Nebraska,41.5378,-99.7951,1893921.0,482091
+hstr,1,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,325160
+hstr,2,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,408618
+hstr,3,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,833566
+hstr,4,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,893558
+hstr,5,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,1557746
+hstr,6,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,2825872
+hstr,7,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,4201409
+hstr,8,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,3192593
+hstr,9,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,2029231
+hstr,10,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,1120572
+hstr,11,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,593559
+hstr,12,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488,Missouri,38.3566,-92.458,6075300.0,482091
+indu,1,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,325160
+indu,2,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,408618
+indu,3,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,833566
+indu,4,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,893558
+indu,5,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,1557746
+indu,6,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,2825872
+indu,7,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,4201409
+indu,8,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,3192593
+indu,9,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,2029231
+indu,10,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,1120572
+indu,11,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,593559
+indu,12,IN,Indiana Dunes National Park,41.63765525,-87.09647445,Indiana,39.8942,-86.2816,6614418.0,482091
+isro,1,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,325160
+isro,2,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,408618
+isro,3,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,833566
+isro,4,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,893558
+isro,5,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,1557746
+isro,6,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,2825872
+isro,7,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,4201409
+isro,8,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,3192593
+isro,9,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,2029231
+isro,10,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,1120572
+isro,11,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,593559
+isro,12,MI,Isle Royale National Park,48.01145819,-88.82780657,Michigan,44.3467,-85.4102,9925568.0,482091
+jaga,1,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,325160
+jaga,2,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,408618
+jaga,3,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,833566
+jaga,4,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,893558
+jaga,5,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,1557746
+jaga,6,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,2825872
+jaga,7,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,4201409
+jaga,8,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,3192593
+jaga,9,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,2029231
+jaga,10,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,1120572
+jaga,11,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,593559
+jaga,12,OH,James A Garfield National Historic Site,41.66486549,-81.35086557,Ohio,40.2862,-82.7937,11609756.0,482091
+jeca,1,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,325160
+jeca,2,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,408618
+jeca,3,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,833566
+jeca,4,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,893558
+jeca,5,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,1557746
+jeca,6,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,2825872
+jeca,7,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,4201409
+jeca,8,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,3192593
+jeca,9,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,2029231
+jeca,10,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,1120572
+jeca,11,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,593559
+jeca,12,SD,Jewel Cave National Monument,43.73102945,-103.829994,South Dakota,44.4443,-100.2263,855444.0,482091
+jeff,1,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,325160
+jeff,2,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,408618
+jeff,3,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,833566
+jeff,4,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,893558
+jeff,5,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,1557746
+jeff,6,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,2825872
+jeff,7,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,4201409
+jeff,8,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,3192593
+jeff,9,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,2029231
+jeff,10,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,1120572
+jeff,11,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,593559
+jeff,12,MO,Gateway Arch National Park,38.6258069,-90.1892508,Missouri,38.3566,-92.458,6075300.0,482091
+kewe,1,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,325160
+kewe,2,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,408618
+kewe,3,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,833566
+kewe,4,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,893558
+kewe,5,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,1557746
+kewe,6,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,2825872
+kewe,7,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,4201409
+kewe,8,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,3192593
+kewe,9,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,2029231
+kewe,10,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,1120572
+kewe,11,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,593559
+kewe,12,MI,Keweenaw National Historical Park,47.1792308,-88.52275344,Michigan,44.3467,-85.4102,9925568.0,482091
+knri,1,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,325160
+knri,2,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,408618
+knri,3,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,833566
+knri,4,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,893558
+knri,5,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,1557746
+knri,6,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,2825872
+knri,7,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,4201409
+knri,8,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,3192593
+knri,9,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,2029231
+knri,10,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,1120572
+knri,11,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,593559
+knri,12,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533,North Dakota,47.4501,-100.4659,745475.0,482091
+libo,1,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,325160
+libo,2,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,408618
+libo,3,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,833566
+libo,4,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,893558
+libo,5,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,1557746
+libo,6,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,2825872
+libo,7,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,4201409
+libo,8,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,3192593
+libo,9,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,2029231
+libo,10,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,1120572
+libo,11,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,593559
+libo,12,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861,Indiana,39.8942,-86.2816,6614418.0,482091
+liho,1,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,325160
+liho,2,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,408618
+liho,3,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,833566
+liho,4,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,893558
+liho,5,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,1557746
+liho,6,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,2825872
+liho,7,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,4201409
+liho,8,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,3192593
+liho,9,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,2029231
+liho,10,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,1120572
+liho,11,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,593559
+liho,12,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397,Illinois,40.0417,-89.1965,12854526.0,482091
+mimi,1,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,325160
+mimi,2,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,408618
+mimi,3,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,833566
+mimi,4,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,893558
+mimi,5,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,1557746
+mimi,6,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,2825872
+mimi,7,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,4201409
+mimi,8,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,3192593
+mimi,9,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,2029231
+mimi,10,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,1120572
+mimi,11,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,593559
+mimi,12,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131,South Dakota,44.4443,-100.2263,855444.0,482091
+miss,1,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,325160
+miss,2,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,408618
+miss,3,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,833566
+miss,4,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,893558
+miss,5,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,1557746
+miss,6,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,2825872
+miss,7,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,4201409
+miss,8,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,3192593
+miss,9,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,2029231
+miss,10,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,1120572
+miss,11,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,593559
+miss,12,MN,Mississippi National River and Recreation Area,44.942487,-93.098712,Minnesota,46.2807,-94.3053,5490726.0,482091
+mnrr,1,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,325160
+mnrr,2,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,408618
+mnrr,3,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,833566
+mnrr,4,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,893558
+mnrr,5,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,1557746
+mnrr,6,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,2825872
+mnrr,7,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,4201409
+mnrr,8,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,3192593
+mnrr,9,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,2029231
+mnrr,10,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,1120572
+mnrr,11,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,593559
+mnrr,12,SD,Missouri National Recreational River,42.7882189,-97.59077822,South Dakota,44.4443,-100.2263,855444.0,482091
+moru,1,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,325160
+moru,2,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,408618
+moru,3,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,833566
+moru,4,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,893558
+moru,5,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,1557746
+moru,6,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,2825872
+moru,7,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,4201409
+moru,8,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,3192593
+moru,9,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,2029231
+moru,10,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,1120572
+moru,11,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,593559
+moru,12,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186,South Dakota,44.4443,-100.2263,855444.0,482091
+nico,1,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,325160
+nico,2,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,408618
+nico,3,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,833566
+nico,4,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,893558
+nico,5,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,1557746
+nico,6,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,2825872
+nico,7,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,4201409
+nico,8,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,3192593
+nico,9,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,2029231
+nico,10,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,1120572
+nico,11,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,593559
+nico,12,KS,Nicodemus National Historic Site,39.39167606,-99.61680329,Kansas,38.4937,-98.3804,2903820.0,482091
+niob,1,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,325160
+niob,2,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,408618
+niob,3,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,833566
+niob,4,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,893558
+niob,5,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,1557746
+niob,6,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,2825872
+niob,7,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,4201409
+niob,8,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,3192593
+niob,9,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,2029231
+niob,10,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,1120572
+niob,11,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,593559
+niob,12,NE,Niobrara National Scenic River,42.79413083,-99.91870646,Nebraska,41.5378,-99.7951,1893921.0,482091
+ozar,1,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,325160
+ozar,2,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,408618
+ozar,3,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,833566
+ozar,4,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,893558
+ozar,5,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,1557746
+ozar,6,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,2825872
+ozar,7,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,4201409
+ozar,8,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,3192593
+ozar,9,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,2029231
+ozar,10,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,1120572
+ozar,11,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,593559
+ozar,12,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817,Missouri,38.3566,-92.458,6075300.0,482091
+pevi,1,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,325160
+pevi,2,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,408618
+pevi,3,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,833566
+pevi,4,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,893558
+pevi,5,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,1557746
+pevi,6,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,2825872
+pevi,7,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,4201409
+pevi,8,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,3192593
+pevi,9,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,2029231
+pevi,10,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,1120572
+pevi,11,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,593559
+pevi,12,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794,Ohio,40.2862,-82.7937,11609756.0,482091
+pipe,1,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,325160
+pipe,2,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,408618
+pipe,3,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,833566
+pipe,4,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,893558
+pipe,5,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,1557746
+pipe,6,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,2825872
+pipe,7,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,4201409
+pipe,8,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,3192593
+pipe,9,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,2029231
+pipe,10,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,1120572
+pipe,11,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,593559
+pipe,12,MN,Pipestone National Monument,44.01351958,-96.32475523,Minnesota,46.2807,-94.3053,5490726.0,482091
+piro,1,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,325160
+piro,2,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,408618
+piro,3,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,833566
+piro,4,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,893558
+piro,5,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,1557746
+piro,6,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,2825872
+piro,7,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,4201409
+piro,8,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,3192593
+piro,9,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,2029231
+piro,10,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,1120572
+piro,11,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,593559
+piro,12,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733,Michigan,44.3467,-85.4102,9925568.0,482091
+rira,1,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,325160
+rira,2,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,408618
+rira,3,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,833566
+rira,4,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,893558
+rira,5,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,1557746
+rira,6,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,2825872
+rira,7,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,4201409
+rira,8,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,3192593
+rira,9,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,2029231
+rira,10,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,1120572
+rira,11,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,593559
+rira,12,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464,Michigan,44.3467,-85.4102,9925568.0,482091
+sacn,1,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,325160
+sacn,2,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,408618
+sacn,3,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,833566
+sacn,4,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,893558
+sacn,5,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,1557746
+sacn,6,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,2825872
+sacn,7,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,4201409
+sacn,8,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,3192593
+sacn,9,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,2029231
+sacn,10,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,1120572
+sacn,11,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,593559
+sacn,12,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685,Wisconsin,44.6243,-89.9941,5763217.0,482091
+scbl,1,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,325160
+scbl,2,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,408618
+scbl,3,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,833566
+scbl,4,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,893558
+scbl,5,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,1557746
+scbl,6,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,2825872
+scbl,7,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,4201409
+scbl,8,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,3192593
+scbl,9,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,2029231
+scbl,10,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,1120572
+scbl,11,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,593559
+scbl,12,NE,Scotts Bluff National Monument,41.83464193,-103.7071351,Nebraska,41.5378,-99.7951,1893921.0,482091
+slbe,1,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,325160
+slbe,2,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,408618
+slbe,3,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,833566
+slbe,4,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,893558
+slbe,5,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,1557746
+slbe,6,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,2825872
+slbe,7,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,4201409
+slbe,8,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,3192593
+slbe,9,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,2029231
+slbe,10,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,1120572
+slbe,11,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,593559
+slbe,12,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591,Michigan,44.3467,-85.4102,9925568.0,482091
+tapr,1,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,325160
+tapr,2,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,408618
+tapr,3,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,833566
+tapr,4,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,893558
+tapr,5,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,1557746
+tapr,6,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,2825872
+tapr,7,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,4201409
+tapr,8,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,3192593
+tapr,9,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,2029231
+tapr,10,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,1120572
+tapr,11,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,593559
+tapr,12,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822,Kansas,38.4937,-98.3804,2903820.0,482091
+thro,1,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,325160
+thro,2,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,408618
+thro,3,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,833566
+thro,4,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,893558
+thro,5,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,1557746
+thro,6,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,2825872
+thro,7,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,4201409
+thro,8,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,3192593
+thro,9,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,2029231
+thro,10,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,1120572
+thro,11,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,593559
+thro,12,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083,North Dakota,47.4501,-100.4659,745475.0,482091
+ulsg,1,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,325160
+ulsg,2,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,408618
+ulsg,3,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,833566
+ulsg,4,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,893558
+ulsg,5,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,1557746
+ulsg,6,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,2825872
+ulsg,7,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,4201409
+ulsg,8,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,3192593
+ulsg,9,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,2029231
+ulsg,10,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,1120572
+ulsg,11,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,593559
+ulsg,12,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255,Missouri,38.3566,-92.458,6075300.0,482091
+voya,1,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,325160
+voya,2,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,408618
+voya,3,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,833566
+voya,4,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,893558
+voya,5,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,1557746
+voya,6,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,2825872
+voya,7,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,4201409
+voya,8,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,3192593
+voya,9,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,2029231
+voya,10,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,1120572
+voya,11,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,593559
+voya,12,MN,Voyageurs National Park,48.48370609,-92.8382913,Minnesota,46.2807,-94.3053,5490726.0,482091
+wica,1,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,325160
+wica,2,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,408618
+wica,3,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,833566
+wica,4,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,893558
+wica,5,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,1557746
+wica,6,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,2825872
+wica,7,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,4201409
+wica,8,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,3192593
+wica,9,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,2029231
+wica,10,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,1120572
+wica,11,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,593559
+wica,12,SD,Wind Cave National Park,43.58012365,-103.4394709,South Dakota,44.4443,-100.2263,855444.0,482091
+wicr,1,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,325160
+wicr,2,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,408618
+wicr,3,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,833566
+wicr,4,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,893558
+wicr,5,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,1557746
+wicr,6,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,2825872
+wicr,7,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,4201409
+wicr,8,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,3192593
+wicr,9,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,2029231
+wicr,10,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,1120572
+wicr,11,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,593559
+wicr,12,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704,Missouri,38.3566,-92.458,6075300.0,482091
+wiho,1,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,325160
+wiho,2,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,408618
+wiho,3,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,833566
+wiho,4,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,893558
+wiho,5,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,1557746
+wiho,6,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,2825872
+wiho,7,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,4201409
+wiho,8,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,3192593
+wiho,9,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,2029231
+wiho,10,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,1120572
+wiho,11,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,593559
+wiho,12,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951,Ohio,40.2862,-82.7937,11609756.0,482091
