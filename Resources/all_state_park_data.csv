@@ -1,0 +1,659 @@
+Name,Population,Latitude,Longitude,StateCode,FullName,UnitCode,UnitName
+Puerto Rico,3468963.0,18.2001,-66.6645,Puerto Rico,,,
+Alabama,4850771.0,32.7794,-86.8287,AL,Birmingham Civil Rights National Monument,BICR,Birmingham Civil Rights
+Alabama,4850771.0,32.7794,-86.8287,AL,Freedom Riders National Monument,FRRI,Freedom Riders
+Alabama,4850771.0,32.7794,-86.8287,AL,Horseshoe Bend National Military Park,HOBE,Horseshoe Bend
+Alabama,4850771.0,32.7794,-86.8287,AL,Little River Canyon National Preserve,LIRI,Little River Canyon
+Alabama,4850771.0,32.7794,-86.8287,AL,Natchez Trace Parkway,NATR,Natchez Trace Parkway
+Alabama,4850771.0,32.7794,-86.8287,AL,Natchez Trace National Scenic Trail,NATT,Natchez Trace
+Alabama,4850771.0,32.7794,-86.8287,AL,Russell Cave National Monument,RUCA,Russell Cave
+Alabama,4850771.0,32.7794,-86.8287,AL,Selma To Montgomery National Historic Trail ,SEMO,Selma To Montgomery
+Alabama,4850771.0,32.7794,-86.8287,AL,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Alabama,4850771.0,32.7794,-86.8287,AL,Tuskegee Airmen National Historic Site,TUAI,Tuskegee Airmen
+Alabama,4850771.0,32.7794,-86.8287,AL,Tuskegee Institute National Historic Site,TUIN,Tuskegee Institute
+Alaska,738565.0,64.0685,-152.2782,AK,Alaska Region Office ,AKRO,Alaska Region Office
+Alaska,738565.0,64.0685,-152.2782,AK,Alagnak Wild River,ALAG,Alagnak Wild River
+Alaska,738565.0,64.0685,-152.2782,AK,Aleutian Islands World War II National Monument,ALEU,Aleutian Islands World War II
+Alaska,738565.0,64.0685,-152.2782,AK,Aniakchak National Monument and Preserve ,ANIA,Aniakchak
+Alaska,738565.0,64.0685,-152.2782,AK,Aniakchak National Monument,ANIG,Aniakchak
+Alaska,738565.0,64.0685,-152.2782,AK,Aniakchak National Preserve,ANIP,Aniakchak
+Alaska,738565.0,64.0685,-152.2782,AK,Bering Land Bridge National Preserve,BELA,Bering Land Bridge
+Alaska,738565.0,64.0685,-152.2782,AK,Cape Krusenstern National Monument,CAKR,Cape Krusenstern
+Alaska,738565.0,64.0685,-152.2782,AK,Denali National Park and Preserve ,DENA,Denali
+Alaska,738565.0,64.0685,-152.2782,AK,Denali National Park,DENG,Denali
+Alaska,738565.0,64.0685,-152.2782,AK,Denali National Preserve,DENP,Denali
+Alaska,738565.0,64.0685,-152.2782,AK,Gates of the Arctic National Park,GAAG,Gates of the Arctic
+Alaska,738565.0,64.0685,-152.2782,AK,Gates of the Arctic National Preserve,GAAP,Gates of the Arctic
+Alaska,738565.0,64.0685,-152.2782,AK,Gates of the Arctic National Park and Preserve ,GAAR,Gates of the Arctic
+Alaska,738565.0,64.0685,-152.2782,AK,Glacier Bay National Park and Preserve ,GLBA,Glacier Bay
+Alaska,738565.0,64.0685,-152.2782,AK,Glacier Bay National Park,GLBG,Glacier Bay
+Alaska,738565.0,64.0685,-152.2782,AK,Glacier Bay National Preserve,GLBP,Glacier Bay
+Alaska,738565.0,64.0685,-152.2782,AK,Inupiat Heritage Center ,INUP,Inupiat Heritage Center
+Alaska,738565.0,64.0685,-152.2782,AK,Katmai National Park,KATG,Katmai
+Alaska,738565.0,64.0685,-152.2782,AK,Katmai National Park and Preserve ,KATM,Katmai
+Alaska,738565.0,64.0685,-152.2782,AK,Katmai National Preserve,KATP,Katmai
+Alaska,738565.0,64.0685,-152.2782,AK,Kenai Fjords National Park,KEFJ,Kenai Fjords
+Alaska,738565.0,64.0685,-152.2782,AK,Klondike Gold Rush National Historical Park,KLGO,Klondike Gold Rush
+Alaska,738565.0,64.0685,-152.2782,AK,Kobuk Valley National Park,KOVA,Kobuk Valley
+Alaska,738565.0,64.0685,-152.2782,AK,Lake Clark National Park,LACG,Lake Clark
+Alaska,738565.0,64.0685,-152.2782,AK,Lake Clark National Park and Preserve ,LACL,Lake Clark
+Alaska,738565.0,64.0685,-152.2782,AK,Lake Clark National Preserve,LACP,Lake Clark
+Alaska,738565.0,64.0685,-152.2782,AK,Noatak National Preserve,NOAT,Noatak
+Alaska,738565.0,64.0685,-152.2782,AK,Northwest Alaska Areas Management Unit ,NWAK,Northwest Alaska Areas Management Unit
+Alaska,738565.0,64.0685,-152.2782,AK,Sitka National Historical Park,SITK,Sitka
+Alaska,738565.0,64.0685,-152.2782,AK,World War II Valor in the Pacific National Monument,VALR,World War II Valor in the Pacific
+Alaska,738565.0,64.0685,-152.2782,AK,Western Arctic National Parklands ,WEAR,Western Arctic National Parklands
+Alaska,738565.0,64.0685,-152.2782,AK,Wrangell-St. Elias National Park,WRSG,Wrangell-St. Elias
+Alaska,738565.0,64.0685,-152.2782,AK,Wrangell - St Elias National Preserve,WRSP,Wrangell - St Elias
+Alaska,738565.0,64.0685,-152.2782,AK,Wrangell - St Elias National Park and Preserve ,WRST,Wrangell - St Elias
+Alaska,738565.0,64.0685,-152.2782,AK,Yukon-Charley Rivers National Preserve,YUCH,Yukon-Charley Rivers
+Arizona,6809946.0,34.2744,-111.6602,AZ,Canyon De Chelly National Monument,CACH,Canyon De Chelly
+Arizona,6809946.0,34.2744,-111.6602,AZ,Casa Grande Ruins National Monument,CAGR,Casa Grande Ruins
+Arizona,6809946.0,34.2744,-111.6602,AZ,Chiricahua National Monument,CHIR,Chiricahua
+Arizona,6809946.0,34.2744,-111.6602,AZ,Coronado National Memorial,CORO,Coronado
+Arizona,6809946.0,34.2744,-111.6602,AZ,Fort Bowie National Historic Site,FOBO,Fort Bowie
+Arizona,6809946.0,34.2744,-111.6602,AZ,Glen Canyon National Recreation Area,GLCA,Glen Canyon
+Arizona,6809946.0,34.2744,-111.6602,AZ,Grand Canyon National Park,GRCA,Grand Canyon
+Arizona,6809946.0,34.2744,-111.6602,AZ,Hubbell Trading Post National Historic Site,HUTR,Hubbell Trading Post
+Arizona,6809946.0,34.2744,-111.6602,AZ,Juan Bautista De Anza National Historic Trail ,JUBA,Juan Bautista De Anza
+Arizona,6809946.0,34.2744,-111.6602,AZ,Lake Mead National Recreation Area,LAKE,Lake Mead
+Arizona,6809946.0,34.2744,-111.6602,AZ,Lake Mead National Recreation Area,LAME,Lake Mead
+Arizona,6809946.0,34.2744,-111.6602,AZ,Montezuma Castle National Monument,MOCA,Montezuma Castle
+Arizona,6809946.0,34.2744,-111.6602,AZ,Navajo National Monument,NAVA,Navajo
+Arizona,6809946.0,34.2744,-111.6602,AZ,Old Spanish National Historic Trail ,OLSP,Old Spanish
+Arizona,6809946.0,34.2744,-111.6602,AZ,Organ Pipe Cactus National Monument,ORPI,Organ Pipe Cactus
+Arizona,6809946.0,34.2744,-111.6602,AZ,Parashant National Monument,PARA,Parashant
+Arizona,6809946.0,34.2744,-111.6602,AZ,Petrified Forest National Park,PEFO,Petrified Forest
+Arizona,6809946.0,34.2744,-111.6602,AZ,Hohokam Pima National Monument,PIMA,Hohokam Pima
+Arizona,6809946.0,34.2744,-111.6602,AZ,Pipe Spring National Monument,PISP,Pipe Spring
+Arizona,6809946.0,34.2744,-111.6602,AZ,Saguaro National Park,SAGU,Saguaro
+Arizona,6809946.0,34.2744,-111.6602,AZ,Sunset Crater Volcano National Monument,SUCR,Sunset Crater Volcano
+Arizona,6809946.0,34.2744,-111.6602,AZ,Tonto National Monument,TONT,Tonto
+Arizona,6809946.0,34.2744,-111.6602,AZ,Tumacacori National Historical Park,TUMA,Tumacacori
+Arizona,6809946.0,34.2744,-111.6602,AZ,Tuzigoot National Monument,TUZI,Tuzigoot
+Arizona,6809946.0,34.2744,-111.6602,AZ,Walnut Canyon National Monument,WACA,Walnut Canyon
+Arizona,6809946.0,34.2744,-111.6602,AZ,Western Archeological and Conservation Center ,WACC,Western Archeological and Conservation Center
+Arizona,6809946.0,34.2744,-111.6602,AZ,Wupatki National Monument,WUPA,Wupatki
+Arkansas,2977944.0,34.8938,-92.4426,AR,Arkansas Post National Memorial,ARPO,Arkansas Post
+Arkansas,2977944.0,34.8938,-92.4426,AR,Buffalo National River,BUFF,Buffalo
+Arkansas,2977944.0,34.8938,-92.4426,AR,Central High School National Historic Site,CHSC,Central High School
+Arkansas,2977944.0,34.8938,-92.4426,AR,Fort Smith National Historic Site,FOSM,Fort Smith
+Arkansas,2977944.0,34.8938,-92.4426,AR,Hot Springs National Park,HOSP,Hot Springs
+Arkansas,2977944.0,34.8938,-92.4426,AR,Pea Ridge National Military Park,PERI,Pea Ridge
+Arkansas,2977944.0,34.8938,-92.4426,AR,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Arkansas,2977944.0,34.8938,-92.4426,AR,William Jefferson Clinton Birthplace National Historic Site,WICL,William Jefferson Clinton Birthplace
+California,38982847.0,37.1841,-119.4696,CA,Alcatraz Island ,ALCA,Alcatraz Island
+California,38982847.0,37.1841,-119.4696,CA,Cabrillo National Monument,CABR,Cabrillo
+California,38982847.0,37.1841,-119.4696,CA,California National Historic Trail ,CALI,California
+California,38982847.0,37.1841,-119.4696,CA,Castle Mountains National Monument,CAMO,Castle Mountains
+California,38982847.0,37.1841,-119.4696,CA,Cesar E. Chavez National Monument,CECH,Cesar E. Chavez
+California,38982847.0,37.1841,-119.4696,CA,Channel Islands National Park,CHIS,Channel Islands
+California,38982847.0,37.1841,-119.4696,CA,Devils Postpile National Monument,DEPO,Devils Postpile
+California,38982847.0,37.1841,-119.4696,CA,Death Valley National Park,DEVA,Death Valley
+California,38982847.0,37.1841,-119.4696,CA,Eugene O'Neill National Historic Site,EUON,Eugene O'Neill
+California,38982847.0,37.1841,-119.4696,CA,Fort Point National Historic Site,FOPO,Fort Point
+California,38982847.0,37.1841,-119.4696,CA,Golden Gate National Recreation Area,GOGA,Golden Gate
+California,38982847.0,37.1841,-119.4696,CA,John Muir National Historic Site,JOMU,John Muir
+California,38982847.0,37.1841,-119.4696,CA,Joshua Tree National Park,JOTR,Joshua Tree
+California,38982847.0,37.1841,-119.4696,CA,Juan Bautista De Anza National Historic Trail ,JUBA,Juan Bautista De Anza
+California,38982847.0,37.1841,-119.4696,CA,Kings Canyon National Park,KICA,Kings Canyon
+California,38982847.0,37.1841,-119.4696,CA,Lava Beds National Monument,LABE,Lava Beds
+California,38982847.0,37.1841,-119.4696,CA,Lassen Volcanic National Park,LAVO,Lassen Volcanic
+California,38982847.0,37.1841,-119.4696,CA,Marin Headlands Sites ,MAHE,Marin Headlands Sites
+California,38982847.0,37.1841,-119.4696,CA,Manzanar National Historic Site,MANZ,Manzanar
+California,38982847.0,37.1841,-119.4696,CA,Mojave National Preserve,MOJA,Mojave
+California,38982847.0,37.1841,-119.4696,CA,Muir Woods National Monument,MUWO,Muir Woods
+California,38982847.0,37.1841,-119.4696,CA,Old Spanish National Historic Trail ,OLSP,Old Spanish
+California,38982847.0,37.1841,-119.4696,CA,Pinnacles National Park,PINN,Pinnacles
+California,38982847.0,37.1841,-119.4696,CA,Port Chicago Naval Magazine National Memorial ,POCH,Port Chicago Naval Magazine National Memorial
+California,38982847.0,37.1841,-119.4696,CA,Pony Express National Historic Trail ,POEX,Pony Express
+California,38982847.0,37.1841,-119.4696,CA,Point Reyes National Seashore,PORE,Point Reyes
+California,38982847.0,37.1841,-119.4696,CA,Presidio of San Francisco ,PRES,Presidio of San Francisco
+California,38982847.0,37.1841,-119.4696,CA,Presidio of San Francisco ,PRSF,Presidio of San Francisco
+California,38982847.0,37.1841,-119.4696,CA,Redwood National Park,REDW,Redwood
+California,38982847.0,37.1841,-119.4696,CA,Rosie The Riveter WWII Home Front National Historical Park,RORI,Rosie The Riveter WWII Home Front
+California,38982847.0,37.1841,-119.4696,CA,San Francisco Maritime National Historical Park,SAFR,San Francisco Maritime
+California,38982847.0,37.1841,-119.4696,CA,Santa Monica Mountains National Recreation Area,SAMO,Santa Monica Mountains
+California,38982847.0,37.1841,-119.4696,CA,Sequoia and Kings Canyon National Parks ,SEKI,Sequoia and Kings Canyon
+California,38982847.0,37.1841,-119.4696,CA,Sequoia National Park,SEQU,Sequoia
+California,38982847.0,37.1841,-119.4696,CA,Tule Lake National Monument,TULE,Tule Lake
+California,38982847.0,37.1841,-119.4696,CA,World War II Valor in the Pacific National Monument,VALR,World War II Valor in the Pacific
+California,38982847.0,37.1841,-119.4696,CA,Whiskeytown National Recreation Area,WHIS,Whiskeytown
+California,38982847.0,37.1841,-119.4696,CA,Yosemite National Park,YOSE,Yosemite
+Colorado,5436519.0,38.9972,-105.5478,CO,Bent's Old Fort National Historic Site,BEOL,Bent's Old Fort
+Colorado,5436519.0,38.9972,-105.5478,CO,Black Canyon of the Gunnison National Park,BLCA,Black Canyon of the Gunnison
+Colorado,5436519.0,38.9972,-105.5478,CO,Cache La Poudre River Corridor National Heritage Area,CALA,Cache La Poudre River Corridor
+Colorado,5436519.0,38.9972,-105.5478,CO,California National Historic Trail ,CALI,California
+Colorado,5436519.0,38.9972,-105.5478,CO,Colorado National Monument,COLM,Colorado
+Colorado,5436519.0,38.9972,-105.5478,CO,Curecanti National Recreation Area,CURE,Curecanti
+Colorado,5436519.0,38.9972,-105.5478,CO,Dinosaur National Monument,DINO,Dinosaur
+Colorado,5436519.0,38.9972,-105.5478,CO,Florissant Fossil Beds National Monument,FLFO,Florissant Fossil Beds
+Colorado,5436519.0,38.9972,-105.5478,CO,Great Sand Dunes National Park,GRDG,Great Sand Dunes
+Colorado,5436519.0,38.9972,-105.5478,CO,Great Sand Dunes National Preserve,GRDP,Great Sand Dunes
+Colorado,5436519.0,38.9972,-105.5478,CO,Great Sand Dunes National Park and Preserve ,GRSA,Great Sand Dunes
+Colorado,5436519.0,38.9972,-105.5478,CO,Hovenweep National Monument,HOVE,Hovenweep
+Colorado,5436519.0,38.9972,-105.5478,CO,Mesa Verde National Park,MEVE,Mesa Verde
+Colorado,5436519.0,38.9972,-105.5478,CO,Old Spanish National Historic Trail ,OLSP,Old Spanish
+Colorado,5436519.0,38.9972,-105.5478,CO,Pony Express National Historic Trail ,POEX,Pony Express
+Colorado,5436519.0,38.9972,-105.5478,CO,Rocky Mountain National Park,ROMO,Rocky Mountain
+Colorado,5436519.0,38.9972,-105.5478,CO,Santa Fe National Historic Trail ,SAFE,Santa Fe
+Colorado,5436519.0,38.9972,-105.5478,CO,Sand Creek Massacre National Historic Site,SAND,Sand Creek Massacre
+Colorado,5436519.0,38.9972,-105.5478,CO,Yucca House National Monument,YUHO,Yucca House
+Connecticut,3594478.0,41.6219,-72.7273,CT,Appalachian National Scenic Trail,APPA,Appalachian
+Connecticut,3594478.0,41.6219,-72.7273,CT,Farmington National Wild And Scenic River,FARM,Farmington
+Connecticut,3594478.0,41.6219,-72.7273,CT,New England National Scenic Trail,NEEN,New England National Scenic Trail
+Connecticut,3594478.0,41.6219,-72.7273,CT,Quinebaug and Shetucket Rivers Valley National Heritage Corridor ,QUSH,Quinebaug and Shetucket Rivers Valley National Heritage Corridor
+Connecticut,3594478.0,41.6219,-72.7273,CT,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+Connecticut,3594478.0,41.6219,-72.7273,CT,Weir Farm National Historic Site,WEFA,Weir Farm
+District of Columbia,672391.0,38.9101,-77.0147,District of Columbia,,,
+Delaware,943732.0,38.9896,-75.505,DE,Captain John Smith Chesapeake National Historic Trail,CAJO,Captain John Smith Chesapeake National Historic Trail
+Delaware,943732.0,38.9896,-75.505,DE,First State National Historical Park,FRST,First State
+Delaware,943732.0,38.9896,-75.505,DE,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+Florida,20278447.0,28.6305,-82.4497,FL,Big Cypress National Preserve,BICY,Big Cypress
+Florida,20278447.0,28.6305,-82.4497,FL,Biscayne National Park,BISC,Biscayne
+Florida,20278447.0,28.6305,-82.4497,FL,Canaveral National Seashore,CANA,Canaveral
+Florida,20278447.0,28.6305,-82.4497,FL,Castillo De San Marcos National Monument,CASA,Castillo De San Marcos
+Florida,20278447.0,28.6305,-82.4497,FL,Cumberland Island National Seashore,CUIS,Cumberland Island
+Florida,20278447.0,28.6305,-82.4497,FL,DeSoto National Memorial,DESO,DeSoto
+Florida,20278447.0,28.6305,-82.4497,FL,Dry Tortugas National Park,DRTO,Dry Tortugas
+Florida,20278447.0,28.6305,-82.4497,FL,Everglades National Park,EVER,Everglades
+Florida,20278447.0,28.6305,-82.4497,FL,Fort Caroline National Memorial,FOCA,Fort Caroline
+Florida,20278447.0,28.6305,-82.4497,FL,Fort Matanzas National Monument,FOMA,Fort Matanzas
+Florida,20278447.0,28.6305,-82.4497,FL,Gulf Islands National Seashore,GUIS,Gulf Islands
+Florida,20278447.0,28.6305,-82.4497,FL,Mar-A-Lago National Historic Site,MAAL,Mar-A-Lago
+Florida,20278447.0,28.6305,-82.4497,FL,Southeast Archeological Center ,SEAC,Southeast Archeological Center
+Florida,20278447.0,28.6305,-82.4497,FL,Timucuan Ecological and Historic Preserve,TIMU,Timucuan
+Georgia,10201635.0,32.6415,-83.4426,GA,Andersonville National Historic Site,ANDE,Andersonville
+Georgia,10201635.0,32.6415,-83.4426,GA,Appalachian National Scenic Trail,APPA,Appalachian
+Georgia,10201635.0,32.6415,-83.4426,GA,Chattahoochee River National Recreation Area,CHAT,Chattahoochee River
+Georgia,10201635.0,32.6415,-83.4426,GA,Chickamauga and Chattanooga National Military Park,CHCH,Chickamauga and Chattanooga
+Georgia,10201635.0,32.6415,-83.4426,GA,Cumberland Island National Seashore,CUIS,Cumberland Island
+Georgia,10201635.0,32.6415,-83.4426,GA,Fort Frederica National Monument,FOFR,Fort Frederica
+Georgia,10201635.0,32.6415,-83.4426,GA,Fort Pulaski National Monument,FOPU,Fort Pulaski
+Georgia,10201635.0,32.6415,-83.4426,GA,Jimmy Carter National Historic Site,JICA,Jimmy Carter
+Georgia,10201635.0,32.6415,-83.4426,GA,Kennesaw Mountain National Battlefield Park,KEMO,Kennesaw Mountain
+Georgia,10201635.0,32.6415,-83.4426,GA,"Martin Luther King, Jr. National Historical Park",MALU,"Martin Luther King, Jr."
+Georgia,10201635.0,32.6415,-83.4426,GA,Ocmulgee Mounds National Historical Park,OCMU,Ocmulgee Mounds
+Georgia,10201635.0,32.6415,-83.4426,GA,Southeast Region Office ,SERO,Southeast Region Office
+Georgia,10201635.0,32.6415,-83.4426,GA,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Hawaii,1421658.0,20.2927,-156.3737,HI,Ala Kahakai National Historic Trail ,ALKA,Ala Kahakai National Historic Trail
+Hawaii,1421658.0,20.2927,-156.3737,HI,Haleakala National Park,HALE,Haleakala
+Hawaii,1421658.0,20.2927,-156.3737,HI,Hawaii Volcanoes National Park,HAVO,Hawaii Volcanoes
+Hawaii,1421658.0,20.2927,-156.3737,HI,Honouliuli National Historic Site,HONO,Honouliuli
+Hawaii,1421658.0,20.2927,-156.3737,HI,Kaloko-Honokohau National Historical Park,KAHO,Kaloko-Honokohau
+Hawaii,1421658.0,20.2927,-156.3737,HI,Kalaupapa National Historical Park,KALA,Kalaupapa
+Hawaii,1421658.0,20.2927,-156.3737,HI,Pearl Harbor National Memorial,PERL,Pearl Harbor
+Hawaii,1421658.0,20.2927,-156.3737,HI,Puukohola Heiau National Historic Site,PUHE,Puukohola Heiau
+Hawaii,1421658.0,20.2927,-156.3737,HI,Pu'uhonua o Honaunau National Historical Park,PUHO,Pu'uhonua o Honaunau
+Hawaii,1421658.0,20.2927,-156.3737,HI,USS Arizona Memorial,USAR,USS Arizona Memorial
+Hawaii,1421658.0,20.2927,-156.3737,HI,World War II Valor in the Pacific National Monument,VALR,World War II Valor in the Pacific
+Idaho,1657375.0,44.3509,-114.613,ID,California National Historic Trail ,CALI,California
+Idaho,1657375.0,44.3509,-114.613,ID,City Of Rocks National Reserve,CIRO,City Of Rocks
+Idaho,1657375.0,44.3509,-114.613,ID,Craters of the Moon National Monument,CRMG,Craters of the Moon
+Idaho,1657375.0,44.3509,-114.613,ID,Craters of the Moon National Monument and Preserve,CRMO,Craters of the Moon
+Idaho,1657375.0,44.3509,-114.613,ID,Craters of the Moon National Preserve,CRMP,Craters of the Moon
+Idaho,1657375.0,44.3509,-114.613,ID,Hagerman Fossil Beds National Monument,HAFO,Hagerman Fossil Beds
+Idaho,1657375.0,44.3509,-114.613,ID,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+Idaho,1657375.0,44.3509,-114.613,ID,Minidoka National Historic Site,MIIN,Minidoka
+Idaho,1657375.0,44.3509,-114.613,ID,Nez Perce National Historical Park,NEPE,Nez Perce
+Idaho,1657375.0,44.3509,-114.613,ID,Oregon National Historic Trail ,OREG,Oregon
+Idaho,1657375.0,44.3509,-114.613,ID,Yellowstone National Park,YELL,Yellowstone
+Illinois,12854526.0,40.0417,-89.1965,IL,Chicago Portage National Historic Site ,CHPO,Chicago Portage National Historic Site
+Illinois,12854526.0,40.0417,-89.1965,IL,Illinois and Michigan Canal National Heritage Corridor ,ILMI,Illinois and Michigan Canal National Heritage Corridor
+Illinois,12854526.0,40.0417,-89.1965,IL,Gateway Arch National Park,JEFF,Gateway Arch
+Illinois,12854526.0,40.0417,-89.1965,IL,Lincoln Home National Historic Site,LIHO,Lincoln Home
+Illinois,12854526.0,40.0417,-89.1965,IL,Mormon Pioneer National Historic Trail ,MOPI,Mormon Pioneer
+Illinois,12854526.0,40.0417,-89.1965,IL,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Indiana,6614418.0,39.8942,-86.2816,IN,George Rogers Clark National Historical Park,GERO,George Rogers Clark
+Indiana,6614418.0,39.8942,-86.2816,IN,Indiana Dunes National Park,INDU,Indiana Dunes
+Indiana,6614418.0,39.8942,-86.2816,IN,Lincoln Boyhood National Memorial,LIBO,Lincoln Boyhood
+Iowa,3118102.0,42.0751,-93.49600000000001,IA,California National Historic Trail ,CALI,California
+Iowa,3118102.0,42.0751,-93.49600000000001,IA,Effigy Mounds National Monument,EFMO,Effigy Mounds
+Iowa,3118102.0,42.0751,-93.49600000000001,IA,Herbert Hoover National Historic Site,HEHO,Herbert Hoover
+Iowa,3118102.0,42.0751,-93.49600000000001,IA,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+Iowa,3118102.0,42.0751,-93.49600000000001,IA,Mormon Pioneer National Historic Trail ,MOPI,Mormon Pioneer
+Kansas,2903820.0,38.4937,-98.3804,KS,Brown v. Board of Education National Historic Site,BRVB,Brown v. Board of Education
+Kansas,2903820.0,38.4937,-98.3804,KS,California National Historic Trail ,CALI,California
+Kansas,2903820.0,38.4937,-98.3804,KS,Fort Larned National Historic Site,FOLS,Fort Larned
+Kansas,2903820.0,38.4937,-98.3804,KS,Fort Scott National Historic Site,FOSC,Fort Scott
+Kansas,2903820.0,38.4937,-98.3804,KS,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+Kansas,2903820.0,38.4937,-98.3804,KS,Nicodemus National Historic Site,NICO,Nicodemus
+Kansas,2903820.0,38.4937,-98.3804,KS,Oregon National Historic Trail ,OREG,Oregon
+Kansas,2903820.0,38.4937,-98.3804,KS,Pony Express National Historic Trail ,POEX,Pony Express
+Kansas,2903820.0,38.4937,-98.3804,KS,Santa Fe National Historic Trail ,SAFE,Santa Fe
+Kansas,2903820.0,38.4937,-98.3804,KS,Tallgrass Prairie National Preserve,TAPR,Tallgrass Prairie
+Kentucky,4424376.0,37.5347,-85.3021,KY,Abraham Lincoln Birthplace National Historical Park,ABLI,Abraham Lincoln Birthplace
+Kentucky,4424376.0,37.5347,-85.3021,KY,Big South Fork National River and Recreation Area,BISO,Big South Fork National River and Recreation Area
+Kentucky,4424376.0,37.5347,-85.3021,KY,Camp Nelson National Monument,CANE,Camp Nelson
+Kentucky,4424376.0,37.5347,-85.3021,KY,Cumberland Gap National Historical Park,CUGA,Cumberland Gap
+Kentucky,4424376.0,37.5347,-85.3021,KY,Fort Donelson National Cemetery,FDNC,Fort Donelson
+Kentucky,4424376.0,37.5347,-85.3021,KY,Mammoth Cave National Park,MACA,Mammoth Cave
+Kentucky,4424376.0,37.5347,-85.3021,KY,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Maine,1330158.0,45.3695,-69.2428,ME,Acadia National Park,ACAD,Acadia
+Maine,1330158.0,45.3695,-69.2428,ME,Appalachian National Scenic Trail,APPA,Appalachian
+Maine,1330158.0,45.3695,-69.2428,ME,Katahdin Woods and Waters National Monument,KAWW,Katahdin Woods and Waters
+Maine,1330158.0,45.3695,-69.2428,ME,Saint Croix Island International Historic Site,SACR,Saint Croix Island
+Louisiana,4663461.0,31.0689,-91.9968,LA,Cane River Creole National Historical Park,CARI,Cane River Creole
+Louisiana,4663461.0,31.0689,-91.9968,LA,Cane River National Heritage Area ,CRHA,Cane River
+Louisiana,4663461.0,31.0689,-91.9968,LA,El Camino Real de los Tejas National Historic Trail ,ELTE,El Camino Real de los Tejas
+Louisiana,4663461.0,31.0689,-91.9968,LA,New Orleans Jazz National Historical Park,JAZZ,New Orleans Jazz
+Louisiana,4663461.0,31.0689,-91.9968,LA,Jean Lafitte National Historical Park and Preserve,JELA,Jean Lafitte
+Louisiana,4663461.0,31.0689,-91.9968,LA,Poverty Point National Monument,POPO,Poverty Point
+Louisiana,4663461.0,31.0689,-91.9968,LA,Vicksburg National Military Park,VICK,Vicksburg
+Louisiana,4663461.0,31.0689,-91.9968,LA,Vicksburg National Cemetery,VINC,Vicksburg
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Adams National Historical Park,ADAM,Adams
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Appalachian National Scenic Trail,APPA,Appalachian
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Blackstone River Valley National Heritage Corridor ,BLAC,Blackstone River Valley National Heritage Corridor
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Boston African American National Historic Site,BOAF,Boston African American
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Boston Harbor Islands National Recreation Area,BOHA,Boston Harbor Islands
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Boston National Historical Park,BOST,Boston
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Cape Cod National Seashore,CACO,Cape Cod
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Essex National Heritage Area,ESSE,Essex
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Frederick Law Olmsted National Historic Site,FRLA,Frederick Law Olmsted
+Massachusetts,6789319.0,42.2596,-71.8083,MA,John Fitzgerald  Kennedy National Historic Site,JOFI,John Fitzgerald  Kennedy
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Longfellow House - Washington's Headquarters National Historic Site,LONG,Longfellow House - Washington's Headquarters
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Lowell National Historical Park,LOWE,Lowell
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Minute Man National Historical Park,MIMA,Minute Man
+Massachusetts,6789319.0,42.2596,-71.8083,MA,New Bedford Whaling National Historical Park,NEBE,New Bedford Whaling
+Massachusetts,6789319.0,42.2596,-71.8083,MA,New England National Scenic Trail,NEEN,New England National Scenic Trail
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Quinebaug and Shetucket Rivers Valley National Heritage Corridor ,QUSH,Quinebaug and Shetucket Rivers Valley National Heritage Corridor
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Saugus Iron Works National Historic Site,SAIR,Saugus Iron Works
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Salem Maritime National Historic Site,SAMA,Salem Maritime
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Springfield Armory National Historic Site,SPAR,Springfield Armory
+Massachusetts,6789319.0,42.2596,-71.8083,MA,"Sudbury, Assabet and Concord National Wild And Scenic River",SUAS,"Sudbury, Assabet and Concord"
+Massachusetts,6789319.0,42.2596,-71.8083,MA,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+Maryland,5996079.0,39.055,-76.7909,MD,Anacostia Park ,ANAC,Anacostia Park
+Maryland,5996079.0,39.055,-76.7909,MD,Antietam National Cemetery,ANCM,Antietam
+Maryland,5996079.0,39.055,-76.7909,MD,Antietam National Battlefield,ANTI,Antietam
+Maryland,5996079.0,39.055,-76.7909,MD,Appalachian National Scenic Trail,APPA,Appalachian
+Maryland,5996079.0,39.055,-76.7909,MD,Assateague Island National Seashore,ASIS,Assateague Island
+Maryland,5996079.0,39.055,-76.7909,MD,Baltimore-Washington National Parkway,BAWA,Baltimore-Washington
+Maryland,5996079.0,39.055,-76.7909,MD,Captain John Smith Chesapeake National Historic Trail,CAJO,Captain John Smith Chesapeake National Historic Trail
+Maryland,5996079.0,39.055,-76.7909,MD,Catoctin Mountain Park,CATO,Catoctin Mountain
+Maryland,5996079.0,39.055,-76.7909,MD,Chesapeake Bay Gateways ,CBPO,Chesapeake Bay Gateways
+Maryland,5996079.0,39.055,-76.7909,MD,Chesapeake and Ohio Canal National Historical Park,CHOH,Chesapeake and Ohio Canal
+Maryland,5996079.0,39.055,-76.7909,MD,Clara Barton National Historic Site,CLBA,Clara Barton
+Maryland,5996079.0,39.055,-76.7909,MD,Fort Circle Parks ,FOCI,Fort Circle Parks
+Maryland,5996079.0,39.055,-76.7909,MD,Fort Foote Park ,FOFO,Fort Foote Park
+Maryland,5996079.0,39.055,-76.7909,MD,Fort McHenry National Monument and Historic Shrine,FOMC,Fort McHenry
+Maryland,5996079.0,39.055,-76.7909,MD,Fort Washington Park,FOWA,Fort Washington
+Maryland,5996079.0,39.055,-76.7909,MD,Glen Echo Park ,GLEC,Glen Echo Park
+Maryland,5996079.0,39.055,-76.7909,MD,Greenbelt Park,GREE,Greenbelt
+Maryland,5996079.0,39.055,-76.7909,MD,George Washington Memorial Parkway,GWMP,George Washington Memorial Parkway
+Maryland,5996079.0,39.055,-76.7909,MD,Harpers Ferry National Historical Park,HAFE,Harpers Ferry
+Maryland,5996079.0,39.055,-76.7909,MD,Harmony Hall ,HAHA,Harmony Hall
+Maryland,5996079.0,39.055,-76.7909,MD,Hampton National Historic Site,HAMP,Hampton
+Maryland,5996079.0,39.055,-76.7909,MD,Harriet Tubman Underground Railroad National Historical Park,HATU,Harriet Tubman Underground Railroad
+Maryland,5996079.0,39.055,-76.7909,MD,Monocacy National Battlefield,MONO,Monocacy
+Maryland,5996079.0,39.055,-76.7909,MD,Oxon Cove Park and Oxon Hill Run ,OXHI,Oxon Cove Park and Oxon Hill Run
+Maryland,5996079.0,39.055,-76.7909,MD,Oxon Run National Parkway,OXRU,Oxon Run
+Maryland,5996079.0,39.055,-76.7909,MD,Piscataway Park,PISC,Piscataway
+Maryland,5996079.0,39.055,-76.7909,MD,Potomac Heritage National Scenic Trail,POHE,Potomac Heritage
+Maryland,5996079.0,39.055,-76.7909,MD,Star-Spangled Banner National Historic Trail,STSP,Star-Spangled Banner National Historic Trail
+Maryland,5996079.0,39.055,-76.7909,MD,Thomas Stone National Historic Site,THST,Thomas Stone
+Maryland,5996079.0,39.055,-76.7909,MD,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+Michigan,9925568.0,44.3467,-85.4102,MI,Father Marquette National Memorial ,FAMA,Father Marquette National Memorial
+Michigan,9925568.0,44.3467,-85.4102,MI,Isle Royale National Park,ISRO,Isle Royale
+Michigan,9925568.0,44.3467,-85.4102,MI,Keweenaw National Historical Park,KEWE,Keweenaw
+Michigan,9925568.0,44.3467,-85.4102,MI,North Country National Scenic Trail,NOCO,North Country
+Michigan,9925568.0,44.3467,-85.4102,MI,Pictured Rocks National Lakeshore,PIRO,Pictured Rocks
+Michigan,9925568.0,44.3467,-85.4102,MI,River Raisin National Battlefield Park,RIRA,River Raisin
+Michigan,9925568.0,44.3467,-85.4102,MI,Sleeping Bear Dunes National Lakeshore,SLBE,Sleeping Bear Dunes
+Minnesota,5490726.0,46.2807,-94.3053,MN,Grand Portage National Monument,GRPO,Grand Portage
+Minnesota,5490726.0,46.2807,-94.3053,MN,Ice Age National Scenic Trail ,IATR,Ice Age National Scenic Trail
+Minnesota,5490726.0,46.2807,-94.3053,MN,Lower Saint Croix National Scenic Riverway,LOSA,Lower Saint Croix
+Minnesota,5490726.0,46.2807,-94.3053,MN,Mississippi National River and Recreation Areas,MISS,Mississippi National River and Recreation Areas
+Minnesota,5490726.0,46.2807,-94.3053,MN,North Country National Scenic Trail,NOCO,North Country
+Minnesota,5490726.0,46.2807,-94.3053,MN,Pipestone National Monument,PIPE,Pipestone
+Minnesota,5490726.0,46.2807,-94.3053,MN,Saint Croix National Scenic River,SACN,Saint Croix National Scenic River
+Minnesota,5490726.0,46.2807,-94.3053,MN,Voyageurs National Park,VOYA,Voyageurs
+Mississippi,2986220.0,32.7364,-89.6678,MS,Brices Cross Roads National Battlefield Site,BRCR,Brices Cross Roads
+Mississippi,2986220.0,32.7364,-89.6678,MS,Gulf Islands National Seashore,GUIS,Gulf Islands
+Mississippi,2986220.0,32.7364,-89.6678,MS,Natchez National Historical Park,NATC,Natchez
+Mississippi,2986220.0,32.7364,-89.6678,MS,Natchez Trace Parkway,NATR,Natchez Trace Parkway
+Mississippi,2986220.0,32.7364,-89.6678,MS,Natchez Trace National Scenic Trail,NATT,Natchez Trace
+Mississippi,2986220.0,32.7364,-89.6678,MS,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Mississippi,2986220.0,32.7364,-89.6678,MS,Tupelo National Battlefield,TUPE,Tupelo
+Mississippi,2986220.0,32.7364,-89.6678,MS,Vicksburg National Military Park,VICK,Vicksburg
+Mississippi,2986220.0,32.7364,-89.6678,MS,Vicksburg National Cemetery,VINC,Vicksburg
+Missouri,6075300.0,38.3566,-92.458,MO,California National Historic Trail ,CALI,California
+Missouri,6075300.0,38.3566,-92.458,MO,George Washington Carver National Monument,GWCA,George Washington Carver
+Missouri,6075300.0,38.3566,-92.458,MO,Harry S. Truman National Historic Site,HSTR,Harry S. Truman
+Missouri,6075300.0,38.3566,-92.458,MO,Gateway Arch National Park,JEFF,Gateway Arch
+Missouri,6075300.0,38.3566,-92.458,MO,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+Missouri,6075300.0,38.3566,-92.458,MO,Oregon National Historic Trail ,OREG,Oregon
+Missouri,6075300.0,38.3566,-92.458,MO,Ozark National Scenic Riverways,OZAR,Ozark National Scenic Riverways
+Missouri,6075300.0,38.3566,-92.458,MO,Pony Express National Historic Trail ,POEX,Pony Express
+Missouri,6075300.0,38.3566,-92.458,MO,Santa Fe National Historic Trail ,SAFE,Santa Fe
+Missouri,6075300.0,38.3566,-92.458,MO,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Missouri,6075300.0,38.3566,-92.458,MO,Ulysses S. Grant National Historic Site,ULSG,Ulysses S. Grant
+Missouri,6075300.0,38.3566,-92.458,MO,Wilson's Creek National Battlefield,WICR,Wilson's Creek
+Montana,1029862.0,47.0527,-109.6333,MT,Bear Paw Battlefield ,BEAR,Bear Paw Battlefield
+Montana,1029862.0,47.0527,-109.6333,MT,Bighorn Canyon National Recreation Area,BICA,Bighorn Canyon
+Montana,1029862.0,47.0527,-109.6333,MT,Big Hole National Battlefield,BIHO,Big Hole
+Montana,1029862.0,47.0527,-109.6333,MT,Glacier National Park,GLAC,Glacier
+Montana,1029862.0,47.0527,-109.6333,MT,Grant-Kohrs Ranch National Historic Site,GRKO,Grant-Kohrs Ranch
+Montana,1029862.0,47.0527,-109.6333,MT,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+Montana,1029862.0,47.0527,-109.6333,MT,Little Bighorn Battlefield National Monument,LIBI,Little Bighorn Battlefield
+Montana,1029862.0,47.0527,-109.6333,MT,Nez Perce National Historical Park,NEPE,Nez Perce
+Montana,1029862.0,47.0527,-109.6333,MT,Yellowstone National Park,YELL,Yellowstone
+Nebraska,1893921.0,41.5378,-99.7951,NE,Agate Fossil Beds National Monument,AGFO,Agate Fossil Beds
+Nebraska,1893921.0,41.5378,-99.7951,NE,California National Historic Trail ,CALI,California
+Nebraska,1893921.0,41.5378,-99.7951,NE,Chimney Rock National Historic Site ,CHRO,Chimney Rock National Historic Site
+Nebraska,1893921.0,41.5378,-99.7951,NE,Homestead National Monument of America,HOME,Homestead National Monument of America
+Nebraska,1893921.0,41.5378,-99.7951,NE,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+Nebraska,1893921.0,41.5378,-99.7951,NE,Missouri National Recreational River,MNRR,Missouri National Recreational River
+Nebraska,1893921.0,41.5378,-99.7951,NE,Mormon Pioneer National Historic Trail ,MOPI,Mormon Pioneer
+Nebraska,1893921.0,41.5378,-99.7951,NE,Midwest Archeological Center ,MWAC,Midwest Archeological Center
+Nebraska,1893921.0,41.5378,-99.7951,NE,Niobrara and Missouri National Scenic and Recreational Rivers ,NIMI,Niobrara and Missouri National Scenic and Recreational Rivers
+Nebraska,1893921.0,41.5378,-99.7951,NE,Niobrara National Scenic River,NIOB,Niobrara National Scenic River
+Nebraska,1893921.0,41.5378,-99.7951,NE,Oregon National Historic Trail ,OREG,Oregon
+Nebraska,1893921.0,41.5378,-99.7951,NE,Pony Express National Historic Trail ,POEX,Pony Express
+Nebraska,1893921.0,41.5378,-99.7951,NE,Scotts Bluff National Monument,SCBL,Scotts Bluff
+New Hampshire,1331848.0,43.6805,-71.5811,NH,Appalachian National Scenic Trail,APPA,Appalachian
+New Hampshire,1331848.0,43.6805,-71.5811,NH,Lamprey Wild and Scenic River ,LAMP,Lamprey Wild and Scenic River
+New Hampshire,1331848.0,43.6805,-71.5811,NH,New England National Scenic Trail,NEEN,New England National Scenic Trail
+New Hampshire,1331848.0,43.6805,-71.5811,NH,Saint-Gaudens National Historical Park,SAGA,Saint-Gaudens
+New Hampshire,1331848.0,43.6805,-71.5811,NH,Wildcat Brook National Wild and Scenic River ,WIBR,Wildcat Brook
+Nevada,2887725.0,39.3289,-116.6312,NV,California National Historic Trail ,CALI,California
+Nevada,2887725.0,39.3289,-116.6312,NV,Death Valley National Park,DEVA,Death Valley
+Nevada,2887725.0,39.3289,-116.6312,NV,Great Basin National Park,GRBA,Great Basin
+Nevada,2887725.0,39.3289,-116.6312,NV,Lake Mead National Recreation Area,LAKE,Lake Mead
+Nevada,2887725.0,39.3289,-116.6312,NV,Lake Mead National Recreation Area,LAME,Lake Mead
+Nevada,2887725.0,39.3289,-116.6312,NV,Mojave National Preserve,MOJA,Mojave
+Nevada,2887725.0,39.3289,-116.6312,NV,Old Spanish National Historic Trail ,OLSP,Old Spanish
+Nevada,2887725.0,39.3289,-116.6312,NV,Pony Express National Historic Trail ,POEX,Pony Express
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Appalachian National Scenic Trail,APPA,Appalachian
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Delaware National Scenic River,DELA,Delaware National Scenic River
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Delaware Water Gap National Recreation Area,DEWA,Delaware Water Gap
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Thomas Edison National Historical Park,EDIS,Thomas Edison
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Ellis Island National Monument,ELIS,Ellis Island
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Gateway National Recreation Area,GATE,Gateway
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Great Egg Harbor National Scenic and Recreational River,GREG,Great Egg Harbor National Scenic and Recreational River
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Independence National Historical Park,INDE,Independence
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Maurice National Wild And Scenic River,MAUR,Maurice
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Morristown National Historical Park,MORR,Morristown
+New Jersey,8960161.0,40.1907,-74.6728,NJ,New Jersey Coastal Heritage Trail Route ,NEJE,New Jersey Coastal Heritage Trail Route
+New Jersey,8960161.0,40.1907,-74.6728,NJ,National Parks of New York Harbor Management Unit ,NPNH,National Parks of New York Harbor Management Unit
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Pinelands National Reserve ,PINE,Pinelands National Reserve
+New Jersey,8960161.0,40.1907,-74.6728,NJ,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+New Mexico,2084828.0,34.4071,-106.1126,NM,Aztec Ruins National Monument,AZRU,Aztec Ruins
+New Mexico,2084828.0,34.4071,-106.1126,NM,Bandelier National Monument,BAND,Bandelier
+New Mexico,2084828.0,34.4071,-106.1126,NM,Carlsbad Caverns National Park,CAVE,Carlsbad Caverns
+New Mexico,2084828.0,34.4071,-106.1126,NM,Capulin Volcano National Monument,CAVO,Capulin Volcano
+New Mexico,2084828.0,34.4071,-106.1126,NM,Chaco Culture National Historical Park,CHCU,Chaco Culture
+New Mexico,2084828.0,34.4071,-106.1126,NM,El Camino Real de Tierra Adentro National Historic Trail ,ELCA,El Camino Real de Tierra Adentro
+New Mexico,2084828.0,34.4071,-106.1126,NM,El Malpais National Monument,ELMA,El Malpais
+New Mexico,2084828.0,34.4071,-106.1126,NM,El Morro National Monument,ELMO,El Morro
+New Mexico,2084828.0,34.4071,-106.1126,NM,Fort Union National Monument,FOUN,Fort Union
+New Mexico,2084828.0,34.4071,-106.1126,NM,Gila Cliff Dwellings National Monument,GICL,Gila Cliff Dwellings
+New Mexico,2084828.0,34.4071,-106.1126,NM,Glorieta National Battlefield,GLOR,Glorieta
+New Mexico,2084828.0,34.4071,-106.1126,NM,Manhattan Project National Historical Park,MAPR,Manhattan Project
+New Mexico,2084828.0,34.4071,-106.1126,NM,Mimbres Culture National Monument,MICU,Mimbres Culture
+New Mexico,2084828.0,34.4071,-106.1126,NM,Old Spanish National Historic Trail ,OLSP,Old Spanish
+New Mexico,2084828.0,34.4071,-106.1126,NM,Pecos National Historical Park,PECO,Pecos
+New Mexico,2084828.0,34.4071,-106.1126,NM,Petroglyph National Monument,PETR,Petroglyph
+New Mexico,2084828.0,34.4071,-106.1126,NM,Santa Fe National Historic Trail ,SAFE,Santa Fe
+New Mexico,2084828.0,34.4071,-106.1126,NM,Salinas Pueblo Missions National Monument,SAPU,Salinas Pueblo Missions
+New Mexico,2084828.0,34.4071,-106.1126,NM,Warm Springs Apache ,WASP,Warm Springs Apache
+New Mexico,2084828.0,34.4071,-106.1126,NM,White Sands National Park,WHSA,White Sands
+New Mexico,2084828.0,34.4071,-106.1126,NM,Zuni-Cibola National Historic Park ,ZUCI,Zuni-Cibola
+New York,19798228.0,42.9538,-75.5268,NY,African Burial Ground National Monument,AFBG,African Burial Ground
+New York,19798228.0,42.9538,-75.5268,NY,Appalachian National Scenic Trail,APPA,Appalachian
+New York,19798228.0,42.9538,-75.5268,NY,Castle Clinton National Monument,CACL,Castle Clinton
+New York,19798228.0,42.9538,-75.5268,NY,Ellis Island National Monument,ELIS,Ellis Island
+New York,19798228.0,42.9538,-75.5268,NY,Eleanor Roosevelt National Historic Site,ELRO,Eleanor Roosevelt
+New York,19798228.0,42.9538,-75.5268,NY,Erie Canalway National Heritage Corridor ,ERIE,Erie Canalway
+New York,19798228.0,42.9538,-75.5268,NY,Federal Hall National Memorial,FEHA,Federal Hall
+New York,19798228.0,42.9538,-75.5268,NY,Fire Island National Seashore,FIIS,Fire Island
+New York,19798228.0,42.9538,-75.5268,NY,Fort Stanwix National Monument,FOST,Fort Stanwix
+New York,19798228.0,42.9538,-75.5268,NY,Gateway National Recreation Area,GATE,Gateway
+New York,19798228.0,42.9538,-75.5268,NY,General Grant National Memorial,GEGR,General Grant
+New York,19798228.0,42.9538,-75.5268,NY,Governors Island National Monument,GOIS,Governors Island
+New York,19798228.0,42.9538,-75.5268,NY,Hamilton Grange National Memorial,HAGR,Hamilton Grange
+New York,19798228.0,42.9538,-75.5268,NY,Harriet Tubman National Historical Park,HART,Harriet Tubman
+New York,19798228.0,42.9538,-75.5268,NY,Home of Franklin D. Roosevelt National Historic Site,HOFR,Home of Franklin D. Roosevelt
+New York,19798228.0,42.9538,-75.5268,NY,Lower East Side Tenement Museum National Historic Site,LOEA,Lower East Side Tenement Museum
+New York,19798228.0,42.9538,-75.5268,NY,Manhattan Sites ,MASI,Manhattan Sites
+New York,19798228.0,42.9538,-75.5268,NY,Martin Van Buren National Historic Site,MAVA,Martin Van Buren
+New York,19798228.0,42.9538,-75.5268,NY,North Country National Scenic Trail,NOCO,North Country
+New York,19798228.0,42.9538,-75.5268,NY,National Parks of New York Harbor Management Unit ,NPNH,National Parks of New York Harbor Management Unit
+New York,19798228.0,42.9538,-75.5268,NY,Roosevelt-Vanderbilt Headquarters ,ROVA,Roosevelt-Vanderbilt Headquarters
+New York,19798228.0,42.9538,-75.5268,NY,Sagamore Hill National Historic Site,SAHI,Sagamore Hill
+New York,19798228.0,42.9538,-75.5268,NY,Saint Paul's Church National Historic Site,SAPA,Saint Paul's Church
+New York,19798228.0,42.9538,-75.5268,NY,Saratoga National Historical Park,SARA,Saratoga
+New York,19798228.0,42.9538,-75.5268,NY,Statue of Liberty National Monument,STLI,Statue of Liberty
+New York,19798228.0,42.9538,-75.5268,NY,Stonewall National Monument,STON,Stonewall
+New York,19798228.0,42.9538,-75.5268,NY,Thomas Cole National Historic Site ,THCO,Thomas Cole National Historic Site
+New York,19798228.0,42.9538,-75.5268,NY,Theodore Roosevelt Birthplace National Historic Site,THRB,Theodore Roosevelt Birthplace
+New York,19798228.0,42.9538,-75.5268,NY,Theodore Roosevelt Inaugural National Historic Site,THRI,Theodore Roosevelt Inaugural
+New York,19798228.0,42.9538,-75.5268,NY,Upper Delaware National Scenic and Recreation River,UPDE,Upper Delaware National Scenic and Recreation River
+New York,19798228.0,42.9538,-75.5268,NY,Vanderbilt Mansion National Historic Site,VAMA,Vanderbilt Mansion
+New York,19798228.0,42.9538,-75.5268,NY,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+New York,19798228.0,42.9538,-75.5268,NY,Women's Rights National Historical Park,WORI,Women's Rights
+North Carolina,10052564.0,35.5557,-79.3877,NC,Appalachian National Scenic Trail,APPA,Appalachian
+North Carolina,10052564.0,35.5557,-79.3877,NC,Blue Ridge Parkway,BLRI,Blue Ridge Parkway
+North Carolina,10052564.0,35.5557,-79.3877,NC,Cape Hatteras National Seashore,CAHA,Cape Hatteras
+North Carolina,10052564.0,35.5557,-79.3877,NC,Cape Lookout National Seashore,CALO,Cape Lookout
+North Carolina,10052564.0,35.5557,-79.3877,NC,Carl Sandburg Home National Historic Site,CARL,Carl Sandburg Home
+North Carolina,10052564.0,35.5557,-79.3877,NC,Fort Raleigh National Historic Site,FORA,Fort Raleigh
+North Carolina,10052564.0,35.5557,-79.3877,NC,Great Smoky Mountains National Park,GRSM,Great Smoky Mountains
+North Carolina,10052564.0,35.5557,-79.3877,NC,Guilford Courthouse National Military Park,GUCO,Guilford Courthouse
+North Carolina,10052564.0,35.5557,-79.3877,NC,Moores Creek National Battlefield,MOCR,Moores Creek
+North Carolina,10052564.0,35.5557,-79.3877,NC,Overmountain Victory National Historic Trail ,OVVI,Overmountain Victory
+North Carolina,10052564.0,35.5557,-79.3877,NC,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+North Carolina,10052564.0,35.5557,-79.3877,NC,Wright Brothers National Memorial,WRBR,Wright Brothers
+North Dakota,745475.0,47.4501,-100.4659,ND,Fort Union Trading Post National Historic Site,FOUS,Fort Union Trading Post
+North Dakota,745475.0,47.4501,-100.4659,ND,International Peace Garden ,INPE,International Peace Garden
+North Dakota,745475.0,47.4501,-100.4659,ND,Knife River Indian Villages National Historic Site,KNRI,Knife River Indian Villages
+North Dakota,745475.0,47.4501,-100.4659,ND,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+North Dakota,745475.0,47.4501,-100.4659,ND,North Country National Scenic Trail,NOCO,North Country
+North Dakota,745475.0,47.4501,-100.4659,ND,Theodore Roosevelt National Park,THRO,Theodore Roosevelt
+Ohio,11609756.0,40.2862,-82.7937,OH,Charles Young Buffalo Soldiers National Monument,CHYO,Charles Young Buffalo Soldiers
+Ohio,11609756.0,40.2862,-82.7937,OH,Cuyahoga Valley National Park,CUVA,Cuyahoga Valley
+Ohio,11609756.0,40.2862,-82.7937,OH,Dayton Aviation Heritage National Historical Park,DAAV,Dayton Aviation Heritage
+Ohio,11609756.0,40.2862,-82.7937,OH,David Berger National Memorial ,DABE,David Berger National Memorial
+Ohio,11609756.0,40.2862,-82.7937,OH,Fallen Timbers Battlefield ,FATI,Fallen Timbers Battlefield
+Ohio,11609756.0,40.2862,-82.7937,OH,First Ladies National Historic Site,FILA,First Ladies
+Ohio,11609756.0,40.2862,-82.7937,OH,Hopewell Culture National Historical Park,HOCU,Hopewell Culture
+Ohio,11609756.0,40.2862,-82.7937,OH,James A. Garfield National Historic Site,JAGA,James A. Garfield
+Ohio,11609756.0,40.2862,-82.7937,OH,North Country National Scenic Trail,NOCO,North Country
+Ohio,11609756.0,40.2862,-82.7937,OH,Perry's Victory and International Peace Memorial,PEVI,Perry's Victory and International Peace Memorial
+Ohio,11609756.0,40.2862,-82.7937,OH,Warren G Harding National Memorial,WAHA,Warren G Harding
+Ohio,11609756.0,40.2862,-82.7937,OH,William Howard Taft National Historic Site,WIHO,William Howard Taft
+Oklahoma,3896251.0,35.5889,-97.4943,OK,Chickasaw National Recreation Area,CHIC,Chickasaw
+Oklahoma,3896251.0,35.5889,-97.4943,OK,Fort Smith National Historic Site,FOSM,Fort Smith
+Oklahoma,3896251.0,35.5889,-97.4943,OK,Oklahoma City National Memorial ,OKCI,Oklahoma City National Memorial
+Oklahoma,3896251.0,35.5889,-97.4943,OK,Santa Fe National Historic Trail ,SAFE,Santa Fe
+Oklahoma,3896251.0,35.5889,-97.4943,OK,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Oklahoma,3896251.0,35.5889,-97.4943,OK,Washita Battlefield National Historic Site,WABA,Washita Battlefield
+Oregon,4025127.0,43.9336,-120.5583,OR,California National Historic Trail ,CALI,California
+Oregon,4025127.0,43.9336,-120.5583,OR,Crater Lake National Park,CRLA,Crater Lake
+Oregon,4025127.0,43.9336,-120.5583,OR,Fort Clatsop National Memorial,FOCL,Fort Clatsop
+Oregon,4025127.0,43.9336,-120.5583,OR,John Day Fossil Beds National Monument,JODA,John Day Fossil Beds
+Oregon,4025127.0,43.9336,-120.5583,OR,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+Oregon,4025127.0,43.9336,-120.5583,OR,Lewis and Clark National Historical Park,LEWI,Lewis and Clark
+Oregon,4025127.0,43.9336,-120.5583,OR,McLoughlin House National Historic Site ,MCHO,McLoughlin House National Historic Site
+Oregon,4025127.0,43.9336,-120.5583,OR,Nez Perce National Historical Park,NEPE,Nez Perce
+Oregon,4025127.0,43.9336,-120.5583,OR,Oregon Caves National Monument,ORCA,Oregon Caves
+Oregon,4025127.0,43.9336,-120.5583,OR,Oregon National Historic Trail ,OREG,Oregon
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Allegheny Portage Railroad National Historic Site,ALPO,Allegheny Portage Railroad
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Appalachian National Scenic Trail,APPA,Appalachian
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Benjamin Franklin National Memorial ,BEFR,Benjamin Franklin National Memorial
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Captain John Smith Chesapeake National Historic Trail,CAJO,Captain John Smith Chesapeake National Historic Trail
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Delaware National Scenic River,DELA,Delaware National Scenic River
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Delaware and Lehigh Navigation Canal National Heritage Corridor ,DELE,Delaware and Lehigh Navigation Canal National Heritage Corridor
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Delaware Water Gap National Recreation Area,DEWA,Delaware Water Gap
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Edgar Allan Poe National Historic Site,EDAL,Edgar Allan Poe
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Eisenhower National Historic Site,EISE,Eisenhower
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Flight 93 National Memorial,FLNI,Flight 93
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Fort Necessity National Battlefield,FONE,Fort Necessity
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Friendship Hill National Historic Site,FRHI,Friendship Hill
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Gettysburg National Cemetery,GETC,Gettysburg
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Gettysburg National Military Park,GETT,Gettysburg
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Gloria Dei (Old Swedes') Church National Historic Site ,GLDE,Gloria Dei (Old Swedes') Church National Historic Site
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Hopewell Furnace National Historic Site,HOFU,Hopewell Furnace
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Independence National Historical Park,INDE,Independence
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Johnstown Flood National Memorial,JOFL,Johnstown Flood
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,North Country National Scenic Trail,NOCO,North Country
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Potomac Heritage National Scenic Trail,POHE,Potomac Heritage
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Steamtown National Historic Site,STEA,Steamtown
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Thaddeus Kosciuszko National Memorial,THKO,Thaddeus Kosciuszko
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Upper Delaware National Scenic and Recreation River,UPDE,Upper Delaware National Scenic and Recreation River
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Valley Forge National Historical Park,VAFO,Valley Forge
+Pennsylvania,12790505.0,40.8781,-77.7996,PA,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+Rhode Island,1056138.0,41.6762,-71.5562,RI,Blackstone River Valley National Heritage Corridor ,BLAC,Blackstone River Valley National Heritage Corridor
+Rhode Island,1056138.0,41.6762,-71.5562,RI,Roger Williams National Memorial,ROWI,Roger Williams
+Rhode Island,1056138.0,41.6762,-71.5562,RI,Touro Synagogue National Historic Site ,TOSY,Touro Synagogue National Historic Site
+Rhode Island,1056138.0,41.6762,-71.5562,RI,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+South Carolina,4893444.0,33.9169,-80.8964,SC,Charles Pinckney National Historic Site,CHPI,Charles Pinckney
+South Carolina,4893444.0,33.9169,-80.8964,SC,Congaree National Park,CONG,Congaree
+South Carolina,4893444.0,33.9169,-80.8964,SC,Congaree National Park,COSW,Congaree
+South Carolina,4893444.0,33.9169,-80.8964,SC,Cowpens National Battlefield,COWP,Cowpens
+South Carolina,4893444.0,33.9169,-80.8964,SC,Fort Moultrie National Monument,FOMO,Fort Moultrie
+South Carolina,4893444.0,33.9169,-80.8964,SC,Fort Sumter National Monument,FOSU,Fort Sumter
+South Carolina,4893444.0,33.9169,-80.8964,SC,Historic Camden Revolutionary War Site ,HICA,Historic Camden Revolutionary War Site
+South Carolina,4893444.0,33.9169,-80.8964,SC,Kings Mountain National Military Park,KIMO,Kings Mountain
+South Carolina,4893444.0,33.9169,-80.8964,SC,Ninety Six National Historic Site,NISI,Ninety Six
+South Carolina,4893444.0,33.9169,-80.8964,SC,Overmountain Victory National Historic Trail ,OVVI,Overmountain Victory
+South Carolina,4893444.0,33.9169,-80.8964,SC,Reconstruction Era National Historical Park,REER,Reconstruction Era
+South Dakota,855444.0,44.4443,-100.2263,SD,Badlands National Park,BADL,Badlands
+South Dakota,855444.0,44.4443,-100.2263,SD,Jewel Cave National Monument,JECA,Jewel Cave
+South Dakota,855444.0,44.4443,-100.2263,SD,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+South Dakota,855444.0,44.4443,-100.2263,SD,Minuteman Missile National Historic Site,MIMI,Minuteman Missile
+South Dakota,855444.0,44.4443,-100.2263,SD,Missouri National Recreational River,MNRR,Missouri National Recreational River
+South Dakota,855444.0,44.4443,-100.2263,SD,Mount Rushmore National Memorial,MORU,Mount Rushmore
+South Dakota,855444.0,44.4443,-100.2263,SD,Niobrara and Missouri National Scenic and Recreational Rivers ,NIMI,Niobrara and Missouri National Scenic and Recreational Rivers
+South Dakota,855444.0,44.4443,-100.2263,SD,Wind Cave National Park,WICA,Wind Cave
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Andrew Johnson National Historic Site,ANJO,Andrew Johnson
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Appalachian National Scenic Trail,APPA,Appalachian
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Big South Fork National River and Recreation Area,BISO,Big South Fork National River and Recreation Area
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Chickamauga and Chattanooga National Military Park,CHCH,Chickamauga and Chattanooga
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Cumberland Gap National Historical Park,CUGA,Cumberland Gap
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Fort Donelson National Cemetery,FDNC,Fort Donelson
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Fort Donelson National Battlefield,FODO,Fort Donelson
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Great Smoky Mountains National Park,GRSM,Great Smoky Mountains
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Manhattan Project National Historical Park,MAPR,Manhattan Project
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Natchez Trace Parkway,NATR,Natchez Trace Parkway
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Natchez Trace National Scenic Trail,NATT,Natchez Trace
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Obed Wild and Scenic River,OBRI,Obed Wild and Scenic River
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Overmountain Victory National Historic Trail ,OVVI,Overmountain Victory
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Shiloh National Military Park,SHIL,Shiloh
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Shiloh National Cemetery,SHNC,Shiloh
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Stones River National Cemetery,SRNC,Stones River
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Stones River National Battlefield,STRI,Stones River
+Tennessee,6597381.0,35.858000000000004,-86.3505,TN,Trail of Tears National Historic Trail ,TRTE,Trail of Tears
+Texas,27419612.0,31.4757,-99.3312,TX,Alibates Flint Quarries National Monument,ALFL,Alibates Flint Quarries
+Texas,27419612.0,31.4757,-99.3312,TX,Amistad National Recreation Area,AMIS,Amistad
+Texas,27419612.0,31.4757,-99.3312,TX,Big Bend National Park,BIBE,Big Bend
+Texas,27419612.0,31.4757,-99.3312,TX,Big Thicket National Preserve,BITH,Big Thicket
+Texas,27419612.0,31.4757,-99.3312,TX,Chamizal National Memorial,CHAM,Chamizal
+Texas,27419612.0,31.4757,-99.3312,TX,El Camino Real de Tierra Adentro National Historic Trail ,ELCA,El Camino Real de Tierra Adentro
+Texas,27419612.0,31.4757,-99.3312,TX,El Camino Real de los Tejas National Historic Trail ,ELTE,El Camino Real de los Tejas
+Texas,27419612.0,31.4757,-99.3312,TX,Fort Davis National Historic Site,FODA,Fort Davis
+Texas,27419612.0,31.4757,-99.3312,TX,Guadalupe Mountains National Park,GUMO,Guadalupe Mountains
+Texas,27419612.0,31.4757,-99.3312,TX,Lake Meredith National Recreation Area,LAMR,Lake Meredith
+Texas,27419612.0,31.4757,-99.3312,TX,Lyndon B. Johnson National Historical Park,LYJO,Lyndon B. Johnson
+Texas,27419612.0,31.4757,-99.3312,TX,Palo Alto Battlefield National Historical Park,PAAL,Palo Alto Battlefield
+Texas,27419612.0,31.4757,-99.3312,TX,Padre Island National Seashore,PAIS,Padre Island
+Texas,27419612.0,31.4757,-99.3312,TX,Rio Grande Wild and Scenic River,RIGR,Rio Grande Wild and Scenic River
+Texas,27419612.0,31.4757,-99.3312,TX,San Antonio Missions National Historical Park,SAAN,San Antonio Missions
+Texas,27419612.0,31.4757,-99.3312,TX,Waco Mammoth National Monument,WACO,Waco Mammoth
+Utah,2993941.0,39.3055,-111.6703,UT,Arches National Park,ARCH,Arches
+Utah,2993941.0,39.3055,-111.6703,UT,Bryce Canyon National Park,BRCA,Bryce Canyon
+Utah,2993941.0,39.3055,-111.6703,UT,California National Historic Trail ,CALI,California
+Utah,2993941.0,39.3055,-111.6703,UT,Canyonlands National Park,CANY,Canyonlands
+Utah,2993941.0,39.3055,-111.6703,UT,Capitol Reef National Park,CARE,Capitol Reef
+Utah,2993941.0,39.3055,-111.6703,UT,Cedar Breaks National Monument,CEBR,Cedar Breaks
+Utah,2993941.0,39.3055,-111.6703,UT,Dinosaur National Monument,DINO,Dinosaur
+Utah,2993941.0,39.3055,-111.6703,UT,Glen Canyon National Recreation Area,GLCA,Glen Canyon
+Utah,2993941.0,39.3055,-111.6703,UT,Golden Spike National Historical Park,GOSP,Golden Spike
+Utah,2993941.0,39.3055,-111.6703,UT,Hovenweep National Monument,HOVE,Hovenweep
+Utah,2993941.0,39.3055,-111.6703,UT,Mormon Pioneer National Historic Trail ,MOPI,Mormon Pioneer
+Utah,2993941.0,39.3055,-111.6703,UT,Natural Bridges National Monument,NABR,Natural Bridges
+Utah,2993941.0,39.3055,-111.6703,UT,Old Spanish National Historic Trail ,OLSP,Old Spanish
+Utah,2993941.0,39.3055,-111.6703,UT,Pony Express National Historic Trail ,POEX,Pony Express
+Utah,2993941.0,39.3055,-111.6703,UT,Rainbow Bridge National Monument,RABR,Rainbow Bridge
+Utah,2993941.0,39.3055,-111.6703,UT,Timpanogos Cave National Monument,TICA,Timpanogos Cave
+Utah,2993941.0,39.3055,-111.6703,UT,Zion National Park,ZION,Zion
+Vermont,624636.0,44.0687,-72.6658,VT,Appalachian National Scenic Trail,APPA,Appalachian
+Vermont,624636.0,44.0687,-72.6658,VT,Marsh-Billings-Rockefeller National Historical Park,MABI,Marsh-Billings-Rockefeller
+Vermont,624636.0,44.0687,-72.6658,VT,North Country National Scenic Trail,NOCO,North Country
+Virginia,8365952.0,37.5215,-78.8537,VA,Appomattox Court House National Historical Park,APCO,Appomattox Court House
+Virginia,8365952.0,37.5215,-78.8537,VA,Appalachian National Scenic Trail,APPA,Appalachian
+Virginia,8365952.0,37.5215,-78.8537,VA,"Arlington House, The Robert E. Lee Memorial",ARHO,"Arlington House, The Robert E. Lee Memorial"
+Virginia,8365952.0,37.5215,-78.8537,VA,Assateague Island National Seashore,ASIS,Assateague Island
+Virginia,8365952.0,37.5215,-78.8537,VA,Blue Ridge Parkway,BLRI,Blue Ridge Parkway
+Virginia,8365952.0,37.5215,-78.8537,VA,Booker T. Washington National Monument,BOWA,Booker T. Washington
+Virginia,8365952.0,37.5215,-78.8537,VA,Captain John Smith Chesapeake National Historic Trail,CAJO,Captain John Smith Chesapeake National Historic Trail
+Virginia,8365952.0,37.5215,-78.8537,VA,Cape Henry National Memorial,CAME,Cape Henry
+Virginia,8365952.0,37.5215,-78.8537,VA,Cedar Creek and Belle Grove National Historical Park,CEBE,Cedar Creek and Belle Grove
+Virginia,8365952.0,37.5215,-78.8537,VA,Chesapeake and Ohio Canal National Historical Park,CHOH,Chesapeake and Ohio Canal
+Virginia,8365952.0,37.5215,-78.8537,VA,Claude Moore Colonial Farm ,CLMO,Claude Moore Colonial Farm
+Virginia,8365952.0,37.5215,-78.8537,VA,Colonial National Historical Park,COLO,Colonial
+Virginia,8365952.0,37.5215,-78.8537,VA,Colonial Parkway,COLP,Colonial Parkway
+Virginia,8365952.0,37.5215,-78.8537,VA,Cumberland Gap National Historical Park,CUGA,Cumberland Gap
+Virginia,8365952.0,37.5215,-78.8537,VA,Fort Monroe National Monument,FOMR,Fort Monroe
+Virginia,8365952.0,37.5215,-78.8537,VA,Fredericksburg National Cemetery,FRED,Fredericksburg
+Virginia,8365952.0,37.5215,-78.8537,VA,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,FRSP,Fredericksburg and Spotsylvania County Battlefields Memorial 
+Virginia,8365952.0,37.5215,-78.8537,VA,George Washington Birthplace National Monument,GEWA,George Washington Birthplace
+Virginia,8365952.0,37.5215,-78.8537,VA,Great Falls Park ,GRFA,Great Falls Park
+Virginia,8365952.0,37.5215,-78.8537,VA,Green Springs National Historic Landmark District ,GRSP,Green Springs National Historic Landmark District
+Virginia,8365952.0,37.5215,-78.8537,VA,George Washington Memorial Parkway,GWMP,George Washington Memorial Parkway
+Virginia,8365952.0,37.5215,-78.8537,VA,Harpers Ferry National Historical Park,HAFE,Harpers Ferry
+Virginia,8365952.0,37.5215,-78.8537,VA,Jamestown National Historic Site ,JAME,Jamestown National Historic Site
+Virginia,8365952.0,37.5215,-78.8537,VA,Manassas National Battlefield Park,MANA,Manassas
+Virginia,8365952.0,37.5215,-78.8537,VA,Maggie L. Walker National Historic Site,MAWA,Maggie L. Walker
+Virginia,8365952.0,37.5215,-78.8537,VA,Overmountain Victory National Historic Trail ,OVVI,Overmountain Victory
+Virginia,8365952.0,37.5215,-78.8537,VA,Petersburg National Battlefield,PETE,Petersburg
+Virginia,8365952.0,37.5215,-78.8537,VA,Poplar Grove National Cemetery ,POGR,Poplar Grove
+Virginia,8365952.0,37.5215,-78.8537,VA,Potomac Heritage National Scenic Trail,POHE,Potomac Heritage
+Virginia,8365952.0,37.5215,-78.8537,VA,Prince William Forest Park,PRWI,Prince William Forest
+Virginia,8365952.0,37.5215,-78.8537,VA,Richmond National Battlefield Park,RICH,Richmond
+Virginia,8365952.0,37.5215,-78.8537,VA,Shenandoah National Park,SHEN,Shenandoah
+Virginia,8365952.0,37.5215,-78.8537,VA,Star-Spangled Banner National Historic Trail,STSP,Star-Spangled Banner National Historic Trail
+Virginia,8365952.0,37.5215,-78.8537,VA,Washington-Rochambeau Revolutionary Route National Historic Trail,WARO,Washington-Rochambeau Revolutionary Route National Historic Trail
+Virginia,8365952.0,37.5215,-78.8537,VA,Wolf Trap National Park for the Performing Arts ,WOTR,Wolf Trap National Park for the Performing Arts
+Virginia,8365952.0,37.5215,-78.8537,VA,Yorktown Battlefield ,YONB,Yorktown Battlefield
+Virginia,8365952.0,37.5215,-78.8537,VA,Yorktown National Cemetery,YORK,Yorktown
+West Virginia,1836843.0,38.6409,-80.6227,WV,Appalachian National Scenic Trail,APPA,Appalachian
+West Virginia,1836843.0,38.6409,-80.6227,WV,Bluestone National Scenic River,BLUE,Bluestone National Scenic River
+West Virginia,1836843.0,38.6409,-80.6227,WV,Chesapeake and Ohio Canal National Historical Park,CHOH,Chesapeake and Ohio Canal
+West Virginia,1836843.0,38.6409,-80.6227,WV,Gauley River National Recreation Area,GARI,Gauley River
+West Virginia,1836843.0,38.6409,-80.6227,WV,Harpers Ferry National Historical Park,HAFE,Harpers Ferry
+West Virginia,1836843.0,38.6409,-80.6227,WV,New River Gorge National River,NERI,New River Gorge
+West Virginia,1836843.0,38.6409,-80.6227,WV,Potomac Heritage National Scenic Trail,POHE,Potomac Heritage
+Washington,7169967.0,47.3826,-120.4472,WA,Ebey's Landing National Historical Reserve,EBLA,Ebey's Landing
+Washington,7169967.0,47.3826,-120.4472,WA,Fort Vancouver National Historic Site,FOVA,Fort Vancouver
+Washington,7169967.0,47.3826,-120.4472,WA,Klondike Gold Rush - Seattle Unit National Historical Park,KLSE,Klondike Gold Rush - Seattle Unit
+Washington,7169967.0,47.3826,-120.4472,WA,Lake Chelan National Recreation Area,LACH,Lake Chelan
+Washington,7169967.0,47.3826,-120.4472,WA,Lake Roosevelt National Recreation Area,LARO,Lake Roosevelt
+Washington,7169967.0,47.3826,-120.4472,WA,Lewis and Clark National Historic Trail ,LECL,Lewis and Clark National Historic Trail
+Washington,7169967.0,47.3826,-120.4472,WA,Lewis and Clark National Historical Park,LEWI,Lewis and Clark
+Washington,7169967.0,47.3826,-120.4472,WA,Manhattan Project National Historical Park,MAPR,Manhattan Project
+Washington,7169967.0,47.3826,-120.4472,WA,Mount Rainier National Park,MORA,Mount Rainier
+Washington,7169967.0,47.3826,-120.4472,WA,North Cascades National Park Service Complex ,NCCO,North Cascades National Park Service Complex
+Washington,7169967.0,47.3826,-120.4472,WA,Nez Perce National Historical Park,NEPE,Nez Perce
+Washington,7169967.0,47.3826,-120.4472,WA,North Cascades National Park,NOCA,North Cascades
+Washington,7169967.0,47.3826,-120.4472,WA,Olympic National Park,OLYM,Olympic
+Washington,7169967.0,47.3826,-120.4472,WA,Oregon National Historic Trail ,OREG,Oregon
+Washington,7169967.0,47.3826,-120.4472,WA,Ross Lake National Recreation Area,ROLA,Ross Lake
+Washington,7169967.0,47.3826,-120.4472,WA,San Juan Island National Historical Park,SAJH,San Juan Island
+Washington,7169967.0,47.3826,-120.4472,WA,Whitman Mission National Historic Site,WHMI,Whitman Mission
+Wyoming,583200.0,42.9957,-107.5512,WY,Bighorn Canyon National Recreation Area,BICA,Bighorn Canyon
+Wyoming,583200.0,42.9957,-107.5512,WY,California National Historic Trail ,CALI,California
+Wyoming,583200.0,42.9957,-107.5512,WY,Devils Tower National Monument,DETO,Devils Tower
+Wyoming,583200.0,42.9957,-107.5512,WY,Fossil Butte National Monument,FOBU,Fossil Butte
+Wyoming,583200.0,42.9957,-107.5512,WY,Fort Laramie National Historic Site,FOLA,Fort Laramie
+Wyoming,583200.0,42.9957,-107.5512,WY,Grand Teton National Park,GRTE,Grand Teton
+Wyoming,583200.0,42.9957,-107.5512,WY,John D. Rockefeller Jr. Memorial Parkway,JODR,John D. Rockefeller Jr. Memorial Parkway
+Wyoming,583200.0,42.9957,-107.5512,WY,Mormon Pioneer National Historic Trail ,MOPI,Mormon Pioneer
+Wyoming,583200.0,42.9957,-107.5512,WY,Oregon National Historic Trail ,OREG,Oregon
+Wyoming,583200.0,42.9957,-107.5512,WY,Pony Express National Historic Trail ,POEX,Pony Express
+Wyoming,583200.0,42.9957,-107.5512,WY,Yellowstone National Park,YELL,Yellowstone
+Wisconsin,5763217.0,44.6243,-89.9941,WI,Apostle Islands National Lakeshore,APIS,Apostle Islands
+Wisconsin,5763217.0,44.6243,-89.9941,WI,Ice Age National Scenic Trail ,IATR,Ice Age National Scenic Trail
+Wisconsin,5763217.0,44.6243,-89.9941,WI,Ice Age National Scientific Reserve ,ICAG,Ice Age National Scientific Reserve
+Wisconsin,5763217.0,44.6243,-89.9941,WI,Lower Saint Croix National Scenic Riverway,LOSA,Lower Saint Croix
+Wisconsin,5763217.0,44.6243,-89.9941,WI,North Country National Scenic Trail,NOCO,North Country
+Wisconsin,5763217.0,44.6243,-89.9941,WI,Saint Croix National Scenic River,SACN,Saint Croix National Scenic River
