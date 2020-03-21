@@ -1,0 +1,589 @@
+,ParkCode,Month,Visitors,State,Full Name,Lat,Lon
+0,fous,1,34,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+1,fous,2,34,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+2,fous,3,196,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+3,fous,4,385,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+4,fous,5,2169,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+5,fous,6,3656,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+6,fous,7,2517,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+7,fous,8,1902,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+8,fous,9,1351,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+9,fous,10,462,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+10,fous,11,162,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+11,fous,12,99,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+12,knri,1,18,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+13,knri,2,24,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+14,knri,3,106,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+15,knri,4,256,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+16,knri,5,1312,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+17,knri,6,1998,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+18,knri,7,3030,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+19,knri,8,1853,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+20,knri,9,1196,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+21,knri,10,364,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+22,knri,11,141,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+23,knri,12,56,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+24,thro,1,2515,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+25,thro,2,1187,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+26,thro,3,5935,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+27,thro,4,10516,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+28,thro,5,75682,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+29,thro,6,134590,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+30,thro,7,149425,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+31,thro,8,135584,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+32,thro,9,110576,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+33,thro,10,46043,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+34,thro,11,17086,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+35,thro,12,2519,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+36,badl,1,8981,SD,Badlands National Park,43.68584846,-102.482942
+37,badl,2,8059,SD,Badlands National Park,43.68584846,-102.482942
+38,badl,3,16517,SD,Badlands National Park,43.68584846,-102.482942
+39,badl,4,25083,SD,Badlands National Park,43.68584846,-102.482942
+40,badl,5,71885,SD,Badlands National Park,43.68584846,-102.482942
+41,badl,6,201516,SD,Badlands National Park,43.68584846,-102.482942
+42,badl,7,250898,SD,Badlands National Park,43.68584846,-102.482942
+43,badl,8,207743,SD,Badlands National Park,43.68584846,-102.482942
+44,badl,9,118262,SD,Badlands National Park,43.68584846,-102.482942
+45,badl,10,37727,SD,Badlands National Park,43.68584846,-102.482942
+46,badl,11,15450,SD,Badlands National Park,43.68584846,-102.482942
+47,badl,12,8877,SD,Badlands National Park,43.68584846,-102.482942
+48,jeca,1,12,SD,Jewel Cave National Monument,43.73102945,-103.829994
+49,jeca,2,143,SD,Jewel Cave National Monument,43.73102945,-103.829994
+50,jeca,3,2057,SD,Jewel Cave National Monument,43.73102945,-103.829994
+51,jeca,4,2811,SD,Jewel Cave National Monument,43.73102945,-103.829994
+52,jeca,5,8674,SD,Jewel Cave National Monument,43.73102945,-103.829994
+53,jeca,6,29473,SD,Jewel Cave National Monument,43.73102945,-103.829994
+54,jeca,7,47830,SD,Jewel Cave National Monument,43.73102945,-103.829994
+55,jeca,8,18656,SD,Jewel Cave National Monument,43.73102945,-103.829994
+56,jeca,9,10057,SD,Jewel Cave National Monument,43.73102945,-103.829994
+57,jeca,10,2845,SD,Jewel Cave National Monument,43.73102945,-103.829994
+58,jeca,11,832,SD,Jewel Cave National Monument,43.73102945,-103.829994
+59,jeca,12,99,SD,Jewel Cave National Monument,43.73102945,-103.829994
+60,mimi,1,32,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+61,mimi,2,299,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+62,mimi,3,1062,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+63,mimi,4,3084,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+64,mimi,5,8182,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+65,mimi,6,18422,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+66,mimi,7,36912,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+67,mimi,8,25404,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+68,mimi,9,21657,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+69,mimi,10,8992,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+70,mimi,11,974,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+71,mimi,12,756,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+72,mnrr,1,3772,SD,Missouri National Recreational River,42.7882189,-97.59077822
+73,mnrr,2,4269,SD,Missouri National Recreational River,42.7882189,-97.59077822
+74,mnrr,3,5276,SD,Missouri National Recreational River,42.7882189,-97.59077822
+75,mnrr,4,11933,SD,Missouri National Recreational River,42.7882189,-97.59077822
+76,mnrr,5,10764,SD,Missouri National Recreational River,42.7882189,-97.59077822
+77,mnrr,6,13746,SD,Missouri National Recreational River,42.7882189,-97.59077822
+78,mnrr,7,12084,SD,Missouri National Recreational River,42.7882189,-97.59077822
+79,mnrr,8,12303,SD,Missouri National Recreational River,42.7882189,-97.59077822
+80,mnrr,9,29816,SD,Missouri National Recreational River,42.7882189,-97.59077822
+81,mnrr,10,11367,SD,Missouri National Recreational River,42.7882189,-97.59077822
+82,mnrr,11,7608,SD,Missouri National Recreational River,42.7882189,-97.59077822
+83,mnrr,12,6342,SD,Missouri National Recreational River,42.7882189,-97.59077822
+84,moru,1,19351,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+85,moru,2,17547,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+86,moru,3,34485,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+87,moru,4,46477,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+88,moru,5,146918,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+89,moru,6,379108,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+90,moru,7,522324,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+91,moru,8,414171,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+92,moru,9,265281,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+93,moru,10,77952,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+94,moru,11,22084,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+95,moru,12,17842,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+96,wica,1,11431,SD,Wind Cave National Park,43.58012365,-103.4394709
+97,wica,2,14127,SD,Wind Cave National Park,43.58012365,-103.4394709
+98,wica,3,21375,SD,Wind Cave National Park,43.58012365,-103.4394709
+99,wica,4,54922,SD,Wind Cave National Park,43.58012365,-103.4394709
+100,wica,5,48780,SD,Wind Cave National Park,43.58012365,-103.4394709
+101,wica,6,125106,SD,Wind Cave National Park,43.58012365,-103.4394709
+102,wica,7,146531,SD,Wind Cave National Park,43.58012365,-103.4394709
+103,wica,8,92237,SD,Wind Cave National Park,43.58012365,-103.4394709
+104,wica,9,55196,SD,Wind Cave National Park,43.58012365,-103.4394709
+105,wica,10,23537,SD,Wind Cave National Park,43.58012365,-103.4394709
+106,wica,11,10950,SD,Wind Cave National Park,43.58012365,-103.4394709
+107,wica,12,11158,SD,Wind Cave National Park,43.58012365,-103.4394709
+108,agfo,1,0,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+109,agfo,2,94,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+110,agfo,3,401,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+111,agfo,4,391,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+112,agfo,5,2188,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+113,agfo,6,3276,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+114,agfo,7,4222,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+115,agfo,8,2775,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+116,agfo,9,2227,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+117,agfo,10,780,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+118,agfo,11,253,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+119,agfo,12,50,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+120,home,1,406,NE,Homestead National Monument of America,40.28802381,-96.83387781
+121,home,2,2188,NE,Homestead National Monument of America,40.28802381,-96.83387781
+122,home,3,2497,NE,Homestead National Monument of America,40.28802381,-96.83387781
+123,home,4,4885,NE,Homestead National Monument of America,40.28802381,-96.83387781
+124,home,5,9646,NE,Homestead National Monument of America,40.28802381,-96.83387781
+125,home,6,10080,NE,Homestead National Monument of America,40.28802381,-96.83387781
+126,home,7,7533,NE,Homestead National Monument of America,40.28802381,-96.83387781
+127,home,8,5874,NE,Homestead National Monument of America,40.28802381,-96.83387781
+128,home,9,6595,NE,Homestead National Monument of America,40.28802381,-96.83387781
+129,home,10,6998,NE,Homestead National Monument of America,40.28802381,-96.83387781
+130,home,11,2604,NE,Homestead National Monument of America,40.28802381,-96.83387781
+131,home,12,2330,NE,Homestead National Monument of America,40.28802381,-96.83387781
+132,niob,1,790,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+133,niob,2,440,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+134,niob,3,1344,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+135,niob,4,1465,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+136,niob,5,5669,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+137,niob,6,9899,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+138,niob,7,18345,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+139,niob,8,13219,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+140,niob,9,6941,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+141,niob,10,1719,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+142,niob,11,622,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+143,niob,12,359,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+144,scbl,1,1868,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+145,scbl,2,1869,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+146,scbl,3,6421,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+147,scbl,4,8470,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+148,scbl,5,15616,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+149,scbl,6,26314,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+150,scbl,7,33926,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+151,scbl,8,28917,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+152,scbl,9,21467,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+153,scbl,10,11050,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+154,scbl,11,3912,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+155,scbl,12,6177,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+156,brvb,1,41,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+157,brvb,2,906,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+158,brvb,3,2158,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+159,brvb,4,1894,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+160,brvb,5,2889,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+161,brvb,6,2551,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+162,brvb,7,3183,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+163,brvb,8,1896,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+164,brvb,9,1397,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+165,brvb,10,1626,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+166,brvb,11,1950,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+167,brvb,12,922,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+168,fols,1,20,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+169,fols,2,620,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+170,fols,3,1174,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+171,fols,4,2182,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+172,fols,5,4450,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+173,fols,6,3345,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+174,fols,7,4173,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+175,fols,8,2928,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+176,fols,9,2158,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+177,fols,10,3292,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+178,fols,11,1478,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+179,fols,12,1138,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+180,fosc,1,135,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+181,fosc,2,574,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+182,fosc,3,1333,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+183,fosc,4,2800,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+184,fosc,5,3290,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+185,fosc,6,3087,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+186,fosc,7,2918,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+187,fosc,8,2198,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+188,fosc,9,2546,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+189,fosc,10,2242,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+190,fosc,11,1470,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+191,fosc,12,1475,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+192,nico,1,7,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+193,nico,2,42,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+194,nico,3,126,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+195,nico,4,189,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+196,nico,5,285,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+197,nico,6,677,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+198,nico,7,941,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+199,nico,8,434,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+200,nico,9,258,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+201,nico,10,369,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+202,nico,11,104,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+203,nico,12,108,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+204,tapr,1,245,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+205,tapr,2,379,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+206,tapr,3,1447,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+207,tapr,4,2455,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+208,tapr,5,3462,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+209,tapr,6,5677,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+210,tapr,7,4822,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+211,tapr,8,3820,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+212,tapr,9,4254,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+213,tapr,10,4225,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+214,tapr,11,2137,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+215,tapr,12,827,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+216,jeff,1,18962,MO,Gateway Arch National Park,38.6258069,-90.1892508
+217,jeff,2,51416,MO,Gateway Arch National Park,38.6258069,-90.1892508
+218,jeff,3,164238,MO,Gateway Arch National Park,38.6258069,-90.1892508
+219,jeff,4,138309,MO,Gateway Arch National Park,38.6258069,-90.1892508
+220,jeff,5,165964,MO,Gateway Arch National Park,38.6258069,-90.1892508
+221,jeff,6,296149,MO,Gateway Arch National Park,38.6258069,-90.1892508
+222,jeff,7,583866,MO,Gateway Arch National Park,38.6258069,-90.1892508
+223,jeff,8,208999,MO,Gateway Arch National Park,38.6258069,-90.1892508
+224,jeff,9,127764,MO,Gateway Arch National Park,38.6258069,-90.1892508
+225,jeff,10,122770,MO,Gateway Arch National Park,38.6258069,-90.1892508
+226,jeff,11,91836,MO,Gateway Arch National Park,38.6258069,-90.1892508
+227,jeff,12,85036,MO,Gateway Arch National Park,38.6258069,-90.1892508
+228,gwca,1,123,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+229,gwca,2,2376,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+230,gwca,3,6697,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+231,gwca,4,7378,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+232,gwca,5,5035,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+233,gwca,6,3892,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+234,gwca,7,5032,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+235,gwca,8,3005,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+236,gwca,9,5492,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+237,gwca,10,5285,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+238,gwca,11,3620,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+239,gwca,12,1618,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+240,hstr,1,233,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+241,hstr,2,639,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+242,hstr,3,2349,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+243,hstr,4,2485,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+244,hstr,5,3316,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+245,hstr,6,4017,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+246,hstr,7,5063,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+247,hstr,8,3557,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+248,hstr,9,3142,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+249,hstr,10,3265,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+250,hstr,11,1788,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+251,hstr,12,892,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+252,ozar,1,17725,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+253,ozar,2,20350,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+254,ozar,3,47241,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+255,ozar,4,66417,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+256,ozar,5,93998,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+257,ozar,6,168258,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+258,ozar,7,266730,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+259,ozar,8,243155,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+260,ozar,9,132415,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+261,ozar,10,72543,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+262,ozar,11,63531,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+263,ozar,12,29126,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+264,ulsg,1,87,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+265,ulsg,2,1338,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+266,ulsg,3,2529,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+267,ulsg,4,3238,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+268,ulsg,5,5491,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+269,ulsg,6,5418,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+270,ulsg,7,5886,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+271,ulsg,8,4872,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+272,ulsg,9,3184,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+273,ulsg,10,3277,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+274,ulsg,11,2350,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+275,ulsg,12,1779,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+276,wicr,1,7964,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+277,wicr,2,6743,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+278,wicr,3,11996,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+279,wicr,4,18162,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+280,wicr,5,19988,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+281,wicr,6,23302,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+282,wicr,7,25600,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+283,wicr,8,47190,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+284,wicr,9,27678,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+285,wicr,10,26524,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+286,wicr,11,7297,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+287,wicr,12,10394,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+288,efmo,1,1714,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+289,efmo,2,2550,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+290,efmo,3,3142,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+291,efmo,4,2034,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+292,efmo,5,5723,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+293,efmo,6,9144,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+294,efmo,7,11405,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+295,efmo,8,10110,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+296,efmo,9,6512,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+297,efmo,10,9325,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+298,efmo,11,1856,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+299,efmo,12,2066,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+300,heho,1,1088,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+301,heho,2,2483,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+302,heho,3,13869,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+303,heho,4,7318,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+304,heho,5,12954,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+305,heho,6,13943,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+306,heho,7,17001,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+307,heho,8,20359,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+308,heho,9,11425,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+309,heho,10,10407,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+310,heho,11,7289,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+311,heho,12,7552,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+312,grpo,1,45,MN,Grand Portage National Monument,47.99294217,-89.75573031
+313,grpo,2,1178,MN,Grand Portage National Monument,47.99294217,-89.75573031
+314,grpo,3,1951,MN,Grand Portage National Monument,47.99294217,-89.75573031
+315,grpo,4,1680,MN,Grand Portage National Monument,47.99294217,-89.75573031
+316,grpo,5,5619,MN,Grand Portage National Monument,47.99294217,-89.75573031
+317,grpo,6,14226,MN,Grand Portage National Monument,47.99294217,-89.75573031
+318,grpo,7,21929,MN,Grand Portage National Monument,47.99294217,-89.75573031
+319,grpo,8,28561,MN,Grand Portage National Monument,47.99294217,-89.75573031
+320,grpo,9,10659,MN,Grand Portage National Monument,47.99294217,-89.75573031
+321,grpo,10,6480,MN,Grand Portage National Monument,47.99294217,-89.75573031
+322,grpo,11,1389,MN,Grand Portage National Monument,47.99294217,-89.75573031
+323,grpo,12,1268,MN,Grand Portage National Monument,47.99294217,-89.75573031
+324,miss,1,14748,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+325,miss,2,23989,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+326,miss,3,28378,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+327,miss,4,24273,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+328,miss,5,44731,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+329,miss,6,39590,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+330,miss,7,50597,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+331,miss,8,44205,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+332,miss,9,32300,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+333,miss,10,22234,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+334,miss,11,26417,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+335,miss,12,23220,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+336,pipe,1,2,MN,Pipestone National Monument,44.01351958,-96.32475523
+337,pipe,2,250,MN,Pipestone National Monument,44.01351958,-96.32475523
+338,pipe,3,1178,MN,Pipestone National Monument,44.01351958,-96.32475523
+339,pipe,4,2458,MN,Pipestone National Monument,44.01351958,-96.32475523
+340,pipe,5,10072,MN,Pipestone National Monument,44.01351958,-96.32475523
+341,pipe,6,13185,MN,Pipestone National Monument,44.01351958,-96.32475523
+342,pipe,7,16752,MN,Pipestone National Monument,44.01351958,-96.32475523
+343,pipe,8,16235,MN,Pipestone National Monument,44.01351958,-96.32475523
+344,pipe,9,8928,MN,Pipestone National Monument,44.01351958,-96.32475523
+345,pipe,10,6250,MN,Pipestone National Monument,44.01351958,-96.32475523
+346,pipe,11,1448,MN,Pipestone National Monument,44.01351958,-96.32475523
+347,pipe,12,750,MN,Pipestone National Monument,44.01351958,-96.32475523
+348,voya,1,4458,MN,Voyageurs National Park,48.48370609,-92.8382913
+349,voya,2,7602,MN,Voyageurs National Park,48.48370609,-92.8382913
+350,voya,3,3214,MN,Voyageurs National Park,48.48370609,-92.8382913
+351,voya,4,213,MN,Voyageurs National Park,48.48370609,-92.8382913
+352,voya,5,28198,MN,Voyageurs National Park,48.48370609,-92.8382913
+353,voya,6,47387,MN,Voyageurs National Park,48.48370609,-92.8382913
+354,voya,7,52031,MN,Voyageurs National Park,48.48370609,-92.8382913
+355,voya,8,50586,MN,Voyageurs National Park,48.48370609,-92.8382913
+356,voya,9,25517,MN,Voyageurs National Park,48.48370609,-92.8382913
+357,voya,10,11047,MN,Voyageurs National Park,48.48370609,-92.8382913
+358,voya,11,2472,MN,Voyageurs National Park,48.48370609,-92.8382913
+359,voya,12,249,MN,Voyageurs National Park,48.48370609,-92.8382913
+360,apis,1,0,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+361,apis,2,4424,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+362,apis,3,4602,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+363,apis,4,4311,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+364,apis,5,14080,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+365,apis,6,31904,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+366,apis,7,67657,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+367,apis,8,64711,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+368,apis,9,30468,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+369,apis,10,14045,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+370,apis,11,2537,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+371,apis,12,1874,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+372,sacn,1,609,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+373,sacn,2,151,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+374,sacn,3,211,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+375,sacn,4,24746,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+376,sacn,5,84689,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+377,sacn,6,128517,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+378,sacn,7,159457,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+379,sacn,8,139884,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+380,sacn,9,81626,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+381,sacn,10,14345,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+382,sacn,11,3588,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+383,sacn,12,435,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+384,isro,1,4,MI,Isle Royale National Park,48.01145819,-88.82780657
+385,isro,2,37,MI,Isle Royale National Park,48.01145819,-88.82780657
+386,isro,3,55,MI,Isle Royale National Park,48.01145819,-88.82780657
+387,isro,4,61,MI,Isle Royale National Park,48.01145819,-88.82780657
+388,isro,5,1055,MI,Isle Royale National Park,48.01145819,-88.82780657
+389,isro,6,4837,MI,Isle Royale National Park,48.01145819,-88.82780657
+390,isro,7,7714,MI,Isle Royale National Park,48.01145819,-88.82780657
+391,isro,8,8798,MI,Isle Royale National Park,48.01145819,-88.82780657
+392,isro,9,3342,MI,Isle Royale National Park,48.01145819,-88.82780657
+393,isro,10,402,MI,Isle Royale National Park,48.01145819,-88.82780657
+394,isro,11,47,MI,Isle Royale National Park,48.01145819,-88.82780657
+395,isro,12,58,MI,Isle Royale National Park,48.01145819,-88.82780657
+396,kewe,1,0,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+397,kewe,2,365,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+398,kewe,3,513,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+399,kewe,4,458,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+400,kewe,5,2067,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+401,kewe,6,2214,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+402,kewe,7,4244,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+403,kewe,8,4399,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+404,kewe,9,3714,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+405,kewe,10,2050,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+406,kewe,11,153,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+407,kewe,12,358,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+408,piro,1,18635,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+409,piro,2,20092,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+410,piro,3,18510,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+411,piro,4,9860,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+412,piro,5,43944,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+413,piro,6,116857,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+414,piro,7,211480,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+415,piro,8,212635,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+416,piro,9,128718,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+417,piro,10,60334,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+418,piro,11,5637,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+419,piro,12,12013,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+420,rira,1,16693,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+421,rira,2,12619,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+422,rira,3,16607,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+423,rira,4,18343,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+424,rira,5,22929,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+425,rira,6,24148,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+426,rira,7,23827,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+427,rira,8,28671,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+428,rira,9,19473,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+429,rira,10,18170,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+430,rira,11,12428,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+431,rira,12,12446,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+432,slbe,1,10663,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+433,slbe,2,11830,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+434,slbe,3,23057,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+435,slbe,4,31584,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+436,slbe,5,73147,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+437,slbe,6,200494,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+438,slbe,7,499376,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+439,slbe,8,397417,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+440,slbe,9,187498,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+441,slbe,10,105630,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+442,slbe,11,16318,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+443,slbe,12,12987,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+444,liho,1,176,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+445,liho,2,4841,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+446,liho,3,12126,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+447,liho,4,24994,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+448,liho,5,36577,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+449,liho,6,24601,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+450,liho,7,29314,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+451,liho,8,22486,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+452,liho,9,14272,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+453,liho,10,16983,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+454,liho,11,7617,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+455,liho,12,3829,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+456,gero,1,633,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+457,gero,2,2404,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+458,gero,3,4104,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+459,gero,4,11845,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+460,gero,5,36257,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+461,gero,6,8702,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+462,gero,7,28453,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+463,gero,8,15558,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+464,gero,9,10039,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+465,gero,10,9856,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+466,gero,11,5608,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+467,gero,12,6671,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+468,indu,1,69916,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+469,indu,2,85702,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+470,indu,3,219070,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+471,indu,4,107862,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+472,indu,5,142403,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+473,indu,6,302203,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+474,indu,7,449968,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+475,indu,8,290469,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+476,indu,9,206226,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+477,indu,10,105984,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+478,indu,11,79674,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+479,indu,12,74808,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+480,libo,1,37,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+481,libo,2,1123,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+482,libo,3,2383,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+483,libo,4,4782,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+484,libo,5,11453,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+485,libo,6,28179,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+486,libo,7,60560,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+487,libo,8,7913,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+488,libo,9,18719,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+489,libo,10,1724,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+490,libo,11,1492,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+491,libo,12,349,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+492,chyo,1,122,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+493,chyo,2,815,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+494,chyo,3,1100,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+495,chyo,4,820,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+496,chyo,5,1460,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+497,chyo,6,1550,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+498,chyo,7,1379,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+499,chyo,8,2429,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+500,chyo,9,2745,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+501,chyo,10,378,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+502,chyo,11,766,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+503,chyo,12,542,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+504,cuva,1,88020,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+505,cuva,2,82061,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+506,cuva,3,126521,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+507,cuva,4,177318,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+508,cuva,5,225949,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+509,cuva,6,284079,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+510,cuva,7,284928,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+511,cuva,8,285616,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+512,cuva,9,226681,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+513,cuva,10,203708,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+514,cuva,11,142329,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+515,cuva,12,110787,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+516,daav,1,677,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+517,daav,2,2144,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+518,daav,3,4932,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+519,daav,4,9485,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+520,daav,5,13570,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+521,daav,6,10795,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+522,daav,7,11572,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+523,daav,8,7967,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+524,daav,9,8331,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+525,daav,10,7970,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+526,daav,11,5374,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+527,daav,12,11892,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+528,fila,1,110,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+529,fila,2,175,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+530,fila,3,257,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+531,fila,4,284,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+532,fila,5,1195,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+533,fila,6,1590,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+534,fila,7,1470,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+535,fila,8,1290,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+536,fila,9,970,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+537,fila,10,896,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+538,fila,11,908,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+539,fila,12,1768,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+540,hocu,1,1226,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+541,hocu,2,1627,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+542,hocu,3,3838,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+543,hocu,4,4062,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+544,hocu,5,6477,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+545,hocu,6,7976,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+546,hocu,7,8956,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+547,hocu,8,9816,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+548,hocu,9,6548,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+549,hocu,10,5581,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+550,hocu,11,2592,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+551,hocu,12,1639,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+552,jaga,1,50,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+553,jaga,2,2628,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+554,jaga,3,1902,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+555,jaga,4,4697,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+556,jaga,5,4701,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+557,jaga,6,5176,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+558,jaga,7,6910,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+559,jaga,8,4520,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+560,jaga,9,3495,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+561,jaga,10,3833,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+562,jaga,11,2073,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+563,jaga,12,1320,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+564,pevi,1,696,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+565,pevi,2,666,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+566,pevi,3,938,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+567,pevi,4,1374,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+568,pevi,5,9423,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+569,pevi,6,26722,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+570,pevi,7,25719,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+571,pevi,8,31540,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+572,pevi,9,16910,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+573,pevi,10,4789,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+574,pevi,11,1290,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+575,pevi,12,1258,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+576,wiho,1,86,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+577,wiho,2,1199,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+578,wiho,3,2148,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+579,wiho,4,2509,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+580,wiho,5,3420,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+581,wiho,6,4296,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+582,wiho,7,4919,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+583,wiho,8,3726,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+584,wiho,9,3205,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+585,wiho,10,2897,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+586,wiho,11,2018,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
+587,wiho,12,1973,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951

@@ -1,0 +1,50 @@
+,ParkCode,Month,Visitors,StateCode,Full Name,Lat,Lon
+0,fous,0,34,ND,Fort Union Trading Post National Historic Site,48.00075828,-104.0375238
+12,knri,0,18,ND,Knife River Indian Villages National Historic Site,47.3540219,-101.3860533
+24,thro,0,2515,ND,Theodore Roosevelt National Park,47.17777274,-103.4300083
+36,badl,0,8981,SD,Badlands National Park,43.68584846,-102.482942
+48,jeca,0,12,SD,Jewel Cave National Monument,43.73102945,-103.829994
+60,mimi,0,32,SD,Minuteman Missile National Historic Site,43.89558013,-102.0272131
+72,mnrr,0,3772,SD,Missouri National Recreational River,42.7882189,-97.59077822
+84,moru,0,19351,SD,Mount Rushmore National Memorial,43.88037021,-103.4525186
+96,wica,0,11431,SD,Wind Cave National Park,43.58012365,-103.4394709
+108,agfo,0,0,NE,Agate Fossil Beds National Monument,42.42170419,-103.753886
+120,home,0,406,NE,Homestead National Monument of America,40.28802381,-96.83387781
+132,niob,0,790,NE,Niobrara National Scenic River,42.79413083,-99.91870646
+144,scbl,0,1868,NE,Scotts Bluff National Monument,41.83464193,-103.7071351
+156,brvb,0,41,KS,Brown v. Board of Education National Historic Site,39.03787665,-95.67614437
+168,fols,0,20,KS,Fort Larned National Historic Site,38.18047491,-99.21836664
+180,fosc,0,135,KS,Fort Scott National Historic Site,37.84358849,-94.70429174
+192,nico,0,7,KS,Nicodemus National Historic Site,39.39167606,-99.61680329
+204,tapr,0,245,KS,Tallgrass Prairie National Preserve,38.44023613,-96.5670822
+216,jeff,0,18962,MO,Gateway Arch National Park,38.6258069,-90.1892508
+228,gwca,0,123,MO,George Washington Carver National Monument,36.9871322,-94.35522737
+240,hstr,0,233,MO,Harry S Truman National Historic Site,38.92711967,-94.5162488
+252,ozar,0,17725,MO,Ozark National Scenic Riverways,37.13968894,-91.25709817
+264,ulsg,0,87,MO,Ulysses S Grant National Historic Site,38.55182374,-90.35169255
+276,wicr,0,7964,MO,Wilson's Creek National Battlefield,37.1000127,-93.40986704
+288,efmo,0,1714,IA,Effigy Mounds National Monument,43.08095081,-91.19687517
+300,heho,0,1088,IA,Herbert Hoover National Historic Site,41.66793558,-91.35232139
+312,grpo,0,45,MN,Grand Portage National Monument,47.99294217,-89.75573031
+324,miss,0,14748,MN,Mississippi National River and Recreation Area,44.942487,-93.098712
+336,pipe,0,2,MN,Pipestone National Monument,44.01351958,-96.32475523
+348,voya,0,4458,MN,Voyageurs National Park,48.48370609,-92.8382913
+360,apis,0,0,WI,Apostle Islands National Lakeshore,46.96240467,-90.66045665
+372,sacn,0,609,WI,Saint Croix National Scenic Riverway,45.70019235,-92.36126685
+384,isro,0,4,MI,Isle Royale National Park,48.01145819,-88.82780657
+396,kewe,0,0,MI,Keweenaw National Historical Park,47.1792308,-88.52275344
+408,piro,0,18635,MI,Pictured Rocks National Lakeshore,46.56435642,-86.31628733
+420,rira,0,16693,MI,River Raisin National Battlefield Park,41.91291085,-83.37620464
+432,slbe,0,10663,MI,Sleeping Bear Dunes National Lakeshore,44.92844962,-86.02706591
+444,liho,0,176,IL,Lincoln Home National Historic Site,39.79715642,-89.64513397
+456,gero,0,633,IN,George Rogers Clark National Historical Park,38.67912659,-87.53545212
+468,indu,0,69916,IN,Indiana Dunes National Park,41.63765525,-87.09647445
+480,libo,0,37,IN,Lincoln Boyhood National Memorial,38.11817004,-86.99656861
+492,chyo,0,122,OH,Charles Young Buffalo Soldiers National Monument,39.70817829,-83.89328575
+504,cuva,0,88020,OH,Cuyahoga Valley National Park,41.26093905,-81.57116722
+516,daav,0,677,OH,Dayton Aviation Heritage National Historical Park,39.78944467,-84.10442045
+528,fila,0,110,OH,First Ladies National Historic Site,40.79689857,-81.37579869
+540,hocu,0,1226,OH,Hopewell Culture National Historical Park,39.31594374,-83.08049456
+552,jaga,0,50,OH,James A Garfield National Historic Site,41.66486549,-81.35086557
+564,pevi,0,696,OH,Perry's Victory & International Peace Memorial,41.65449782,-82.8115794
+576,wiho,0,86,OH,William Howard Taft National Historic Site,39.11970352,-84.50758951
