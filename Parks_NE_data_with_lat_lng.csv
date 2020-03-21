@@ -1,0 +1,108 @@
+Full Name,ParkCode,Lat,Lon,State
+CT,colt,Coltsville National Historical Park,42.4677505493164,-73.2036666870117
+CT,neen,New England National Scenic Trail,42.2915819136851,-72.5242767333984
+CT,wefa,Weir Farm National Historic Site,41.25886268,-73.45452542
+ME,acad,Acadia National Park,44.30777545,-68.30063316
+ME,kaww,Katahdin Woods and Waters National Monument,45.9567565917969,-68.712287902832
+ME,maac,Maine Acadian Culture,47.2831115723,-68.4110870361
+ME,roca,Roosevelt Campobello International Park,44.87357167,-66.96209908
+ME,sacr,Saint Croix Island International Historic Site,45.12858838,-67.13363651
+MA,adam,Adams National Historical Park,42.2553961,-71.01160356
+MA,blrv,Blackstone River Valley National Historical Park,42.0985434981132,-71.6462543418673
+MA,boaf,Boston African American National Historic Site,42.35908295,-71.06764181
+MA,boha,Boston Harbor Islands National Recreation Area,42.30905526,-70.93941138
+MA,bost,Boston National Historical Park,42.36957407,-71.05536763
+MA,caco,Cape Cod National Seashore,41.92381465,-70.04319832
+MA,esse,Essex National Heritage Area,42.6678314208984,-70.9571075439453
+MA,frla,Frederick Law Olmsted National Historic Site,42.32424266,-71.13202567
+MA,jofi,John Fitzgerald Kennedy National Historic Site,42.34693694,-71.12323846
+MA,blac,John H. Chafee Blackstone River Valley National Heritage Corridor,42.201158,-71.668818
+MA,long,Longfellow House Washington's Headquarters National Historic Site,42.37698854,-71.12636956
+MA,lowe,Lowell National Historical Park,42.6455371,-71.31588673
+MA,mima,Minute Man National Historical Park,42.4562778,-71.30738884
+MA,nebe,New Bedford Whaling National Historical Park,41.63540552,-70.92322321
+MA,neen,New England National Scenic Trail,42.2915819136851,-72.5242767333984
+MA,sama,Salem Maritime National Historic Site,42.52024529,-70.88640867
+MA,sair,Saugus Iron Works National Historic Site,42.46830664,-71.0076953
+MA,spar,Springfield Armory National Historic Site,42.1086368,-72.57967415
+Saint-Gaudens National Historical Park,saga,NH,43.4997238,-72.37333969
+NJ,elis,Ellis Island Part of Statue of Liberty National Monument,40.69946,-74.0401
+NJ,greg,Great Egg Harbor River,39.30421499,-74.64969521
+NJ,morr,Morristown National Historical Park,40.7650755,-74.53455122
+NJ,pine,New Jersey Pinelands National Reserve,39.93835287,-74.62499857
+NJ,pagr,Paterson Great Falls National Historical Park,40.91584645,-74.18021494
+NJ,edis,Thomas Edison National Historical Park,40.78549896,-74.23821139
+NY,afbg,African Burial Ground National Monument,40.71452681,-74.00447358
+NY,cacl,Castle Clinton National Monument,40.70347795,-74.01680558
+NY,elro,Eleanor Roosevelt National Historic Site,41.76208482,-73.89894026
+NY,elis,Ellis Island Part of Statue of Liberty National Monument,40.69946,-74.0401
+NY,erie,Erie Canalway National Heritage Corridor,43.0179443359375,-75.9960784912109
+NY,feha,Federal Hall National Memorial,40.70731192,-74.01025636
+NY,fiis,Fire Island National Seashore,40.69668638,-73.00013462
+NY,fost,Fort Stanwix National Monument,43.21053441,-75.45557626
+NY,gate,Gateway National Recreation Area,40.56536246,-73.9171087
+NY,gegr,General Grant National Memorial,40.81332817,-73.96331542
+NY,gois,Governors Island National Monument,40.69164233,-74.01670765
+NY,hagr,Hamilton Grange National Memorial,40.81871605,-73.94878487
+NY,hart,Harriet Tubman National Historical Park,42.9128920286894,-76.5646715462208
+NY,hofr,Home Of Franklin D Roosevelt National Historic Site,41.76639758,-73.92516857
+NY,hurv,Hudson River Valley National Heritage Area,42.0397300720215,-73.9580383300781
+NY,loea,Lower East Side Tenement Museum National Historic Site,40.71861134,-73.99001777
+NY,mava,Martin Van Buren National Historic Site,42.36819596,-73.70834257
+NY,npnh,National Parks of New York Harbor,40.6631915953388,-74.0451049804688
+NY,nifa,Niagara Falls National Heritage Area,43.084789276123,-79.0703277587891
+NY,sahi,Sagamore Hill National Historic Site,40.88579128,-73.49686438
+NY,sapa,Saint Paul's Church National Historic Site,40.89283511,-73.82577276
+NY,sara,Saratoga National Historical Park,42.99522612,-73.63386108
+NY,stli,Statue Of Liberty National Monument,40.69572149,-74.04232397
+NY,ston,Stonewall National Monument,40.7337799072266,-74.0006866455078
+NY,thrb,Theodore Roosevelt Birthplace National Historic Site,40.7386469,-73.98903703
+NY,thri,Theodore Roosevelt Inaugural National Historic Site,42.90146781,-78.87248411
+NY,thco,Thomas Cole National Historic Site,42.2257060702034,-73.8615486408817
+NY,vama,Vanderbilt Mansion National Historic Site,41.79697937,-73.94205557
+NY,wori,Women's Rights National Historical Park,42.90817073,-76.81655558
+PA,alpo,Allegheny Portage Railroad National Historic Site,40.42977467,-78.57431622
+PA,dele,Delaware & Lehigh National Heritage Corridor,40.6690786778927,-75.2365978807211
+PA,dewa,Delaware Water Gap National Recreation Area,41.12793491,-74.94751173
+PA,edal,Edgar Allan Poe National Historic Site,39.96195482,-75.1500062
+PA,eise,Eisenhower National Historic Site,39.79577592,-77.26508101
+PA,flni,Flight 93 National Memorial,40.06061476,-78.89456905
+PA,fone,Fort Necessity National Battlefield,39.81306048,-79.59033344
+PA,frhi,Friendship Hill National Historic Site,39.77543423,-79.92504169
+PA,gett,Gettysburg National Military Park,39.81557366,-77.23246758
+PA,glde,Gloria Dei Church National Historic Site,39.93435005,-75.14398924
+PA,hofu,Hopewell Furnace National Historic Site,40.20610637,-75.76766355
+PA,inde,Independence National Historical Park,39.94746112,-75.14794157
+PA,jofl,Johnstown Flood National Memorial,40.34584534,-78.77448601
+PA,oire,Oil Region National Heritage Area,41.4201164245605,-79.7526016235352
+PA,rist,Rivers Of Steel National Heritage Area,40.2995758056641,-79.8619613647461
+PA,stea,Steamtown National Historic Site,41.40757521,-75.67037255
+PA,thko,Thaddeus Kosciuszko National Memorial,39.94345312,-75.14732045
+PA,upde,Upper Delaware Scenic & Recreational River,41.66172578,-75.03861562
+PA,vafo,Valley Forge National Historical Park,40.10054985,-75.44581889
+RI,rowi,Roger Williams National Memorial,41.8298955,-71.41056665
+RI,tosy,Touro Synagogue National Historic Site,41.48928393,-71.31211638
+VT,chva,Champlain Valley National Heritage Partnership,43.9974594116211,-73.4811935424805
+VT,mabi,Marsh - Billings - Rockefeller National Historical Park,43.63348732,-72.53424638
+DE,frst,First State National Historical Park,39.83076929,-75.56353942
+MD,anti,Antietam National Battlefield,39.46763452,-77.73828017
+MD,asis,Assateague Island National Seashore,38.05593172,-75.24524611
+MD,balt,Baltimore National Heritage Area,39.2904968261719,-76.6284027099609
+MD,bawa,Baltimore-Washington Parkway,39.02604289,-76.85410921
+MD,cato,Catoctin Mountain Park,39.65068457,-77.46417665
+MD,choh,Chesapeake & Ohio Canal National Historical Park,39.3909816,-77.89763546
+MD,cbpo,Chesapeake Bay,38.971601,-76.483355
+MD,clba,Clara Barton National Historic Site,38.96762882,-77.14009689
+MD,fofo,Fort Foote Park,38.76901785,-77.02812387
+MD,fomc,Fort McHenry National Monument and Historic Shrine,39.26395314,-76.58044165
+MD,fowa,Fort Washington Park,38.70875364,-77.02174195
+MD,glec,Glen Echo Park,38.96912315,-77.14012206
+MD,gree,Greenbelt Park,38.98328267,-76.89722133
+MD,hamp,Hampton National Historic Site,39.4175296,-76.58781182
+MD,haha,Harmony Hall,38.74646351,-77.00377069
+MD,hatu,Harriet Tubman Underground Railroad National Historical Park,38.4548643510713,-76.1373451375579
+MD,mono,Monocacy National Battlefield,39.36084236,-77.39637677
+MD,oxhi,Oxon Cove  Park & Oxon Hill Farm,38.80578214,-77.01131457
+MD,pisc,Piscataway Park,38.68679958,-77.06659744
+MD,stsp,Star-Spangled Banner National Historic Trail,39.2872505188,-76.6034317017
+MD,thst,Thomas Stone National Historic Site,38.52934443,-77.037813
