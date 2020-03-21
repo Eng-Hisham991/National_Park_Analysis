@@ -1,1 +1,0 @@
-NOOA_TOKEN= 'uRcWDCuiDklKZDNQvOdBILplJzGJCkrG'
