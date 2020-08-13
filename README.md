@@ -16,6 +16,17 @@
   
   - Note: although we tested many more data sources including openweather and myfuelbuddy.
 
+## Tools/Packages Used:
+
+  - Pandas, Numpy.
+  
+  - OS, Time.
+  
+  - Requests.
+  
+  - Json.
+  
+  - Plotly. 
 
 ## Note:
 
@@ -23,9 +34,8 @@
 
 ## Result:
 
-  - All our code is documented and explained in project1_group2_AA.ipynb 
-  
-  
+  - All our code is documented and explained in project1_group2_AA.ipynb.
+  - PowerPoint presentation in Project 1_Group 2.pptx.
 
  Hisham (@Eng-Hisham991), Ann (@annmcnamara) and Abdullah (@Abdullah101298)
 
