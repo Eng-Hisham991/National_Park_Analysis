@@ -1,7 +1,7 @@
 # National Park Analysis
 <br> 
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_of_the_United_States_National_Park_Service.svg" width = 600 height= 400>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_of_the_United_States_National_Park_Service.svg" width = 600 height= 800>
 
 
 ## Introduction:
