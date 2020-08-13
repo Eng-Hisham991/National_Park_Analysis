@@ -2,7 +2,7 @@
 
 ## Introduction:
 
- - This project gathered and analysed data pertaining to factors that may influence National Parks.
+ - This project gathered and analysed data pertaining to factors that may influence National Parks visitation.
 
 ## Dataset was downloaded by using API from: 
 
