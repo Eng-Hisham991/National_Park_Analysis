@@ -1,24 +1,33 @@
 # National_Park_Analysis-
 
-## Team Members
-* Hisham
-* Abdullah
-* Ann
+## Introduction:
 
-This project gathered and analysed data pertaining to factors that may influence National Parks.
+ - This project gathered and analysed data pertaining to factors that may influence National Parks.
 
-We used data from a variety of APIs including
-* NPS
-* NPS STAT
-* Census Data
-* Dark Sky API
-* EIA data
-_(although we tested many more including openweather and myfuelbuddy)_
+## Dataset was downloaded by using API from: 
 
-Despite the layout of this repository we were _very organized_
+  - National Park Services (www.nps.gov).
+  
+  - Census Data (www.census,gov).                      
+ 
+  - Dark Sky (www.darksky.net).
+  
+  - Energy Information Administration data (www.eia.giv)
+  
+  - Note: although we tested many more data sources including openweather and myfuelbuddy.
 
-All our code is documented and explained in 
 
-* project1_group2_AA.ipynb 
+## Note:
+
+  - Despite the layout of this repository we were _very organized_
+
+## Result:
+
+  - All our code is documented and explained in project1_group2_AA.ipynb 
+  
+  
+
+ Hisham (@Eng-Hisham991), Ann (@annmcnamara) and Abdullah (@Abdullah101298)
+
 
 
